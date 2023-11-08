@@ -207,3 +207,97 @@
 [INFO ]2023-11-0807:20:02.906[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
 [INFO ]2023-11-0807:20:04.215[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
 [INFO ]2023-11-0807:20:05.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0807:38:49.893[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0807:38:50.890[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0807:38:51.269[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0807:38:52.119[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0807:38:53.118[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:22:10.693[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:22:11.892[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:22:12.379[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:22:13.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:22:17.556[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:22:19.085[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:28:57.112[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:28:57.128[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:29:23.137[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:29:23.153[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:33:26.576[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:33:27.510[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:33:28.062[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:33:29.050[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:33:30.143[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:44:13.082[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:44:14.314[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:44:14.879[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:44:15.854[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:44:16.965[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:46:13.669[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:46:14.726[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:46:15.299[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:46:19.296[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:46:26.779[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-0808:47:29.872[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:47:31.051[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:47:31.468[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:47:35.565[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:47:43.145[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-0808:48:57.738[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:48:58.816[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:48:59.349[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:49:03.686[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:49:11.276[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-0808:49:26.453[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:49:27.374[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:49:27.817[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:49:28.822[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:49:41.055[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:49:42.273[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:50:39.684[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:50:41.008[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:50:41.615[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:50:42.634[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:50:54.908[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:50:56.460[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:51:34.246[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:51:35.285[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:51:35.708[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:51:36.765[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:51:49.021[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:51:50.347[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:52:41.029[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:52:42.006[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:52:42.550[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:52:46.527[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:52:47.227[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:52:48.352[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:53:52.312[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:53:53.219[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:53:53.669[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:53:57.645[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:53:58.694[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:53:59.882[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:54:43.754[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:54:44.630[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:54:45.122[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:54:45.897[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:54:46.517[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:54:47.670[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:58:23.173[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:58:24.219[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:58:24.824[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:58:25.811[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:58:33.976[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-0808:58:35.385[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0808:59:19.123[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0808:59:20.141[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0808:59:20.697[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0808:59:21.557[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:59:22.165[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0808:59:23.152[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-0809:05:02.435[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-0809:05:03.372[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-0809:05:03.823[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-0809:05:04.616[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0809:05:05.292[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-0809:05:06.342[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED

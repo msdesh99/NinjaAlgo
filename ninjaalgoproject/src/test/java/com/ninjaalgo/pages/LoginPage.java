@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
 import com.ninjaalgo.utils.AllActions;
 
 public class LoginPage extends AllActions {
@@ -35,16 +36,19 @@ public class LoginPage extends AllActions {
 		ClickElement(signIn, driver);
 	}
 	public void SetLoginCred(String[] loginCred) {
-		//System.out.println("in login: "+this.driver.getClass());
-
+		DriverWaitForElement(driver, userElement);
 		userElement.clear();
 		userElement.sendKeys(loginCred[0]);
+	
+		DriverWaitForElement(driver, passwordElement);
+
 		passwordElement.clear();
 		passwordElement.sendKeys(loginCred[1]);
 		
-		//System.out.println("in userele: "+userElement.getText());
-
 		ClickArrElement(this.driver, new WebElement[] { userElement, passwordElement });
+		
+		DriverWaitForElement(driver, submitElement);
 		submitElement.submit();
+
 	}
 }

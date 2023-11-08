@@ -16,12 +16,14 @@ Feature: Open and Login on dsalgoportal
   @valid
   Examples: Data for DSAlgo login
    | name  | password | status |
+   | test1 | test123  | login |
    | NinjaAlgo | @Algo123 | home |
+   
 
   #@invalid 
- # Scenarios: Check -ve scenario
-  #Examples: Invalid data for juice shop login
+  #Scenarios: Check -ve scenario
+  #Examples: Invalid data for DSalgo login
    #| name  | password | status |
-   #| test1 | test123 | https://opensource-demo.orangehrmlive.com/web/index.php/auth/login |
+   #| test1 | test123  | home |
    #
  

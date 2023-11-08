@@ -22,12 +22,6 @@ public class AllActions {
 	static String path;
 	
 	public static void ClickArrElement(WebDriver driver, WebElement[] element) {
-		/*System.out.println("in all action: "+element[0].getText());
-		action = new Actions(driver);
-		action.moveToElement(element[0]).click().build().perform();	
-		action = new Actions(driver);
-		action.moveToElement(element[1]).click().build().perform();	*/
-
 		js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click();arguments[1].click();", element[0], element[1]);
 	}
