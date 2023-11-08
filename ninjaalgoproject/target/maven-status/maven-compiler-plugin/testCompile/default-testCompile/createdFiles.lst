@@ -1,0 +1,9 @@
+com\ninjaalgo\pages\LoginPage.class
+com\ninjaalgo\pages\HomePage.class
+com\ninjaalgo\runner\TestNG.class
+com\ninjaalgo\hooks\AppHooks.class
+com\ninjaalgo\steps\BMainStep.class
+com\ninjaalgo\utils\ConfigReader.class
+com\ninjaalgo\steps\CLoginStep.class
+com\ninjaalgo\utils\AllActions.class
+com\ninjaalgo\driverfactory\DriverFactory.class
