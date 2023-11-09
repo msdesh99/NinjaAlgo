@@ -79,8 +79,8 @@
 					<executions>
 						<execution>
 							<configuration>
-								<includes>**/JunitChromeRunner.java</includes>
-								<parallel>methods</parallel>
+								<includes>**/*Test*.java</includes>
+								<parallel>classesAndMethods</parallel>
 								<useUnlimitedThreads>true</useUnlimitedThreads>  <!--unlimited no of browsers at a time-->
 								<threadCount>4</threadCount>
 							</configuration>

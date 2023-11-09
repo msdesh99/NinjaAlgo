@@ -1,3 +1,6 @@
+/*Code details:
+	#Author: Meenakshi Dated: 6-Nov-2023
+*/
 package com.ninjaalgo.utils;
 	import org.apache.logging.log4j.LogManager;
 	import org.apache.logging.log4j.Logger;

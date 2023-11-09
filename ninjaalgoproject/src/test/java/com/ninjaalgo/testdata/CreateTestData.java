@@ -1,3 +1,6 @@
+/*Code details:
+	#Author: Meenakshi Dated: 6-Nov-2023
+*/
 package com.ninjaalgo.testdata;
 
 import java.io.File;
@@ -20,17 +23,11 @@ import com.ninjaalgo.utils.XLUtility;
 
 
 public class CreateTestData extends XLUtility{
-	/*   static String[] loginArr = new String[]{"NinjaAlgo","AlgoNinja","Test","Test123"};
-	    static String[] passwordArr = new String[]{"@Algo123","Passes","test1234","Failed1"};
-	    static String[] statusArr = new String[]{"Valid","InValid","InValid","InValid"};
-*/
-	    static String[] loginArr = new String[]{"NinjaAlgo"};
-	    static String[] passwordArr = new String[]{"@Algo123"};
-	    static String[] statusArr = new String[]{"Valid"};
+	    static String[] loginArr = new String[]{"NinjaAlgo","NinjaAlgo1"};
+	    static String[] passwordArr = new String[]{"@Algo123","test1"};
+	    static String[] statusArr = new String[]{"Valid","Invalid"};
 
-
-
- 	InputStream fi;
+	InputStream fi;
 	OutputStream fout;
 	XSSFRow row;
 	XSSFCell cell;
@@ -45,15 +42,14 @@ public class CreateTestData extends XLUtility{
 	public CreateTestData(String path) throws IOException {
 		super(path);
 		this.path = path;
+		System.out.println("ctd path: "+path);
 		//this.path = System.getProperty("user.dir")+"/src/test/resources/TestData/loginData.xlsx";
 		 this.dataFile = new File(path);
 	}
 
-	@Override
+	//@Override
 	public void WriteIntoFile() throws IOException{
-	
-
-		//inp = getClass().getResourceAsStream("TutorialNinjaData.xls");		
+			//inp = getClass().getResourceAsStream("TutorialNinjaData.xls");		
 		 wkb = new XSSFWorkbook();
 		 sh = wkb.createSheet("sheet1");
 		 
@@ -67,6 +63,7 @@ public class CreateTestData extends XLUtility{
 			 rw.createCell(1).setCellValue(passwordArr[i-1]);
 			 rw.createCell(2).setCellValue(statusArr[i-1]);
 	         //rw.createCell(2,CellType.BLANK);
+			 System.out.println(loginArr[i-1]);
 		 }
 		try {
 			 fout = new FileOutputStream(this.dataFile);
@@ -80,8 +77,6 @@ public class CreateTestData extends XLUtility{
 		} 
 
 	}
-	public static void TestDataCurrency() {
-			
-	}
+
 	
 }

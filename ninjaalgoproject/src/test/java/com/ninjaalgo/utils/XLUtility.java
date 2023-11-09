@@ -1,3 +1,6 @@
+/*Code details:
+	#Author: Meenakshi Dated: 6-Nov-2023
+*/
 package com.ninjaalgo.utils;
 
 import java.io.File;
@@ -20,8 +23,6 @@ import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-//https://www.youtube.com/watch?v=1nP9UlwzpgU
-//https://www.tabnine.com/code/java/classes/org.apache.poi.ss.usermodel.DataFormatter
 
 public class XLUtility {
 		InputStream fi;
@@ -39,7 +40,7 @@ public class XLUtility {
 	public XLUtility(String path) throws IOException {
 			super();
 			this.path = path;
-			//this.path = System.getProperty("user.dir")+"/src/test/resources/TestData/currencyData.xlsx";
+			//this.path = System.getProperty("user.dir")+"/src/test/resources/TestData/loginData.xlsx";
 			 this.dataFile = new File(path);			
 		}
 
@@ -47,19 +48,16 @@ public void WriteIntoFile() throws IOException{
 	//inp = getClass().getResourceAsStream("TutorialNinjaData.xls");		
 	 wkb = new XSSFWorkbook();
 	 sh = wkb.createSheet("sheet1");
-	  String[] loginArr = new String[]{"NinjaAlgo"};
-	   String[] passwordArr = new String[]{"@Algo123"};
-	    String[] statusArr = new String[]{"Valid"};
+	  String[] loginArr = new String[]{"NinjaAlgo1","NinjaAlgo"};
+	   String[] passwordArr = new String[]{"@Algo3","@Algo123"};
+	   String[] statusArr = new String[]{"login","home"};
 
-	/*   String[] loginArr = new String[]{"NinjaAlgo","AlgoNinja","Test","Test123"};
-	   String[] passwordArr = new String[]{"@Algo123","Passes","test1234","Failed1"};
-	   String[] statusArr = new String[]{"Valid","InValid","InValid","InValid"};
-	*/
-	    Row r1 = sh.createRow(0);
+	   Row r1 = sh.createRow(0);
 	 r1.createCell(0).setCellValue("UserName");
 	 r1.createCell(1).setCellValue("Password");
 	 r1.createCell(2).setCellValue("Status");
-	 for(int i=1;i<=1;i++) {
+	 System.out.println("leng: "+loginArr.length);
+	 for(int i=1;i<=loginArr.length;i++) {
 		 Row rw = sh.createRow(i);
 		 rw.createCell(0).setCellValue(loginArr[i-1]);
 		 rw.createCell(1).setCellValue(passwordArr[i-1]);
@@ -76,9 +74,6 @@ public void WriteIntoFile() throws IOException{
 		wkb.close();
 		fout.close();
 	} 
-
-	
-	//need to override method to write data. in CreateTestData file
 }   
 
 public void CreateNewCell(String sheetName, int rowNumber, String cellValue) throws IOException{
@@ -216,7 +211,6 @@ public void FillGreenColor(String sheetName, int row, int cell) throws IOExcepti
 			wkb.close();
 			fi.close();
 		}
-			
 	
 }
  public void ReadFile(String sheetName) throws IOException {
@@ -235,15 +229,6 @@ public void FillGreenColor(String sheetName, int row, int cell) throws IOExcepti
 		    	System.out.printf("%s ",cell2);
 		     }
 		}
-		/*
-		Iterator<Row> rw = sh.rowIterator(); 
-		while (rw.hasNext()) {
-			Row row = rw.next();
-			Iterator<Cell> cell = row.cellIterator();	
-			while(cell.hasNext()) {
-				System.out.printf("%s  \n",cell.next()); // ".getStringCellValue());
-			}
-		}*/		
 
 	} catch (FileNotFoundException e) {
 		e.printStackTrace();
@@ -254,10 +239,11 @@ public void FillGreenColor(String sheetName, int row, int cell) throws IOExcepti
 	}
 }	 
     public static void main(String[] args) throws IOException {
-		String path = System.getProperty("user.dir")+"/src/test/resources/TestData/loginData.xlsx";
-
-    	XLUtility xlUtility = new XLUtility(path);
-    	xlUtility.WriteIntoFile();    	
+		//String path = System.getProperty("user.dir")+"/src/test/resources/TestData/loginData.xlsx";
+  //System.out.println("path: "+path);
+    //	String path = "C:/Users/mdesh/git/LocalNinjaalgoproject/ninjaalgoproject/src/test/resources/TestData/loginData.xlsx";
+    	//XLUtility xlUtility = new XLUtility(path);
+    	//xlUtility.WriteIntoFile();    	
     	
     /*	xlUtility.CreateNewCell("sheet1", 3, "New");
 
@@ -272,9 +258,9 @@ public void FillGreenColor(String sheetName, int row, int cell) throws IOExcepti
    
 		System.out.println(xlUtility.GetCellData("sheet1", 1, 0));
     	
-		xlUtility.FillGreenColor("sheet1", 3, 5);
-		xlUtility.ReadFile("sheet1");
-*/
+		xlUtility.FillGreenColor("sheet1", 3, 5);*/
+		//xlUtility.ReadFile("sheet1");
+
     }
     
 }

@@ -20,12 +20,16 @@ public class AppHooks extends AllActions{
 
 @Before("@login")
 	public void set_drivers() {
-		for(WebDriver driver: DriverFactory.getMapDrivers().values()) {
-		  driver.manage().window().maximize();
-		  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
-		} 
+	     SetDrivers();	
 	}
 	
+public void SetDrivers() {
+	for(WebDriver driver: DriverFactory.getMapDrivers().values()) {
+		  driver.manage().window().maximize();
+		  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
+    } 	
+}
+
 @After("@DataStructure")
 	public void teardown() {
 		for(WebDriver driver: DriverFactory.getMapDrivers().values()) 

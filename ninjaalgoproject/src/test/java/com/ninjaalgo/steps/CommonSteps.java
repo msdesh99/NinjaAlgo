@@ -1,3 +1,6 @@
+/*Code details:
+	#Author: Meenakshi Dated: 6-Nov-2023
+*/
 package com.ninjaalgo.steps;
 
 import org.openqa.selenium.WebDriver;
@@ -7,14 +10,25 @@ import com.ninjaalgo.driverfactory.DriverFactory;
 import com.ninjaalgo.utils.AllActions;
 import com.ninjaalgo.utils.ConfigReader;
 
+import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 
 public class CommonSteps {
     String currentUrl;
+    static  WebDriver driver;
     public CommonSteps() {
 		super();
 	}
-	
+    @Given("open url with {string} browser")
+	public void open_url_with_browser(String browserType) throws Exception{
+		CreateDriver("",browserType);
+   }	
+    public void CreateDriver(String url, String browserType) throws Exception {
+		DriverFactory driverFactory = new DriverFactory();
+		driver = driverFactory.SingleDriver(browserType);
+		url = ConfigReader.getBaseUrl();
+		driver.get(url);
+    }	
 	@Then("Verify currentUrl {string} and {string}")
 	public void verify_current_url_and(String url, String type) {		
 		    if (type.contentEquals("module"))

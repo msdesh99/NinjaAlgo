@@ -25,9 +25,6 @@ public class StartPage extends AllActions {
 	WebElement getStarted;
 
 	public void ClickButton() {
-		//WebElement getStarted = driver.findElement(By.xpath(buttonXpath));
-		// ClickElement(getStarted, driver);
 		ClickElement(CallDriverWait(driver, buttonXpath), driver);
-
 	}
 }

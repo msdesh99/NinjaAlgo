@@ -3,6 +3,7 @@
 */
 package com.ninjaalgo.pages;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -36,6 +37,7 @@ public class LoginPage extends AllActions {
 		ClickElement(signIn, driver);
 	}
 	public void SetLoginCred(String[] loginCred) {
+	
 		DriverWaitForElement(driver, userElement);
 		userElement.clear();
 		userElement.sendKeys(loginCred[0]);
@@ -45,10 +47,14 @@ public class LoginPage extends AllActions {
 		passwordElement.clear();
 		passwordElement.sendKeys(loginCred[1]);
 		
+		
 		ClickArrElement(this.driver, new WebElement[] { userElement, passwordElement });
 		
 		DriverWaitForElement(driver, submitElement);
-		submitElement.submit();
 
+		submitElement.submit();
+		
+		By locator = By.xpath("//*[contains(text(),'Invalid Username and Password')]");
+		DriverWaitForLocatorOrUrl(driver,locator, "home");
 	}
 }

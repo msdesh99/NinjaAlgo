@@ -18,11 +18,10 @@ import com.ninjaalgo.utils.PagesActivity;
 public class HomePage extends AllActions{
 	private WebDriver driver;
 	static By locator;
-
-//*[text()=\"Data Structures-Introduction\"]"
-
+    //*[text()=\"Data Structures-Introduction\"]"
 	//*[@class='card-body d-flex flex-column']/h5[text()="Data Structures-Introduction"]
 	//following::a[@href="data structures-introduction"]
+	
 	public HomePage(WebDriver driver) {
 		super();
 		this.driver = driver;

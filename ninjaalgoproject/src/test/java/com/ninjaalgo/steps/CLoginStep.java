@@ -15,7 +15,6 @@ public class CLoginStep {
     WebDriver driver;
     String url;
     LoginPage loginPage;
-    //HomePage homePage;
     
     @Given("Click SignIn")
     public void Click_SignIn() {
