@@ -10,9 +10,9 @@ import io.cucumber.testng.CucumberOptions;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
-	    //tags =("not @firefox and not @edge"), //for Chrome
+	      tags =("not @firefox and not @edge"), //for Chrome
 	     //tags =("not @firefox and not @chrome"), //for Edge
-	     tags =("@open or @loginPage or @module"),  //all browser	
+	     //tags =("@open or @loginPage or @module"),  //all browser	
 	    //tags =("not @chrome and not @edge"), //for firefox
 	     
 		features = {"classpath:com/ninjaalgo/features"},
@@ -22,7 +22,7 @@ import io.cucumber.testng.CucumberOptions;
 		) 
 public class TestSuite extends AbstractTestNGCucumberTests {
 	@Override
-	@DataProvider(parallel = true)
+	@DataProvider(parallel = false)
 	public Object[][] scenarios(){		
 		return super.scenarios();
 	}
