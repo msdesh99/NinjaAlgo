@@ -38,7 +38,7 @@ public class ConfigReader {
     public static String[] getModules() {
     	return prop.getProperty("modules").split(",");		
 	}
-	/*public static Object getModuleUrl() {
+	public static Object getModuleUrl() {
 		return prop.getProperty("moduleUrl");
-	}*/
+	}
 }

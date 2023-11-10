@@ -5,8 +5,8 @@
 Feature: Home page of DSalgo
   @DataStructure
   Scenario:Get Data Structure module
-    Given User Loged in and Home page is displayed
-  	Then Click "Data Structures-Introduction"
+    Given On Home page for modules
+  	Then ClickData "Data Structures-Introduction"
  		Then Verify currentUrl "Data Structures-Introduction" and "module"
   #@Topics
   #Scenario:Topic covered section

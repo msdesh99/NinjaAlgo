@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.ninjaalgo.runner.TestSuite">
+      <class name="com.ninjaalgo.runner.TestNG">
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
-          <include name="runScenario" invocation-numbers="0 1"/>
+          <include name="runScenario" invocation-numbers="6"/>
         </methods>
-      </class> <!-- com.ninjaalgo.runner.TestSuite -->
+      </class> <!-- com.ninjaalgo.runner.TestNG -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

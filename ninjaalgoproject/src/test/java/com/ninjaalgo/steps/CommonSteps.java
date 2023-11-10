@@ -48,8 +48,13 @@ public class CommonSteps {
 			boolean testOutput = currentUrl.contentEquals(driver.getCurrentUrl()) ? true : false;
 			Assert.assertEquals(testOutput, true);
 			Assert.assertTrue(testOutput);
-		}
-		
+		}		
+	}
+	@Given("On Home page for modules")
+	public void On_Home_page_for_modules() throws Exception {	
+		  for(WebDriver driver: DriverFactory.getMapDrivers().values())	{
+		       driver.get(ConfigReader.getModuleUrl().toString());
+		  }
 	}
 
 	
