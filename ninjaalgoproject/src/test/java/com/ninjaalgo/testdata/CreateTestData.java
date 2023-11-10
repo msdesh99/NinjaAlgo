@@ -23,6 +23,14 @@ import com.ninjaalgo.utils.XLUtility;
 
 
 public class CreateTestData extends XLUtility{
+	/*def search(input_list, num):
+		 for x in input_list:
+		  if x == num:
+			print(str(num) + " is present in array")
+		input_list=[12,23,45,56,67]
+		num=56
+		search(input_list,num) */
+
 	    static String[] loginArr = new String[]{"NinjaAlgo","NinjaAlgo1"};
 	    static String[] passwordArr = new String[]{"@Algo123","test1"};
 	    static String[] statusArr = new String[]{"Valid","Invalid"};
