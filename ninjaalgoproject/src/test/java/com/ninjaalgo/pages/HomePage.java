@@ -31,17 +31,14 @@ public class HomePage extends AllActions{
 	List<WebElement> moduleList;
 		
 	public void GetIntoModule(String moduleName) throws Exception {
+	     //System.out.println("//*[text()='" +moduleName+"']//following::a[@href = '"+moduleName.replace(" ","-").toLowerCase()+"']");
              for(WebElement element: moduleList) {      
- 				for(String moduleType: ConfigReader.getModules()) {	
- 					if(moduleName.contentEquals(moduleType)) {
- 						 if(element.getText().contentEquals(moduleType)) {
+ 						 if(element.getText().contentEquals(moduleName)) {
  							ClickElement(element, driver);
- 							locator = By.xpath("//*[text()='" +moduleType+"']//following::a[@href = '"+moduleType.replace(" ","-").toLowerCase()+"']");
+ 							locator = By.xpath("//*[text()='" +moduleName+"']//following::a[@href = '"+moduleName.replace(" ","-").toLowerCase()+"']");
  							ClickElement(CallDriverWait(driver, locator), driver);
+ 							break;
  						}	
- 					}	 
- 					return;
- 			    }
              }		
 	}
 

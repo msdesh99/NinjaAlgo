@@ -36,15 +36,21 @@ public class DriverFactory {
 				tDriver.set(new EdgeDriver());
 			}
 			else throw new Exception("Browser not supported"); 
-				  dMap.put(selectedBrowser.toLowerCase(),tDriver.get());
+				  //dMap.put(selectedBrowser.toLowerCase(),tDriver.get());
+				 // dMap.put(tDriver.get().getWindowHandle(),tDriver.get());
+
 			  
 		return getDriver();
 	}	
 	  public static WebDriver getDriver() {
 			return tDriver.get();	   
       }	
-     public static HashMap<String, WebDriver> getMapDrivers(){
+ /*    public static HashMap<String, WebDriver> getMapDrivers(){
 			   return dMap;
      }
- 
+     public static void setMapDrivers(String windowHandle, WebDriver driver ){
+		   //dMap.remove(windowHandle);
+		   dMap.remove(windowHandle, driver);
+		   System.out.println("in setdriver: "+getMapDrivers().size());
+}*/
 }

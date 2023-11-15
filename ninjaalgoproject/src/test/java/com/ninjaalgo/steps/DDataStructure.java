@@ -16,12 +16,19 @@ import io.cucumber.java.en.Then;
 public class DDataStructure {
 	DataStructurePage dataStructurePage;
 	
-	@Then("ClickData {string}")
-	public void click(String string) throws Exception {
-		  for(WebDriver driver: DriverFactory.getMapDrivers().values())	{
+	@Then("ClickInData {string}")
+	public void click_on(String string) {
+		        WebDriver driver = DriverFactory.getDriver();
 				dataStructurePage = PageFactory.initElements(driver, DataStructurePage.class);
-				dataStructurePage.GetIntoModule(string);
-			 }	
+				dataStructurePage.GetTimeComplexity(string);
+	}
+	@Then("ClickOnDataTopic {string}")
+	public void ClickOnDataTopic(String string) {
+		//  for(WebDriver driver: DriverFactory.getMapDrivers().values())	{
+			   WebDriver driver = DriverFactory.getDriver();
+				dataStructurePage = PageFactory.initElements(driver, DataStructurePage.class);
+				dataStructurePage.GetTopic(string);				
+			// }	
 	}
 
 }

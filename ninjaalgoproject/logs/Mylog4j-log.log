@@ -16,3 +16,1695 @@
 [INFO ]2023-11-1010:07:55.635[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
 [INFO ]2023-11-1010:07:58.185[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
 [INFO ]2023-11-1010:08:00.935[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1011:12:30.743[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1011:12:31.765[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1011:12:32.237[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1011:12:32.978[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1011:12:37.611[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1011:12:38.807[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1011:12:38.827[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : FAILED
+[INFO ]2023-11-1011:13:55.484[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1011:13:56.378[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1011:13:56.795[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1011:13:57.527[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1011:14:02.117[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1011:14:02.747[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1011:14:03.753[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1023:11:47.439[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1023:11:48.510[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1023:11:49.106[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1023:11:50.046[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:11:54.949[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:11:56.056[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1023:11:57.376[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1023:12:18.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1023:12:19.557[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1023:12:19.962[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1023:12:20.828[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:12:25.722[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:12:26.615[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1023:12:27.788[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1023:18:40.057[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1023:26:44.265[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1023:26:45.156[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1023:26:45.566[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1023:26:46.345[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:26:50.982[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:26:51.840[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1023:26:52.995[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1023:28:44.969[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1023:28:45.887[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1023:28:46.474[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1023:28:47.255[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:28:52.171[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:28:53.346[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1023:28:54.509[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1023:29:36.416[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1023:29:37.303[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1023:29:37.743[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1023:29:38.499[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:29:43.179[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:29:44.401[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1023:29:45.210[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1023:35:33.223[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1023:45:50.886[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1023:45:51.773[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1023:45:52.183[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1023:45:52.970[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:45:57.658[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:46:06.903[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1023:46:07.748[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1023:47:35.034[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1023:47:35.876[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1023:47:36.280[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1023:47:37.012[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:47:41.689[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1023:47:51.307[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1023:47:52.858[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1101:39:43.272[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1101:48:41.926[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1101:48:43.070[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1101:48:43.565[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1101:48:44.496[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1101:48:49.278[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1101:48:58.816[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1101:48:59.767[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1101:49:31.049[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1101:50:19.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1101:50:57.011[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1101:50:58.141[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1101:50:58.579[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1101:50:59.475[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1101:51:04.257[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1101:51:13.522[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1101:51:14.556[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : PASSED
+[INFO ]2023-11-1101:58:38.037[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1102:05:02.719[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1102:10:38.979[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1102:13:08.129[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1102:18:38.816[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1102:18:46.857[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1102:18:52.596[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1102:18:56.970[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1102:20:53.214[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1102:20:54.436[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1102:20:54.938[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1102:20:55.861[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1102:21:00.607[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1102:21:06.253[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1102:21:06.291[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : FAILED
+[INFO ]2023-11-1102:21:58.799[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1102:22:00.682[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1102:22:01.128[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1102:22:02.079[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1102:22:06.803[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1102:22:10.503[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1102:22:10.541[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : FAILED
+[INFO ]2023-11-1107:13:01.835[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1107:24:00.927[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1107:24:10.483[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1107:24:21.746[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Array module is : FAILED
+[INFO ]2023-11-1107:25:12.591[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1107:25:47.355[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1107:25:47.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1107:26:46.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1107:26:58.334[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1107:29:14.771[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1107:29:25.266[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1107:30:02.584[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1107:31:03.149[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1107:31:14.058[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1107:34:09.199[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1107:34:20.274[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1108:11:21.216[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1108:11:32.150[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1108:12:38.010[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1108:12:52.118[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1108:14:53.450[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1108:15:06.346[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1108:17:02.684[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1108:17:15.773[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1108:18:46.279[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1108:18:53.507[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1108:22:04.051[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1108:27:32.557[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1108:30:49.639[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1108:34:38.559[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1108:35:09.113[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : UNDEFINED
+[INFO ]2023-11-1108:38:58.082[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1109:30:40.913[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : FAILED
+[INFO ]2023-11-1109:32:20.486[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1109:35:02.079[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1109:39:58.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1109:40:09.326[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1109:40:20.525[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1109:43:28.800[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1109:43:47.999[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1109:44:07.255[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1109:47:11.627[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1109:47:22.695[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1109:47:33.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1110:00:46.492[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1110:00:57.436[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1110:01:07.304[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1118:10:37.601[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1118:10:48.539[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1118:10:58.312[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1118:15:06.097[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1118:15:22.768[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1118:15:37.800[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1118:18:59.059[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Data Structure module is : PASSED
+[INFO ]2023-11-1118:19:15.299[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1118:19:30.484[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1118:38:13.763[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1118:38:59.463[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:41:19.681[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:44:40.892[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:48:19.369[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1118:48:36.273[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1118:49:38.647[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:49:59.995[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1118:51:35.758[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:51:56.793[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1118:52:21.522[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:52:21.522[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1118:52:40.537[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:53:01.702[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1118:53:18.623[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:53:40.941[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1118:54:16.921[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1118:54:18.519[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1118:56:02.433[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1118:56:24.163[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:06:15.723[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:06:39.478[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1119:07:57.717[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:09:11.065[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:09:33.091[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1119:10:02.812[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1119:10:27.019[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:10:48.546[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1119:11:51.262[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:11:57.748[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1119:43:25.461[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:43:46.779[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1119:45:10.582[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:45:33.308[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1119:51:51.643[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1119:52:03.911[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : PASSED
+[INFO ]2023-11-1120:09:56.287[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1120:10:18.368[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1120:11:28.235[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1120:11:50.390[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1120:14:37.776[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1120:15:27.460[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1120:21:10.943[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1120:21:32.827[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1122:29:59.324[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1122:30:14.127[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1122:31:34.024[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1122:31:50.776[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1122:35:04.208[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1122:35:19.197[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1122:37:28.723[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1122:39:13.571[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1122:40:27.732[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1122:40:43.372[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Pratice Questions is : FAILED
+[INFO ]2023-11-1122:42:33.677[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1122:42:46.886[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1122:47:19.916[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1122:48:06.897[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1123:05:31.314[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1123:06:00.535[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1123:07:30.309[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1123:07:45.417[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1123:20:38.703[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1123:20:54.108[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1123:44:28.676[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1123:44:34.866[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1123:45:28.684[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1123:45:34.919[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1208:23:20.631[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1208:23:25.817[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1208:35:09.742[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1208:40:01.982[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1208:40:16.585[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1208:42:01.651[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1208:42:16.183[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1209:04:42.641[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1209:04:48.865[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1209:06:16.451[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1209:06:22.349[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1209:11:18.323[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1209:11:23.595[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1209:13:18.742[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1209:13:24.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1210:59:50.342[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1210:59:55.437[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:12:59.234[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:13:05.840[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:24:18.999[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:24:33.521[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:27:05.040[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:27:19.768[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:29:59.007[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:30:13.550[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:33:24.015[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:33:39.550[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:48:56.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:49:11.290[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:51:34.884[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:51:51.404[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:54:09.320[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:54:25.163[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1211:56:43.384[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1211:56:58.112[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1212:00:43.879[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:01:01.262[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1212:03:05.990[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:05:48.842[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:07:27.944[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:09:21.865[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:10:02.364[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:10:25.264[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1212:24:13.743[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:24:36.633[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1212:26:54.802[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:27:17.477[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1212:34:02.384[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:34:25.952[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1212:42:11.464[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:42:34.150[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1212:43:24.987[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:43:47.476[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1212:46:01.781[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1212:46:15.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : PASSED
+[INFO ]2023-11-1212:56:42.477[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays in Python is : UNDEFINED
+[INFO ]2023-11-1212:59:00.626[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays in Python is : UNDEFINED
+[INFO ]2023-11-1213:03:24.209[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays in Python is : FAILED
+[INFO ]2023-11-1213:04:12.653[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays in Python is : FAILED
+[INFO ]2023-11-1213:11:07.429[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1213:18:24.671[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1213:22:13.561[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1213:33:18.071[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1213:34:37.709[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1213:34:50.638[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : UNDEFINED
+[INFO ]2023-11-1213:35:02.296[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1213:36:15.509[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1213:36:29.211[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : PASSED
+[INFO ]2023-11-1213:36:41.089[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1213:37:05.008[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1213:37:06.635[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1213:38:36.437[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1213:38:49.574[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : PASSED
+[INFO ]2023-11-1213:39:02.650[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1214:08:44.581[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : UNDEFINED
+[INFO ]2023-11-1214:17:36.525[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1214:20:07.359[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1214:21:42.329[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1214:22:44.346[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1214:27:21.355[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : UNDEFINED
+[INFO ]2023-11-1214:45:46.663[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1214:46:02.082[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1214:48:02.202[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1214:48:02.276[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-1214:48:53.213[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1214:48:53.280[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-1214:49:30.679[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1214:49:45.368[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1214:51:23.107[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1214:51:24.216[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1215:10:57.286[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:11:20.511[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1215:17:26.685[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:17:54.727[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1215:18:43.793[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:19:06.232[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1215:23:02.287[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:24:30.385[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:24:37.683[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1215:32:15.920[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:32:17.311[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1215:33:18.977[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:33:27.074[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1215:35:40.427[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:35:48.565[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1215:37:42.918[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:37:51.024[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1215:40:48.020[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:40:56.168[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1215:44:21.359[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:44:29.441[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1215:47:35.690[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:47:43.874[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1215:49:04.489[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:49:12.630[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1215:58:22.244[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1215:58:26.312[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1216:06:59.035[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1216:07:03.116[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1216:10:20.949[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1216:10:25.314[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1216:11:12.762[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1216:11:13.460[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1216:13:03.012[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1216:13:03.797[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1216:15:40.314[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1216:15:40.375[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1216:16:40.275[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1216:16:40.988[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1216:49:43.336[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1216:49:44.031[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1216:55:11.166[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : UNDEFINED
+[INFO ]2023-11-1216:55:11.890[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1217:01:51.566[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1217:01:52.468[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1217:07:03.877[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : UNDEFINED
+[INFO ]2023-11-1217:07:04.614[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1219:53:38.048[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1219:53:38.889[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1219:55:42.958[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1219:55:43.018[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1219:56:41.315[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1219:56:41.362[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1219:59:23.162[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1219:59:23.185[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : PASSED
+[INFO ]2023-11-1220:00:32.501[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1220:00:48.121[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1220:01:19.917[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1220:01:35.374[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1220:07:40.723[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1220:07:55.537[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1220:15:57.083[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1220:16:11.011[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1220:19:50.126[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1220:20:04.968[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1306:01:48.989[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:02:03.148[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1306:03:15.980[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:05:15.301[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:07:59.934[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:08:14.624[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1306:14:09.884[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:14:25.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1306:17:23.222[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:17:37.167[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1306:29:49.176[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:29:49.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : PASSED
+[INFO ]2023-11-1306:30:39.131[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:30:53.911[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : FAILED
+[INFO ]2023-11-1306:43:46.353[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:43:46.384[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For PraticeQuestions is : PASSED
+[INFO ]2023-11-1306:51:09.016[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1306:51:54.700[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1307:00:27.017[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1307:10:29.067[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1307:11:59.927[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1307:16:22.043[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1307:16:37.021[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1307:18:50.049[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1307:19:04.346[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1307:21:50.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1307:22:05.902[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1307:34:07.874[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1307:34:22.226[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1307:35:29.443[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1307:35:42.540[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1307:40:58.640[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1307:41:12.536[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1307:43:02.313[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1307:43:02.926[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1307:45:25.951[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1307:45:26.560[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1307:46:05.383[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1307:46:19.810[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1307:46:27.574[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1307:52:12.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1307:52:16.773[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1307:52:16.825[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1308:00:11.170[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1308:00:15.788[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1308:00:15.834[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1308:05:04.004[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1308:05:18.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1308:05:18.958[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1308:07:27.374[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1308:07:41.140[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1308:07:41.734[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1308:19:01.581[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1308:19:14.508[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1308:19:15.099[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1308:20:43.453[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1308:20:56.842[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1308:20:57.399[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1308:22:08.164[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1308:22:21.635[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1308:22:22.197[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1308:24:38.188[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1308:24:52.885[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1308:24:53.503[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1309:10:31.794[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:10:45.697[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:10:46.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1309:11:57.229[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:12:11.114[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:12:11.636[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1309:25:08.861[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:25:23.113[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:25:23.123[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1309:26:54.127[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:27:08.556[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:27:08.568[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1309:27:40.027[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:27:54.641[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:27:54.654[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1309:28:56.480[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:29:10.751[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:29:11.324[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1309:32:38.687[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:32:51.664[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:32:52.367[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1309:45:26.433[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:45:40.848[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:45:41.750[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1309:46:56.506[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:47:10.707[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:47:11.638[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1309:47:34.387[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1309:47:48.609[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1309:47:49.539[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1309:57:56.051[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1309:58:14.214[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1309:58:29.815[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1309:59:58.906[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1310:06:45.026[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1310:26:37.995[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1310:26:49.909[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1310:27:31.953[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1310:27:51.995[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1310:40:39.191[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1310:41:07.881[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1310:41:23.302[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1310:41:24.253[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1310:45:26.713[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1310:45:31.530[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1310:45:42.159[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1310:46:01.937[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1310:46:50.254[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1310:47:10.449[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1310:47:43.220[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1310:48:16.112[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1310:52:37.863[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1310:52:41.459[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1310:54:23.850[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1310:54:28.903[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:07:29.219[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:07:32.994[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:08:56.528[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:09:00.521[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:10:12.484[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:10:16.219[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:11:37.662[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:11:41.414[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:13:51.275[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:13:54.849[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:17:03.235[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:17:07.384[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:18:50.170[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:18:55.378[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:20:14.401[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:20:19.413[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:22:43.252[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:22:47.072[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:23:17.480[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:23:21.307[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:23:54.503[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:24:00.172[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1311:24:10.910[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:24:59.957[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:25:04.932[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1311:25:13.076[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1311:25:55.314[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1311:26:00.286[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1311:26:08.426[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:25:59.731[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:26:06.814[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:26:16.680[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:27:27.591[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:27:36.112[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:33:15.516[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:33:21.675[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:33:35.195[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1313:38:06.720[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:38:12.863[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:38:24.338[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1313:42:24.235[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:42:30.542[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:42:39.311[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:45:42.231[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:45:48.624[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:45:57.598[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:46:57.393[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:47:03.075[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:47:13.085[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:48:12.500[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:48:18.580[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:48:27.870[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:50:52.512[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:50:59.242[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:51:09.567[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:51:27.775[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:51:33.295[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:51:41.373[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:52:41.974[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:52:47.686[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:52:58.788[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:54:36.129[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1313:54:42.501[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1313:54:51.875[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1313:54:58.223[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1313:55:01.280[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1316:07:30.650[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1316:07:36.330[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1316:07:46.497[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1316:07:46.535[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1316:07:46.574[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1316:08:52.095[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1316:08:56.233[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1316:08:56.284[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1316:08:56.321[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1316:20:40.886[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1316:20:44.616[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1316:20:51.116[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1316:20:51.884[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1316:21:34.771[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1316:21:38.619[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1316:21:45.114[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1316:21:45.809[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1316:22:14.744[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1316:22:18.567[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1316:22:25.121[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1316:22:25.889[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1316:23:23.979[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1316:23:27.545[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1316:24:20.879[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1316:24:25.489[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:26:31.543[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1317:26:34.845[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:27:01.435[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1317:27:04.705[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:27:29.002[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1317:27:32.161[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:27:38.638[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:27:39.225[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1317:28:24.270[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1317:28:27.412[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:28:33.770[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:28:34.423[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1317:31:27.027[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1317:31:30.132[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:31:36.511[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:31:42.920[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1317:36:31.645[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1317:36:34.714[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:36:41.121[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:36:47.513[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1317:39:57.929[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:40:14.511[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:40:36.020[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1317:41:21.263[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:41:37.460[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:41:45.082[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1317:42:31.335[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:42:50.628[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:42:51.292[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1317:47:57.716[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:48:08.906[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1317:48:09.428[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1317:48:42.649[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1317:48:44.626[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:48:54.091[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1317:52:38.177[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1317:52:58.675[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:53:06.045[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1317:54:46.456[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1317:55:07.276[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1317:55:14.876[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1317:56:10.817[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1318:03:10.147[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1318:07:42.847[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1318:09:19.965[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1318:09:33.514[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:09:40.990[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1318:10:36.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:10:49.419[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:10:50.175[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:11:49.712[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:12:01.485[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:12:02.121[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:12:58.218[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1318:13:15.059[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:13:22.416[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1318:14:33.015[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:14:46.941[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:14:47.916[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:15:21.968[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:15:36.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:15:37.327[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:17:03.237[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:17:14.770[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:17:15.672[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:19:13.008[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:19:24.832[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:19:25.841[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:21:38.458[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:21:50.164[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:21:51.076[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:28:39.940[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:28:51.145[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:28:52.005[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:33:22.905[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:33:34.633[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:33:35.598[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:39:10.136[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:39:21.595[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:39:22.530[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:45:10.708[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:45:23.269[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:45:24.158[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:46:22.204[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:46:34.514[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:46:35.193[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:47:23.858[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:47:35.663[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:47:36.248[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:50:21.689[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:50:33.520[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:50:34.090[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:51:44.668[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:51:56.553[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:51:57.189[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:52:59.954[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1318:53:17.952[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:53:20.689[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1318:53:44.377[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1318:53:50.109[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:53:50.151[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1318:54:39.232[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:54:53.155[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:54:53.819[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:55:36.868[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:55:47.206[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1318:55:47.252[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1318:56:51.672[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:57:09.957[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:57:10.696[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:57:55.801[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:58:13.946[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:58:14.566[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1318:59:28.003[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1318:59:46.256[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1318:59:46.949[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1319:01:21.838[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:01:44.694[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1319:01:45.340[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1319:03:03.920[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:03:11.967[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:03:12.001[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:04:17.106[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:04:21.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:04:21.451[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:04:48.118[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:05:00.589[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1319:05:01.225[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1319:05:17.271[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:05:17.271[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:05:29.684[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1319:06:47.518[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:06:47.518[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:06:59.314[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1319:08:14.624[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:08:16.842[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:08:27.089[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1319:09:07.564[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:09:09.489[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:09:20.003[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1319:11:29.111[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:11:42.138[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1319:11:42.690[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1319:12:22.537[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:12:28.252[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:12:28.280[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:27:19.714[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:27:31.759[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1319:27:32.285[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1319:30:53.479[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:31:11.833[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:31:19.169[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:33:37.649[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1319:33:41.045[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:33:43.142[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:33:43.161[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:34:22.037[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:34:25.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:34:26.155[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:34:26.171[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:35:08.079[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:35:15.636[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:35:16.335[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:35:16.368[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:35:45.558[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:35:52.308[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:35:52.399[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:35:52.473[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:38:48.174[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:38:57.168[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:38:57.831[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:38:57.854[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:41:17.374[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:41:26.259[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:41:27.098[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:41:27.127[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:47:20.826[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:47:29.831[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1319:47:30.604[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:47:30.636[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:51:23.473[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:51:31.359[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:51:31.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:51:31.883[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:54:22.043[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:54:29.757[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:54:30.229[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:54:30.246[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:56:54.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:57:02.428[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:57:02.921[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:57:02.953[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1319:57:53.865[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:58:01.337[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:58:10.069[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:58:10.839[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1319:59:06.741[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1319:59:14.131[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1319:59:22.872[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1319:59:23.529[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1320:01:39.854[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1320:01:47.326[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1320:01:56.049[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:01:56.821[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1320:02:56.282[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1320:03:03.902[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1320:03:04.429[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:03:04.468[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:06:50.224[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1320:06:57.599[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1320:06:57.987[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:06:58.018[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:08:54.010[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1320:09:01.503[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1320:09:01.962[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:09:01.977[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:10:37.578[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1320:10:45.220[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1320:10:53.968[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:10:54.685[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1320:12:20.591[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1320:12:31.840[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1320:12:32.381[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1320:13:20.436[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1320:13:32.009[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1320:13:32.573[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1320:14:11.835[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:14:17.465[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:14:17.493[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:15:41.710[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:16:44.467[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:19:25.501[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:22:18.423[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:23:45.582[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:23:54.886[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:24:02.334[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:24:30.171[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:24:40.285[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:24:47.682[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:25:29.942[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:25:40.530[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:25:48.152[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:38:55.044[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:39:04.542[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:39:11.833[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:41:07.401[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:41:16.809[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:41:24.131[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:44:03.910[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:44:12.723[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:44:20.100[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:45:23.287[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:45:32.361[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:45:39.673[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:49:19.232[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:49:28.406[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:49:35.758[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:52:49.013[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:52:58.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:53:06.024[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:55:28.951[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:55:38.307[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:55:45.759[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1320:58:14.190[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1320:58:23.293[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1320:58:30.611[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1321:04:45.042[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:05:08.970[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:08:59.258[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:11:42.306[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:12:27.774[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:17:32.190[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:17:36.440[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:17:40.952[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:17:41.089[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:18:06.265[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:20:33.066[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:21:09.731[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:21:14.009[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:21:18.444[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:21:18.530[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:22:20.083[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:22:24.500[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:22:32.822[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:22:41.195[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:23:08.482[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:23:12.729[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:23:20.821[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:23:28.990[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:24:17.368[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:24:21.629[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:24:29.783[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:24:37.853[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:26:24.416[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:26:28.690[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:26:36.284[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:26:36.404[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:27:25.038[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:27:29.310[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:27:37.698[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:27:46.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:28:04.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:28:09.002[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:28:17.671[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:28:26.172[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:29:41.720[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:32:33.730[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:32:42.493[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:32:52.091[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1321:32:59.679[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1321:33:43.241[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:33:48.702[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:33:54.073[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1321:34:01.647[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1321:34:57.261[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:35:04.495[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1321:35:08.921[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1321:35:16.367[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1321:39:46.204[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:39:53.607[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1321:39:57.681[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1321:39:58.258[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1321:40:34.819[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:40:42.313[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1321:40:46.363[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1321:40:46.954[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1321:42:38.741[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:42:41.912[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:42:53.162[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1321:42:53.775[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1321:43:57.569[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:44:00.762[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:44:11.957[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1321:44:12.528[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1321:45:06.534[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:45:10.788[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:45:18.873[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:45:27.003[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:45:30.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:45:34.349[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1321:45:34.375[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1321:47:33.913[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:47:38.164[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:47:46.250[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:47:50.656[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1321:47:50.675[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:47:53.164[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1321:47:53.237[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1321:48:33.018[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1321:48:36.196[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:49:49.470[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:50:31.292[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1321:51:09.893[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1321:51:21.447[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1321:51:21.994[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1321:52:53.550[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1321:53:03.440[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1321:53:10.968[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1321:55:21.865[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1321:55:21.896[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1322:08:42.907[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1322:08:53.308[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1322:09:42.485[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1322:09:51.255[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1322:10:41.087[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1322:10:46.206[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1322:11:28.637[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1322:11:38.017[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1405:33:51.242[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1405:33:56.414[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:37:59.794[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1405:38:04.682[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:40:50.416[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1405:40:55.423[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:41:56.910[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1405:42:02.029[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:42:56.755[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1405:43:01.698[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:45:48.347[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:48:13.875[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:49:09.850[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:52:54.792[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1405:55:31.440[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:01:12.089[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:02:22.190[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:04:01.171[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:08:20.718[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:15:51.374[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:16:28.313[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:16:58.757[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:18:25.350[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:19:52.801[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:23:37.909[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:25:13.754[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1406:25:23.431[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:25:50.680[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1406:26:00.985[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:26:05.093[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1406:26:12.262[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1406:30:33.954[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:30:48.824[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1406:30:49.517[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1406:44:16.769[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:44:30.808[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1406:44:31.543[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1406:45:08.118[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:45:21.989[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1406:45:22.598[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1406:47:19.883[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:47:33.996[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1406:47:34.842[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1406:50:55.999[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:51:09.799[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1406:51:10.433[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1406:57:40.450[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1406:57:54.176[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1406:57:54.785[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1406:59:27.234[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1406:59:33.420[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1406:59:33.462[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1407:00:37.184[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:00:53.079[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1407:00:53.661[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1407:01:18.738[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1407:01:18.738[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1407:01:35.124[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1407:03:59.965[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:04:20.551[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1407:04:21.257[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1407:05:58.743[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1407:05:58.783[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1407:05:58.856[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1407:08:59.936[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:09:10.223[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1407:09:10.279[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1407:10:37.677[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:10:49.756[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1407:10:50.598[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1407:11:36.925[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:11:51.044[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1407:11:51.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1407:17:07.263[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1407:17:41.001[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1407:17:41.126[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1407:19:15.780[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1407:32:36.796[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:33:34.144[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:37:06.699[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:39:36.467[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:40:27.255[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:41:24.963[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1407:44:19.957[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:45:04.802[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1407:45:06.790[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1407:45:18.234[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:47:19.124[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1407:47:19.124[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1407:47:33.845[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1407:48:14.083[TestNG-PoolService-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1407:48:16.358[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1407:48:18.867[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1407:51:12.237[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:51:22.220[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1407:51:22.251[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1407:52:38.969[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1407:52:53.062[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1407:53:06.864[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1408:22:06.840[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1408:22:17.342[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1408:22:17.360[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1408:26:03.930[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1408:26:33.512[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1408:26:37.620[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1408:28:41.066[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1408:28:54.727[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1408:29:08.834[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1408:35:11.807[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1408:35:22.523[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1408:35:22.565[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1408:42:25.007[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1408:42:39.090[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1408:42:52.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1408:46:58.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1408:47:54.989[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1408:47:56.660[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:03:25.881[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:03:27.537[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:03:38.736[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:03:38.775[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:04:41.166[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:04:45.664[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:04:50.362[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:05:40.537[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:05:41.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:06:14.031[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:06:14.723[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:08:06.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:08:34.827[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:09:09.680[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:09:10.390[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:09:55.728[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:09:56.413[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:10:00.860[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:10:05.414[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:12:25.882[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:12:25.921[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:23:06.160[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1409:24:32.811[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:24:37.302[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:24:42.015[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:36:17.461[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1409:36:53.134[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:36:57.289[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:36:57.329[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:42:47.021[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:43:01.727[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:43:02.305[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:43:41.754[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:43:56.552[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:43:57.204[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:44:52.474[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:45:22.369[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:45:25.036[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:51:18.420[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:51:40.662[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:51:50.078[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:55:13.271[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:55:35.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:55:45.470[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:56:59.381[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1409:57:10.352[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1409:58:43.624[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1409:59:00.155[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:59:00.880[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:59:17.238[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1409:59:17.939[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1409:59:58.712[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1410:00:14.969[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1410:00:15.604[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1410:00:32.931[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1410:00:33.627[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1410:02:40.532[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1412:04:42.442[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1412:04:59.272[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1412:05:00.017[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1412:05:16.344[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1412:05:17.078[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1412:08:56.163[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1412:48:32.061[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1412:48:35.333[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1412:49:28.682[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1412:49:45.963[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1412:49:52.067[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1412:49:52.293[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1412:51:53.281[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1412:51:56.898[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1412:52:07.723[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1412:52:13.494[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1412:52:19.394[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1412:53:44.024[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1412:53:47.624[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1412:53:53.736[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1412:53:59.791[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1412:54:34.328[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1412:54:37.866[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1412:54:43.955[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1412:54:47.318[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:19:54.832[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:19:58.443[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1413:20:02.570[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:20:02.631[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:27:07.615[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:27:11.192[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1413:27:17.299[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:27:23.382[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:29:58.388[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:30:01.986[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1413:30:08.084[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:31:40.360[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:31:43.941[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1413:31:50.060[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:31:51.475[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:36:41.917[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:36:45.611[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1413:36:54.078[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:36:54.183[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:39:21.984[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:39:25.544[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1413:39:37.667[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:39:49.808[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:43:00.477[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:43:04.131[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1413:43:16.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:43:28.311[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:46:28.934[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:46:29.389[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1413:46:41.612[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:46:53.738[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:48:15.528[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1413:48:15.553[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1413:49:13.841[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Clicking signIn is : PASSED
+[INFO ]2023-11-1413:49:13.864[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1413:51:16.221[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:51:16.722[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1413:51:28.877[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:51:35.074[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:54:34.242[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:54:34.691[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1413:54:46.817[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:54:58.969[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1413:56:32.299[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:56:32.802[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1413:56:34.293[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1413:56:41.554[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1413:57:17.691[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1413:57:18.152[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1413:57:19.621[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1413:57:26.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1413:57:28.742[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1413:58:24.883[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1414:07:55.090[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1414:07:55.832[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1414:08:02.326[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1414:08:09.942[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1414:08:17.185[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1414:12:06.094[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1414:12:06.686[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1414:12:13.092[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1414:12:13.519[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1414:12:22.727[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1414:13:15.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1414:13:15.805[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1414:13:17.120[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1414:13:24.370[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1414:13:26.623[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1414:13:53.950[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1414:13:58.068[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1414:13:59.256[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1414:14:02.523[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1414:14:17.230[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1414:14:21.875[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1414:20:56.780[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1414:21:10.812[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1414:21:11.423[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1414:58:47.714[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1414:58:51.896[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1414:59:16.823[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1414:59:41.120[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1414:59:50.433[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1414:59:50.653[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1414:59:50.670[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1415:01:30.498[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:01:30.939[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:01:32.146[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:01:39.307[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:01:40.914[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1415:01:41.159[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1415:01:41.171[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1415:02:26.731[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:02:27.199[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:02:28.602[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:02:35.730[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:02:37.365[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1415:02:37.654[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1415:02:37.667[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1415:04:59.160[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:04:59.810[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:05:01.725[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:05:08.802[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:05:10.395[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1415:08:23.122[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:08:23.600[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:08:24.862[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:08:31.989[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:08:33.666[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:09:08.471[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:09:08.868[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:09:10.161[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:09:17.328[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:09:18.907[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:09:28.074[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:09:37.245[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:13:46.354[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:13:46.788[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:13:48.028[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:13:55.359[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:14:02.882[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:14:12.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:14:21.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:19:37.033[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:19:37.509[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:19:38.816[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:19:45.889[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:19:53.485[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:20:02.784[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:20:12.106[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:23:43.685[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:23:44.186[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:23:45.712[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:23:52.949[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:24:00.387[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:24:09.662[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:24:18.947[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:26:33.165[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:26:33.659[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:26:35.110[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:26:42.192[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:26:49.766[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:26:59.072[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:27:08.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:27:44.967[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:27:45.420[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:27:46.599[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:27:53.716[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:28:02.991[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1415:28:12.344[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:28:21.601[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:31:15.649[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:31:16.109[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:31:17.325[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:31:24.447[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:31:31.847[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:31:41.318[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:31:50.924[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:32:14.039[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:32:14.474[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:32:16.038[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:32:23.336[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:32:30.785[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:32:38.362[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1415:32:38.928[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1415:33:29.182[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:33:34.304[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1415:33:35.515[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:33:38.236[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:33:52.764[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:34:07.734[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:34:23.020[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1415:34:24.232[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1415:36:21.388[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1415:36:37.362[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1415:36:37.969[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1415:38:22.361[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1415:38:22.901[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:38:29.242[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:38:29.592[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:38:33.239[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1415:38:36.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:38:46.153[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:41:31.426[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:41:31.453[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:41:31.469[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1415:41:31.483[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:41:31.495[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:41:48.976[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:41:49.001[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:41:49.017[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1415:41:49.031[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:41:49.045[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:42:35.591[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:42:59.870[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:43:24.089[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:43:28.192[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1415:43:32.035[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:43:41.329[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:43:56.101[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:44:20.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:44:26.635[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:44:26.658[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1415:44:26.676[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:44:26.691[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:44:56.687[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:45:20.924[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:45:27.131[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:45:27.149[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1415:45:27.165[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:45:27.185[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:46:08.915[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:46:33.177[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:46:57.344[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:47:01.526[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1415:47:05.367[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1415:47:14.647[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1415:51:20.721[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1415:51:21.306[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:51:22.691[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:51:30.109[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:51:37.619[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:51:45.231[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1415:51:45.885[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1415:52:30.707[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:52:31.186[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:52:32.644[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:52:39.854[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:52:47.473[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:52:55.064[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1415:52:55.721[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1415:55:30.901[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1415:55:31.413[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1415:55:32.884[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:55:40.212[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1415:55:47.626[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:55:55.303[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1415:55:55.962[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1415:56:00.235[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1415:56:04.724[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1415:56:30.930[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:57:02.709[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1415:57:17.979[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1415:57:33.248[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1415:57:34.573[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:02:10.060[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : FAILED
+[INFO ]2023-11-1416:02:10.090[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:02:10.113[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:02:10.130[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:02:10.149[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1416:02:10.180[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:02:10.194[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:02:13.527[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:02:14.337[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:02:15.929[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:02:23.342[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:02:31.086[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1416:02:39.029[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:02:39.754[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:04:32.353[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1416:04:32.353[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : FAILED
+[INFO ]2023-11-1416:04:32.875[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1416:04:32.915[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:04:36.112[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1416:04:36.185[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:04:37.642[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1416:04:37.871[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:04:38.062[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1416:04:41.838[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1416:04:51.295[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1416:07:14.732[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:07:15.225[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:07:16.734[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:07:24.214[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:07:32.052[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:07:32.730[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:08:08.729[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1416:08:09.185[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:08:10.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:08:17.920[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:08:25.447[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1416:08:44.823[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : FAILED
+[INFO ]2023-11-1416:08:44.861[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:08:44.881[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:08:44.899[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:08:44.929[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1416:08:50.575[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:08:51.139[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:08:52.648[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:09:00.084[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:09:08.235[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:09:08.867[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:09:28.947[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : FAILED
+[INFO ]2023-11-1416:09:28.984[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:09:29.004[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:09:29.022[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:09:29.051[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:09:29.066[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:09:33.117[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1416:09:33.706[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:09:35.186[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:09:42.453[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:09:45.125[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1416:10:02.720[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : FAILED
+[INFO ]2023-11-1416:10:02.766[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:10:02.804[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:10:02.823[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:10:02.852[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1416:10:06.106[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:10:06.619[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:10:08.089[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:10:15.559[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:10:23.239[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:10:23.940[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:16:41.264[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:16:41.777[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:16:43.453[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:16:50.997[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:16:58.819[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:16:59.507[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:17:03.649[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1416:17:08.104[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1416:17:21.232[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1416:17:21.258[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1416:17:21.280[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1416:17:36.442[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1416:17:36.948[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:17:38.199[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:17:45.367[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:17:52.996[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1416:21:27.487[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:21:27.957[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:21:29.331[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:21:36.804[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:21:44.512[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:21:45.132[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:23:13.887[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:23:14.397[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:23:15.916[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:23:23.330[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:23:31.111[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:23:31.827[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:33:03.370[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:33:03.885[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:33:05.869[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:33:13.435[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:33:21.503[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:33:22.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:33:45.441[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:33:46.037[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:33:47.984[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:33:55.646[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:34:03.740[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:34:04.942[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:34:22.014[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1416:34:22.619[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:34:24.544[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:34:32.137[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:34:40.633[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1416:35:27.842[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1416:35:28.537[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:35:30.532[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:35:38.181[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:35:46.399[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1416:35:47.647[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1416:35:52.491[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1416:35:53.029[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:35:54.802[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:36:02.242[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:36:10.513[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1416:36:51.469[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : FAILED
+[INFO ]2023-11-1416:36:51.469[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1416:36:52.326[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1416:36:52.432[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1416:36:55.587[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1416:36:55.701[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1416:36:56.473[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1416:36:56.800[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1416:36:57.467[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1416:36:57.480[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1416:36:57.482[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1419:56:34.480[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1419:56:35.093[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1419:56:41.440[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1419:56:42.474[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1419:56:45.629[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1419:57:00.518[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1419:57:16.721[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1420:09:22.157[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1420:09:22.636[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:09:28.338[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1420:09:29.239[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:09:31.751[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:09:46.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:10:02.551[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1420:18:25.102[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1420:18:25.603[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:18:31.295[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1420:18:32.055[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:18:34.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:18:49.157[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:19:04.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1420:20:21.483[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1420:20:21.961[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:20:27.662[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1420:20:28.496[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:20:31.151[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:20:46.278[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:21:02.403[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1420:21:25.575[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1420:21:26.130[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:21:31.801[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-1420:21:32.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:21:35.243[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:21:49.915[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:22:05.746[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1420:22:07.844[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1420:28:59.531[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1420:29:00.051[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:29:01.461[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:29:08.936[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:29:17.801[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1420:29:18.764[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1420:29:22.540[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1420:29:23.039[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1420:29:23.560[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1420:29:24.101[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1420:29:24.559[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1420:30:35.138[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1420:30:35.828[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1420:30:37.101[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:30:44.418[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1420:30:55.012[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1420:30:56.041[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1420:30:59.862[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1420:30:59.904[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1420:30:59.937[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1420:30:59.962[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1420:30:59.987[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:01:54.196[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1421:01:54.667[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:01:56.182[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:02:03.458[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:02:11.593[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1421:02:12.726[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1421:02:28.292[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1421:02:28.718[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:02:29.977[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:02:37.341[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:02:45.212[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1421:03:06.243[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1421:03:07.037[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:03:08.460[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:03:15.657[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:03:23.731[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-1421:03:24.680[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : PASSED
+[INFO ]2023-11-1421:03:28.485[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1421:03:29.003[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:03:30.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:03:37.406[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:03:45.360[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1421:04:49.221[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : FAILED
+[INFO ]2023-11-1421:04:49.286[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1421:04:49.305[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:04:49.330[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:04:49.366[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1421:04:49.385[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1421:04:52.982[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1421:04:53.497[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:04:54.689[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:05:01.839[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:05:09.538[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1421:07:48.182[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : FAILED
+[INFO ]2023-11-1421:07:48.256[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-1421:07:48.272[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:07:48.291[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:07:48.317[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-1421:07:48.337[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-ListSuite is : FAILED
+[INFO ]2023-11-1421:07:52.040[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-1421:07:52.664[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:07:53.934[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:08:01.105[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:08:08.791[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : PASSED
+[INFO ]2023-11-1421:09:07.248[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1421:09:37.727[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1421:09:38.439[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1421:10:28.081[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[INFO ]2023-11-1421:10:44.482[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-1421:10:45.102[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-1421:12:02.059[TestNG-test=Test-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[INFO ]2023-11-1421:12:02.059[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-1421:12:07.512[TestNG-test=Test-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-1421:18:54.456[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:18:55.155[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:19:00.346[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:20:10.133[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:20:10.834[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:20:17.228[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:20:24.794[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:20:38.561[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:23:22.248[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:23:22.942[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:23:29.311[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:23:36.782[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:23:50.428[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:26:50.072[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:26:50.819[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:26:57.272[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:27:02.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:27:07.561[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:28:04.817[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:28:05.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:28:11.997[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:28:12.399[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:28:17.761[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:30:01.723[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:30:02.629[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:30:09.050[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:30:15.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:30:21.145[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:31:20.361[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:31:21.073[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:31:26.587[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:33:21.308[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:33:21.958[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:33:28.341[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:33:35.468[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:33:49.216[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED
+[INFO ]2023-11-1421:34:22.257[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-1421:34:22.842[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-1421:34:29.187[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-1421:34:36.252[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-1421:34:50.033[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For IntroductionSuite is : FAILED

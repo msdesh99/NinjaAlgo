@@ -29,33 +29,39 @@ public class DataStructurePage extends AllActions{
 	}
 	@FindBy(xpath = "//*[@class='card-body d-flex flex-column']/h5") 
 	List<WebElement> moduleList;
-		
-	public void GetIntoModule(String moduleName) throws Exception {
-		 for(WebElement element: moduleList) {      
-				 if(element.getText().contentEquals(moduleName)) {
-					ClickElement(element, driver);
-					locator = By.xpath("//*[text()='" +moduleName+"']//following::a[@href = '"+moduleName.replace(" ","-").toLowerCase()+"']");
-					ClickElement(CallDriverWait(driver, locator), driver);
-					break;
-				 }	
-		 }		 
-	/*	boolean foundModule =false;
-		for(String moduleType: ConfigReader.getModules()) {
-				if(moduleName.contentEquals(moduleType)) {
-					foundModule =true;
-				    break;}
-		}
-		if(foundModule) {		
-           for(WebElement element: moduleList) {      
- 						 if(element.getText().contentEquals(moduleName)) {
- 							ClickElement(element, driver);
- 							locator = By.xpath("//*[text()='" +moduleName+"']//following::a[@href = '"+moduleName.replace(" ","-").toLowerCase()+"']");
- 							ClickElement(CallDriverWait(driver, locator), driver);
- 							foundModule =true;
- 							break;
- 						 }	
- 	 		}
- 		}else  System.out.println("module not found"); 	 */
+	
+	@FindBy(xpath="//*[@href='time-complexity']")
+	WebElement timeComplexityElement;
+	
+	@FindBy(xpath="//*[contains(@class,'list-group-item')]")
+	List<WebElement> timeComplexityList;
 
+	public void GetTimeComplexity(String string) {
+		ClickElement(timeComplexityElement, driver);				
+	}
+	public void GetTopic(String topic) {
+		 for(WebElement element: timeComplexityList) {      
+			 if(element.getText().contentEquals(topic)) {
+				//ClickElement(element, driver);
+				locator = By.xpath("//*[@id='content']//*[text()='"+topic+"']");
+				ClickElement(CallDriverWait(driver, locator), driver);
+				break;
+			 }	
+	 }		 
+	}
+	
+	/*public void GetIntoModule(String moduleName) throws Exception {
+	 for(WebElement element: moduleList) {      
+			 if(element.getText().contentEquals(moduleName)) {
+				ClickElement(element, driver);
+				locator = By.xpath("//*[text()='" +moduleName+"']//following::a[@href = '"+moduleName.replace(" ","-").toLowerCase()+"']");
+				ClickElement(CallDriverWait(driver, locator), driver);
+				break;
+			 }	
+	 }		 
+}	 */
+	
 }
-}
+
+	
+

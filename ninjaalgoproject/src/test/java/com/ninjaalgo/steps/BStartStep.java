@@ -17,22 +17,15 @@ public class BStartStep {
     String url;
     StartPage startPage;   
     HomePage homePage;
- /*   
-	@Given("open url with {string} browser")
-	public void open_url_with_browser(String url) throws Exception{
-		DriverFactory driverFactory = new DriverFactory();
-		driver = driverFactory.SingleDriver(string);
-		url = ConfigReader.getBaseUrl();
-		driver.get(url); 
-   } */	
-	@Given("Click Get Started button")
+ // moved to commonsteps 
+/*	@Given("Click Get Started button")
 	public void click_get_started_button() {
 		for(WebDriver driver: DriverFactory.getMapDrivers().values()) {
 			startPage = PageFactory.initElements(driver, StartPage.class);
 			startPage.ClickButton();
 		}
 	}
-
+*/
 }
 	
 	

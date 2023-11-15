@@ -42,7 +42,7 @@ public Object[][] loginData(){
 	  commonSteps = new CommonSteps();
 	  commonSteps.CreateDriver(url,browserType); 
 
-	  for(WebDriver driver: DriverFactory.getMapDrivers().values()) 
+	        driver = DriverFactory.getDriver();
 			driver.get(url); 
 
 	       xmlPath = System.getProperty("user.dir")+xmlPath;
@@ -54,12 +54,12 @@ public Object[][] loginData(){
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		for(WebDriver driver: DriverFactory.getMapDrivers().values()) 
+	    // WebDriver driver = DriverFactory.getDriver();
 		loginPage = PageFactory.initElements(driver, LoginPage.class);
   }
  @AfterClass
   public void afterClass() {
-	for(WebDriver driver: DriverFactory.getMapDrivers().values()) 
+     WebDriver driver = DriverFactory.getDriver();
       driver.quit();
   }
 @Test(dataProvider = "ds")

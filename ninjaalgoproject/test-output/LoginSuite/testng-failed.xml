@@ -3,13 +3,13 @@
 <suite name="Failed suite [LoginSuite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.ninjaalgo.runner.DDLoginTestCase">
+      <class name="com.ninjaalgo.runner.DDataSuite2">
         <methods>
-          <include name="setup"/>
-          <include name="afterClass"/>
-          <include name="LoginValidity"/>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="runScenario" invocation-numbers="1 2 3"/>
         </methods>
-      </class> <!-- com.ninjaalgo.runner.DDLoginTestCase -->
+      </class> <!-- com.ninjaalgo.runner.DDataSuite2 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [LoginSuite] -->

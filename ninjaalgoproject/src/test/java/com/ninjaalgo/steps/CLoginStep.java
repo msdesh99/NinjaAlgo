@@ -15,7 +15,7 @@ public class CLoginStep {
     WebDriver driver;
     String url;
     LoginPage loginPage;
-    
+ /* moved to common step    
     @Given("Click SignIn")
     public void Click_SignIn() {
 		for(WebDriver driver: DriverFactory.getMapDrivers().values()) {
@@ -34,7 +34,7 @@ public class CLoginStep {
 	public void click_login_password_submit() throws Exception {
 
 	}
-
+*/
 }
 	
 	

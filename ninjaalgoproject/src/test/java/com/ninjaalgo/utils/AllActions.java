@@ -21,6 +21,16 @@ public class AllActions {
 	static Alert alert;
 	static String path;
 	
+	public static void SendKeysElement(WebDriver driver, WebElement element, String inputString) {
+		action = new Actions(driver);
+		//action.sendKeys(inputString).perform();
+		action.sendKeys(element, inputString).build().perform();
+		//action.moveToElement(ele).click().build().perform();	
+
+	//	js = (JavascriptExecutor) driver;
+		//js.executeScript("document.getElementById('id_username').setAttribute('value', 'NinjaAlgo')");
+	//	js.executeScript("document.getElementByName('element').setAttribute('value', 'inputString')");
+	}
 	public static void ClickArrElement(WebDriver driver, WebElement[] element) {
 		js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click();arguments[1].click();", element[0], element[1]);
@@ -78,12 +88,12 @@ public class AllActions {
 		    .until(ExpectedConditions.urlMatches(url));
 	}
 	public static WebElement DriverWaitForElement(WebDriver driver, WebElement element) {		
-		WebElement ele =  new WebDriverWait(driver, Duration.ofSeconds(4))
+		WebElement ele =  new WebDriverWait(driver, Duration.ofSeconds(6))
 				.until(ExpectedConditions.visibilityOf(element));
 		return ele;
 	}
 	public static void DriverWaitForTextAndVisible(WebDriver driver, WebElement element, String text) {		
-	new WebDriverWait(driver, Duration.ofSeconds(4))
+	new WebDriverWait(driver, Duration.ofSeconds(6))
 		.until(ExpectedConditions.and(
 		ExpectedConditions.textToBePresentInElement(element, text),
 		ExpectedConditions.visibilityOf(element)));
