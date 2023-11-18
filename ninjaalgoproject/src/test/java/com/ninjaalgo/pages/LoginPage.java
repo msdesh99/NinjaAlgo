@@ -38,8 +38,20 @@ public class LoginPage extends AllActions {
 	@FindBy(xpath = "//*[@type='submit']")
 	WebElement submitElement;
 
+	@FindBy(xpath="//*[text()='Sign out']")
+	WebElement signOut;
+	
+	@FindBy(xpath="//*[@role='alert']")
+	WebElement signOutAlert;
+	
 	public void ClickSignIn() {
 		ClickElement(signIn, driver);
+	}
+	public String ClickSignOut() {
+		ClickElement(signOut, driver);
+		//signOut.click();
+		By locator = By.xpath("//*[@role='alert']");
+		return CallDriverWait(driver,locator).getText();
 	}
 	public void SetLoginCred(String[] loginCred) {
  		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(6));
@@ -48,9 +60,11 @@ public class LoginPage extends AllActions {
          System.out.println("login: "+loginCred[0]);
 
          
-		DriverWaitForElement(driver, userElement);
+		//DriverWaitForElement(driver, userElement);
 		userElement.clear();
-        SendKeysElement(driver, userElement, loginCred[0]);
+		userElement.sendKeys(loginCred[0]);
+
+        //SendKeysElement(driver, userElement, loginCred[0]);
         //DriverWaitForTextAndVisible(driver,userElement,loginCred[0]);
 		//userElement.click();
 
@@ -64,7 +78,7 @@ public class LoginPage extends AllActions {
 		//DriverWaitForTextAndVisible(driver, userElement, loginCred[0]);
 
 	
-		DriverWaitForElement(driver, passwordElement);
+		//DriverWaitForElement(driver, passwordElement);
 
 		passwordElement.clear();
 		passwordElement.sendKeys(loginCred[1]);
@@ -73,7 +87,7 @@ public class LoginPage extends AllActions {
 		
 		ClickArrElement(this.driver, new WebElement[] { userElement, passwordElement });
 		
-		DriverWaitForElement(driver, submitElement);
+		//DriverWaitForElement(driver, submitElement);
 
 		//submitElement.submit();
 		submitElement.click();
@@ -81,4 +95,5 @@ public class LoginPage extends AllActions {
 		By locator = By.xpath("//*[contains(text(),'Invalid Username and Password')]");
 		DriverWaitForLocatorOrUrl(driver,locator, "home");
 	}
+	
 }

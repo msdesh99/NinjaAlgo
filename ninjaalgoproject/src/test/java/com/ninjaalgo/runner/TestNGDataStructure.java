@@ -11,7 +11,7 @@ import io.cucumber.testng.CucumberOptions;
 //@RunWith(Cucumber.class)
 @CucumberOptions(
 	    // tags =("@open or @loginPage"), //for Data-structure
-		  tags =("@data"), //for Data-structure
+		  tags =("@openChrome or @login or @data"), //for Data-structure
 		  //tags =("@array"), //for Data-structure
 
 		 //tags =("@data or @array"), //for Data-structure

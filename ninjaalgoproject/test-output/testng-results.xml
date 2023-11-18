@@ -1,229 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="3" failed="2" skipped="0">
+<testng-results ignored="0" total="3" passed="2" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-14T21:34:16 GMT-05:00" name="Default suite" finished-at="2023-11-14T21:34:50 GMT-05:00" duration-ms="33432">
+  <suite started-at="2023-11-18T15:35:16 GMT-05:00" name="Parallel test suite" finished-at="2023-11-18T15:35:22 GMT-05:00" duration-ms="6451">
     <groups>
-      <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.DDataSuite2@6150c3ec]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
-      </group> <!-- cucumber -->
     </groups>
-    <test started-at="2023-11-14T21:34:16 GMT-05:00" name="Default test" finished-at="2023-11-14T21:34:50 GMT-05:00" duration-ms="33432">
-      <class name="com.ninjaalgo.runner.DDataSuite2">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.ninjaalgo.runner.DDataSuite2@6150c3ec]" started-at="2023-11-14T21:34:16 GMT-05:00" name="setUpClass" finished-at="2023-11-14T21:34:17 GMT-05:00" duration-ms="533" status="PASS">
+    <test started-at="2023-11-18T15:35:16 GMT-05:00" name="Test" finished-at="2023-11-18T15:35:22 GMT-05:00" duration-ms="6451">
+      <class name="com.ninjaalgo.runner.DDPythonArrayTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ninjaalgo.runner.DDPythonArrayTestCase@f5958c9]" started-at="2023-11-18T15:35:16 GMT-05:00" name="setup" finished-at="2023-11-18T15:35:19 GMT-05:00" duration-ms="2601" status="FAIL">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@6ea246af]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.DDataSuite2@6150c3ec]" started-at="2023-11-14T21:34:17 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-14T21:34:22 GMT-05:00" duration-ms="4979" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["For firefox browser"]]>
+                <![CDATA[https://dsportalapp.herokuapp.com/login]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["Open and Get Started dsalgoportal"]]>
+                <![CDATA[/src/test/resources/TestData/TestData.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.DDataSuite2@6150c3ec]" started-at="2023-11-14T21:34:22 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-14T21:34:22 GMT-05:00" duration-ms="578" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Get Started"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Open and Get Started dsalgoportal"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.DDataSuite2@6150c3ec]" started-at="2023-11-14T21:34:22 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-14T21:34:29 GMT-05:00" duration-ms="6338" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Login Credentials"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Open and Login on dsalgoportal"]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.TimeoutException">
+          <exception class="java.lang.NullPointerException">
             <message>
-              <![CDATA[Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on windows (145473b5-a906-4763-bc1c-3826ce57c135)] -> xpath: //*[@id='id_username']] (tried for 6 second(s) with 500 milliseconds interval)]]>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on windows (145473b5-a906-4763-bc1c-3826ce57c135)] -> xpath: //*[@id='id_username']] (tried for 6 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
-at com.ninjaalgo.utils.AllActions.DriverWaitForElement(AllActions.java:92)
-at com.ninjaalgo.pages.LoginPage.SetLoginCred(LoginPage.java:51)
-at com.ninjaalgo.steps.CommonSteps.send_login_with_password(CommonSteps.java:128)
-at ✽.Send Login "test1" with password "test123"(classpath:com/ninjaalgo/features/CLogin.feature:13)
-Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: //*[@id='id_username']
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.15.0', revision: '1d14b5521b'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [145473b5-a906-4763-bc1c-3826ce57c135, findElement {using=xpath, value=//*[@id='id_username']}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0.1, moz:accessibilityChecks: false, moz:buildID: 20231106151204, moz:debuggerAddress: 127.0.0.1:9494, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 26108, moz:profile: C:\Users\mdesh\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:9494/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 145473b5-a906-4763-bc1c-3826ce57c135
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:364)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:358)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy38.isDisplayed(Unknown Source)
-at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:204)
-at com.ninjaalgo.utils.AllActions.DriverWaitForElement(AllActions.java:92)
-at com.ninjaalgo.pages.LoginPage.SetLoginCred(LoginPage.java:51)
-at com.ninjaalgo.steps.CommonSteps.send_login_with_password(CommonSteps.java:128)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-at java.base/java.lang.reflect.Method.invoke(Method.java:578)
-at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
-at io.cucumber.java.Invoker.invoke(Invoker.java:24)
-at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
-at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
-at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
-at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
-at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
-at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
-at io.cucumber.core.runner.TestStep.run(TestStep.java:56)
-at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
-at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
-at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
-at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
-at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
-at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
-at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
-at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
-at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+at com.ninjaalgo.runner.DDPythonArrayTestCase.setup(DDPythonArrayTestCase.java:44)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 at java.base/java.lang.reflect.Method.invoke(Method.java:578)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:848)
-at org.testng.TestRunner.run(TestRunner.java:621)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-at org.testng.TestNG.runSuites(TestNG.java:1114)
-at org.testng.TestNG.run(TestNG.java:1082)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1623)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.DDataSuite2@6150c3ec]" started-at="2023-11-14T21:34:29 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-14T21:34:36 GMT-05:00" duration-ms="7053" status="PASS">
+        </test-method> <!-- setup -->
+        <test-method signature="LoginValidity(java.lang.String,java.lang.String)[pri:0, instance:com.ninjaalgo.runner.DDPythonArrayTestCase@f5958c9]" started-at="2023-11-18T15:35:20 GMT-05:00" name="LoginValidity" data-provider="ds" finished-at="2023-11-18T15:35:20 GMT-05:00" duration-ms="0" status="SKIP">
           <params>
             <param index="0">
               <value>
-                <![CDATA["Login Credentials"]]>
+                <![CDATA[def search(input_list, num):
+output = 'Number is Not Found'
+for x in input_list:
+if x == num:
+output = 'Number is found'
+print(str(num) + ' is '+output)
+input_list=[12,23,45,56,67]
+num=564
+search(input_list,num)
+]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA["Open and Login on dsalgoportal"]]>
+                <![CDATA[564 is Number is Not Found]]>
               </value>
             </param>
           </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.DDataSuite2@6150c3ec]" started-at="2023-11-14T21:34:36 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-14T21:34:50 GMT-05:00" duration-ms="13780" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["IntroductionSuite"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["DataStructure module"]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.TimeoutException">
+          <exception class="java.lang.NullPointerException">
             <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='content']//*[text()='Time Complexity'] (tried for 6 second(s) with 500 milliseconds interval)
-Build info: version: '4.15.0', revision: '1d14b5521b'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0.1, moz:accessibilityChecks: false, moz:buildID: 20231106151204, moz:debuggerAddress: 127.0.0.1:9494, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 26108, moz:profile: C:\Users\mdesh\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:9494/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 145473b5-a906-4763-bc1c-3826ce57c135]]>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='content']//*[text()='Time Complexity'] (tried for 6 second(s) with 500 milliseconds interval)
-Build info: version: '4.15.0', revision: '1d14b5521b'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 119.0.1, moz:accessibilityChecks: false, moz:buildID: 20231106151204, moz:debuggerAddress: 127.0.0.1:9494, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 26108, moz:profile: C:\Users\mdesh\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:9494/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 145473b5-a906-4763-bc1c-3826ce57c135
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
-at com.ninjaalgo.utils.AllActions.CallDriverWait(AllActions.java:80)
-at com.ninjaalgo.pages.DataStructurePage.GetTopic(DataStructurePage.java:47)
-at com.ninjaalgo.steps.DDataStructure.ClickOnDataTopic(DDataStructure.java:30)
-at ✽.ClickOnDataTopic "Time Complexity"(classpath:com/ninjaalgo/features/DData-Suite.feature:10)
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+at com.ninjaalgo.runner.DDPythonArrayTestCase.setup(DDPythonArrayTestCase.java:44)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1623)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.ninjaalgo.runner.DDataSuite2@6150c3ec]" started-at="2023-11-14T21:34:50 GMT-05:00" name="tearDownClass" finished-at="2023-11-14T21:34:50 GMT-05:00" duration-ms="107" status="PASS">
+        </test-method> <!-- LoginValidity -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.ninjaalgo.runner.DDPythonArrayTestCase@f5958c9]" started-at="2023-11-18T15:35:20 GMT-05:00" name="afterClass" finished-at="2023-11-18T15:35:20 GMT-05:00" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDownClass -->
-      </class> <!-- com.ninjaalgo.runner.DDataSuite2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ninjaalgo.runner.DDPythonArrayTestCase -->
+      <class name="com.ninjaalgo.runner.DDLoginTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ninjaalgo.runner.DDLoginTestCase@217ed35e]" started-at="2023-11-18T15:35:16 GMT-05:00" name="setup" finished-at="2023-11-18T15:35:21 GMT-05:00" duration-ms="4823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://dsportalapp.herokuapp.com/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[/src/test/resources/TestData/TestData.xlsx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginValidity(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ninjaalgo.runner.DDLoginTestCase@217ed35e]" started-at="2023-11-18T15:35:21 GMT-05:00" name="LoginValidity" data-provider="ds" finished-at="2023-11-18T15:35:22 GMT-05:00" duration-ms="591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NinjaAlgo1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Algo3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginValidity -->
+        <test-method signature="LoginValidity(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ninjaalgo.runner.DDLoginTestCase@217ed35e]" started-at="2023-11-18T15:35:22 GMT-05:00" name="LoginValidity" data-provider="ds" finished-at="2023-11-18T15:35:22 GMT-05:00" duration-ms="575" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NinjaAlgo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Algo123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginValidity -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.ninjaalgo.runner.DDLoginTestCase@217ed35e]" started-at="2023-11-18T15:35:22 GMT-05:00" name="afterClass" finished-at="2023-11-18T15:35:22 GMT-05:00" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ninjaalgo.runner.DDLoginTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Parallel test suite -->
 </testng-results>

@@ -3,8 +3,8 @@
 */
 package com.ninjaalgo.driverfactory;
 
-import java.util.HashMap;
 import java.util.Properties;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -16,7 +16,6 @@ public class DriverFactory {
  	static Properties prop;
 	static String allBrowsers;
  
-    public static HashMap<String, WebDriver> dMap = new HashMap<String,WebDriver>();
 
     public static ThreadLocal<WebDriver> tDriver; 
     
@@ -36,11 +35,7 @@ public class DriverFactory {
 				tDriver.set(new EdgeDriver());
 			}
 			else throw new Exception("Browser not supported"); 
-				  //dMap.put(selectedBrowser.toLowerCase(),tDriver.get());
-				 // dMap.put(tDriver.get().getWindowHandle(),tDriver.get());
-
-			  
-		return getDriver();
+			return getDriver();
 	}	
 	  public static WebDriver getDriver() {
 			return tDriver.get();	   

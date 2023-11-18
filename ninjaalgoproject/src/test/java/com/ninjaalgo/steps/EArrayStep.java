@@ -20,34 +20,49 @@ public class EArrayStep {
 	HomePage homePage;
 	ArrayPage arrayPage;
 	CommonSteps commonSteps;
-/*	@Then("ClickArray {string}")
+
+	@Then("ClickOnArrayModule {string}")
 	public void click(String string) throws Exception {
-		System.out.println("in clickarray step: "+string);
-		  for(WebDriver driver: DriverFactory.getMapDrivers().values())	{
-				homePage = PageFactory.initElements(driver, HomePage.class);
+		      WebDriver driver = DriverFactory.getDriver();
+		        homePage = PageFactory.initElements(driver, HomePage.class);
 				homePage.GetIntoModule(string);
-			 }	
-	} */
+	} 
 	@Then("ClickInArray {string}")
 	public void click_in_array(String string) {
-		System.out.println("in clickarray step: "+string);
-		  //for(WebDriver driver: DriverFactory.getMapDrivers().values())	{
-		  // for( Map.Entry<String, WebDriver> entry :DriverFactory.getMapDrivers().entrySet()){
 		        WebDriver driver = DriverFactory.getDriver();
-		       /* commonSteps = new CommonSteps();
-		        WebDriver driver =  commonSteps.GetDriver(entry); */
 				arrayPage = PageFactory.initElements(driver, ArrayPage.class);
 				arrayPage.GetArrayTopic(string);
-			 //}	
 	} 
 	@Then("ClickOnArrayTopic {string}")
 	public void ClickOnArrayTopic(String string) {
-		  /* for( Map.Entry<String, WebDriver> entry :DriverFactory.getMapDrivers().entrySet()){
-		        commonSteps = new CommonSteps();
-		        WebDriver driver =  commonSteps.GetDriver(entry);*/
-                WebDriver driver = DriverFactory.getDriver();
+	            WebDriver driver = DriverFactory.getDriver();
 				arrayPage = PageFactory.initElements(driver, ArrayPage.class);
 				arrayPage.GetIntoTopic(string);
-			// }	
 	}
+	@Then("Add Python code {string}")
+	public void add_python_code(String string) throws Exception {
+		    WebDriver driver = DriverFactory.getDriver();
+			arrayPage = PageFactory.initElements(driver, ArrayPage.class);
+			//arrayPage.TryPython(string);
+			arrayPage.TryPython();
+	}
+	@Then("Verify arraycurrentUrl {string} and {string}")
+	public void verify_arraycurrentUrl(String url, String type) {	
+		commonSteps = new CommonSteps();
+		 if(type.contentEquals("module"))commonSteps.VerifyURl(url);
+		 else commonSteps.VerifyURl(url+type);
+	}
+	  
+	@Then("GoTO ArrayPage and {string}")
+	public void go_to_array_home_page_and(String string) {
+		  WebDriver driver = DriverFactory.getDriver();
+		    String url = ConfigReader.getBaseUrl().toString()+string;
+			driver.get(url);		
+	}
+	@Then("GoTO ArrayHomePage")
+	public void go_to_array_home_page() {
+		  WebDriver driver = DriverFactory.getDriver();
+			driver.get(ConfigReader.getModuleUrl().toString());
+	}
+
 }

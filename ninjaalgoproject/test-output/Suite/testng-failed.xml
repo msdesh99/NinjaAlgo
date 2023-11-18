@@ -3,14 +3,14 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <parameter name="url" value="https://dsportalapp.herokuapp.com/login"/>
-    <parameter name="xmlPath" value="/src/test/resources/TestData/loginData.xlsx"/>
-    <parameter name="browserType" value="firefox"/>
+    <parameter name="xmlPath" value="/src/test/resources/TestData/TestData.xlsx"/>
+    <parameter name="browserType" value="edge"/>
     <classes>
       <class name="com.ninjaalgo.runner.DDLoginTestCase">
         <methods>
           <include name="setup"/>
           <include name="afterClass"/>
-          <include name="LoginValidity" invocation-numbers="1"/>
+          <include name="LoginValidity"/>
         </methods>
       </class> <!-- com.ninjaalgo.runner.DDLoginTestCase -->
     </classes>

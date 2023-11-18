@@ -9,9 +9,12 @@ import java.time.Duration;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -23,19 +26,16 @@ public class AllActions {
 	
 	public static void SendKeysElement(WebDriver driver, WebElement element, String inputString) {
 		action = new Actions(driver);
-		//action.sendKeys(inputString).perform();
 		action.sendKeys(element, inputString).build().perform();
-		//action.moveToElement(ele).click().build().perform();	
-
-	//	js = (JavascriptExecutor) driver;
-		//js.executeScript("document.getElementById('id_username').setAttribute('value', 'NinjaAlgo')");
-	//	js.executeScript("document.getElementByName('element').setAttribute('value', 'inputString')");
 	}
 	public static void ClickArrElement(WebDriver driver, WebElement[] element) {
 		js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click();arguments[1].click();", element[0], element[1]);
 	}
-
+	public static void ClickRegisterArrElement(WebDriver driver, WebElement[] element) {
+		js = (JavascriptExecutor) driver;
+		js.executeScript("arguments[0].click();arguments[1].click();arguments[2].click();", element[0], element[1],element[2]);
+	}
 	public static boolean ClickElement(WebElement element, WebDriver driver) {
 		WebElement ele;
 		try {
@@ -80,7 +80,7 @@ public class AllActions {
 				.until(ExpectedConditions.visibilityOfElementLocated(locator));
 }
 	public static WebElement FindElementWithLocator(WebDriver driver, By locator) {
-		return new WebDriverWait(driver, Duration.ofSeconds(3))
+		return new WebDriverWait(driver, Duration.ofSeconds(7))
 				.until(ExpectedConditions.presenceOfElementLocated(locator));
 	}
 	public static void DriverWaitForUrl(WebDriver driver, String url) {
@@ -110,9 +110,47 @@ public class AllActions {
 				return null;
 			}		
 	}
+	public static void DriverWaitForClickable(WebDriver driver, By locator) {
+		new WebDriverWait(driver, Duration.ofSeconds(6))
+		.until(ExpectedConditions.elementToBeClickable(locator));
+	}
 	public static void ScrollToElementjs(WebDriver driver, WebElement element) {
 		js.executeScript("arguments[0].scrollIntoView(true);", element);
 
 	}
+	public static void TextIndentation(WebDriver driver, WebElement pythonElement, int row, int space,boolean flag) {
+		 action = new Actions(driver);
+	       // Keys cmdCtrl = Platform.getCurrent().is(Platform.MAC) ? Keys.COMMAND : Keys.CONTROL;
+		for(int i=1;i<=row;i++) {
+		      action.sendKeys(Keys.ARROW_UP).keyUp(Keys.SHIFT).perform();
+		       for(int j=1;j<=space;j++) {
+	            if(i==1 && flag) action.sendKeys(Keys.BACK_SPACE).perform();
+	            else action.sendKeys(Keys.DELETE).perform();
+			   }
+		}  
+	}	
+	public static String DriverWaitForElementOrAlert(WebDriver driver, WebElement pythonResult) {
+		    String output=null;
+	         try {
+	           alert = new WebDriverWait(driver, Duration.ofSeconds(4))
+	            		.until(ExpectedConditions.alertIsPresent());  
+	            		     try {
+	            		    	 output = driver.switchTo().alert().getText();
+
+							} catch (Exception e) {
+	         	            	DriverWaitForElement(driver, pythonResult);
+							}
+	 	         	        alert.accept();		 
+	         } catch (Exception e) {
+			 }
+	         return output;
+	    }
+		
+    public static void ScreenScrollDown(WebDriver driver) {
+    	js = (JavascriptExecutor) driver;
+    	js.executeScript("window.scrollBy(0,350)", "");
+    }	
+	
+
 
  }

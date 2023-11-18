@@ -12,8 +12,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.ninjaalgo.utils.AllActions;
-import com.ninjaalgo.utils.ConfigReader;
-import com.ninjaalgo.utils.PagesActivity;
 
 public class HomePage extends AllActions{
 	private WebDriver driver;

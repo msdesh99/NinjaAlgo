@@ -14,7 +14,6 @@ public class ConfigReader {
 
     public static Properties initializeProperties() throws Exception {
     	File file = new File("src/test/resources/config/config.properties");    	
-//    	File file = new File(System.getProperty("user.dir")+"src/test/resources/config/config.properties");    	
         
     	try {
 			fis = new FileInputStream(file);

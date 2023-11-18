@@ -4,11 +4,11 @@
 Feature: DataStructure module
   @TimeComplexity
   Scenario:Introduction
-  Given ClickOnHomePage "Data Structures-Introduction"
- 		Then Verify currentUrl "Data Structures-Introduction" and "module"
+  Given ClickOnDataModule "Data Structures-Introduction"
+ 		Then Verify datacurrentUrl "data-structures-introduction/" and "module"
  		Then ClickInData "Time Complexity"
   	Then ClickOnDataTopic "Time Complexity"
-  	Then Verify currentUrl "Data Structures-Introduction" and "time-complexity/"
+  	Then Verify datacurrentUrl "data-structures-introduction/" and "time-complexity/"
   	Then ClickOnDataTopic "Practice Questions"
-  	Then Verify currentUrl "Data Structures-Introduction" and "practice"
-  	
+  	Then Verify datacurrentUrl "data-structures-introduction/" and "practice"
+ 

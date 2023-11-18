@@ -12,6 +12,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.Iterator;
 
+import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.DataFormatter;
@@ -31,39 +32,96 @@ public class XLUtility {
 		XSSFCell cell;
 		CellStyle style ;
 		DataFormatter formatter;
-
+        String function="";
 	    String path = null;
 		File dataFile;
         XSSFWorkbook wkb;
 		XSSFSheet sh;
-
-	public XLUtility(String path) throws IOException {
+        boolean fileExists;
+	public XLUtility(String path, String function) throws IOException, InvalidFormatException {
 			super();
-			this.path = path;
-			//this.path = System.getProperty("user.dir")+"/src/test/resources/TestData/loginData.xlsx";
-			 this.dataFile = new File(path);			
+
+			 //this.path = System.getProperty("user.dir")+"/src/test/resources/TestData/TestData.xlsx";
+		   if(function.contentEquals("Child")) {
+				 this.path = System.getProperty("user.dir")+ path;
+				 this.dataFile = new File(this.path);	}
+		   else if(function.contentEquals("Super"))
+			   this.dataFile = new File(path);	
+			 fileExists = this.dataFile.exists()?true:false;
 		}
 
-public void WriteIntoFile() throws IOException{
-	//inp = getClass().getResourceAsStream("TutorialNinjaData.xls");		
-	 wkb = new XSSFWorkbook();
-	 sh = wkb.createSheet("sheet1");
-	  String[] loginArr = new String[]{"NinjaAlgo1","NinjaAlgo"};
-	   String[] passwordArr = new String[]{"@Algo3","@Algo123"};
-	   String[] statusArr = new String[]{"login","home"};
+public void CreateTestData(String sheet) throws IOException{
+	  sh = GetSheetReady(sheet);
+	  if(sh!=null) {
+		  GetWorkBookReady(sheet);
+	  	  WriteDataIntoFile(dataFile, wkb);
+       } 	  
+}   
+public XSSFSheet GetSheetReady(String sheet) throws IOException {
+	  if(fileExists) {
+		  fi = new FileInputStream(dataFile);
+		  wkb = new XSSFWorkbook(fi);
+	  }
+	  else wkb = new XSSFWorkbook();
+		System.out.println("wkb name: "+wkb.getName(sheet));
+		System.out.println("sheet name: "+sheet);
 
-	   Row r1 = sh.createRow(0);
-	 r1.createCell(0).setCellValue("UserName");
-	 r1.createCell(1).setCellValue("Password");
-	 r1.createCell(2).setCellValue("Status");
-	 System.out.println("leng: "+loginArr.length);
-	 for(int i=1;i<=loginArr.length;i++) {
-		 Row rw = sh.createRow(i);
-		 rw.createCell(0).setCellValue(loginArr[i-1]);
-		 rw.createCell(1).setCellValue(passwordArr[i-1]);
-		 rw.createCell(2).setCellValue(statusArr[i-1]);
-         //rw.createCell(2,CellType.BLANK);
-	 }
+		System.out.println("sheet name: "+wkb.getSheet(sheet));
+
+    if(wkb.getSheet(sheet)== null) {
+     sh = wkb.createSheet(sheet);	
+     return sh;
+    } 
+	else {
+		System.out.println("Sheet already exists");
+		if(fileExists)
+			fi.close();
+	}
+	return null;
+}
+
+public void GetWorkBookReady(String dataType) {
+	if(sh.getSheetName().contentEquals("LoginCred")) {
+				String[] loginArr = new String[] { "NinjaAlgo1", "NinjaAlgo" };
+				String[] passwordArr = new String[] { "@Algo3", "@Algo123" };
+				String[] statusArr = new String[] { "login", "home" };
+
+				Row r1 = sh.createRow(0);
+				r1.createCell(0).setCellValue("UserName");
+				r1.createCell(1).setCellValue("Password");
+				r1.createCell(2).setCellValue("Status");
+				System.out.println("leng: " + loginArr.length);
+				
+				for (int i = 1; i <= loginArr.length; i++) {
+					Row rw = sh.createRow(i);
+					rw.createCell(0).setCellValue(loginArr[i - 1]);
+					rw.createCell(1).setCellValue(passwordArr[i - 1]);
+					rw.createCell(2).setCellValue(statusArr[i - 1]);
+					// rw.createCell(2,CellType.BLANK);
+				}
+	  }
+	if(sh.getSheetName().contentEquals("PythonArray")) {
+	  String[] inputArr = { "def search(input_list, num):","output = 'Number is Not Found'",
+		  		"for x in input_list:","if x == num:","output = 'Number is found'","print(str(num) + ' is '+output)","input_list=[12,23,45,56,67]",
+			  	 "num=564", "search(input_list,num)"};
+		   //String result="564 is Number is Not Found";
+
+		   Row r1 = sh.createRow(0);
+		   Cell cell = r1.createCell(0); 
+		   cell.setCellValue("PythonCode for Array in tryedior arrays in python");
+		   r1.createCell(1).setCellValue("Expected Output");
+
+		   for(int i=1;i<=inputArr.length;i++) {
+			   Row rw = sh.createRow(i);
+				 Cell cell1 = rw.createCell(0); 
+			     cell1.setCellValue(inputArr[i-1]);
+			     if(i==1) rw.createCell(1).setCellValue("564 is Number is Not Found"); 
+		 }
+	}		   
+	
+}
+
+public void WriteDataIntoFile(File file, XSSFWorkbook wkb) throws IOException {
 	try {
 		 fout = new FileOutputStream(this.dataFile);
 	     wkb.write(fout);	
@@ -73,8 +131,10 @@ public void WriteIntoFile() throws IOException{
 	finally {
 		wkb.close();
 		fout.close();
+		if(fileExists)
+		fi.close();
 	} 
-}   
+}
 
 public void CreateNewCell(String sheetName, int rowNumber, String cellValue) throws IOException{
 	try {
@@ -102,8 +162,11 @@ public void CreateNewCell(String sheetName, int rowNumber, String cellValue) thr
 }	
 public int GetLastRow(String sheetName) throws IOException {
 	int lastRow=0;
+	System.out.println("data in xuti: "+dataFile);
+	System.out.println("sheet in xuti: "+sheetName);
+
     try {
-		fi  = new FileInputStream(this.dataFile);
+		fi  = new FileInputStream(dataFile);
 		wkb = new XSSFWorkbook(fi);
 		sh = wkb.getSheet(sheetName);
 		lastRow = sh.getLastRowNum();
@@ -218,15 +281,16 @@ public void FillGreenColor(String sheetName, int row, int cell) throws IOExcepti
             fi  = new FileInputStream(this.dataFile);
 			wkb = new XSSFWorkbook(fi);
 			sh = wkb.getSheet(sheetName);
-		Iterator<Row> rw1 = sh.rowIterator();
+			System.out.println("in readFile: "+sh.getSheetName());
+			Iterator<Row> rw1 = sh.rowIterator();
 		while(rw1.hasNext()) {
 		     Row row1 = rw1.next();
 		     Iterator<Cell> cell1 = row1.cellIterator();
 		     System.out.println();
 		     while(cell1.hasNext()) {
 		    	 Cell cell2 = cell1.next();
-		    	//System.out.println(cell2);
-		    	System.out.printf("%s ",cell2);
+		    	System.out.println(cell2);
+		    	//System.out.printf("%s ",cell2);
 		     }
 		}
 
@@ -238,13 +302,23 @@ public void FillGreenColor(String sheetName, int row, int cell) throws IOExcepti
 		fi.close();
 	}
 }	 
-    public static void main(String[] args) throws IOException {
-		//String path = System.getProperty("user.dir")+"/src/test/resources/TestData/loginData.xlsx";
-  //System.out.println("path: "+path);
-    //	String path = "C:/Users/mdesh/git/LocalNinjaalgoproject/ninjaalgoproject/src/test/resources/TestData/loginData.xlsx";
-    	//XLUtility xlUtility = new XLUtility(path);
-    	//xlUtility.WriteIntoFile();    	
-    	
+    public static void main(String[] args) throws IOException, InvalidFormatException {
+		String path = System.getProperty("user.dir")+"/src/test/resources/TestData/TestData.xlsx";
+		File newFile = new File(path);	
+    
+        XLUtility xlUtility = new XLUtility(path,"Super");    
+     	xlUtility.CreateTestData("LoginCred");
+     	
+        xlUtility = new XLUtility(path,"Super");
+    	xlUtility.CreateTestData("PythonArray");
+
+    	xlUtility = new XLUtility(path,"Super");
+		xlUtility.ReadFile("PythonArray");
+		
+		int totalRows = xlUtility.GetLastRow("PythonArray");
+		int totalCells = xlUtility.GetLastCell("PythonArray", 1);
+
+
     /*	xlUtility.CreateNewCell("sheet1", 3, "New");
 
     	int totalRows =xlUtility.GetLastRow("sheet1");
@@ -259,7 +333,6 @@ public void FillGreenColor(String sheetName, int row, int cell) throws IOExcepti
 		System.out.println(xlUtility.GetCellData("sheet1", 1, 0));
     	
 		xlUtility.FillGreenColor("sheet1", 3, 5);*/
-		//xlUtility.ReadFile("sheet1");
 
     }
     

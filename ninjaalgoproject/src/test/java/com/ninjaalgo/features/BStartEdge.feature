@@ -3,10 +3,13 @@
 
 @openEdge
 Feature: Open and Get Started dsalgoportal
+#@chrome
+  #Scenario: For chrome browser
+    #Given open url with "chrome" browser
   @edge
     Scenario: For edge browser
    Given open url with "edge" browser
-  #
+  
   @GetStarted
     Scenario: Get Started
     Given Click Get Started button
