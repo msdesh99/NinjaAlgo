@@ -57,9 +57,9 @@ public class LoginPage extends AllActions {
 	}
 	public void SetLoginCred(String[] loginCred) {
  		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(6));
-         System.out.println("login: "+driver.getCurrentUrl());
+    /*     System.out.println("login: "+driver.getCurrentUrl());
          System.out.println("login: "+driver.getClass());
-         System.out.println("login: "+loginCred[0]);
+         System.out.println("login: "+loginCred[0]); */
 
          
 		//DriverWaitForElement(driver, userElement);

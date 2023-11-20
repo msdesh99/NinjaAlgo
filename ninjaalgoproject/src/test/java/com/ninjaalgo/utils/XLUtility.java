@@ -162,9 +162,6 @@ public void CreateNewCell(String sheetName, int rowNumber, String cellValue) thr
 }	
 public int GetLastRow(String sheetName) throws IOException {
 	int lastRow=0;
-	System.out.println("data in xuti: "+dataFile);
-	System.out.println("sheet in xuti: "+sheetName);
-
     try {
 		fi  = new FileInputStream(dataFile);
 		wkb = new XSSFWorkbook(fi);

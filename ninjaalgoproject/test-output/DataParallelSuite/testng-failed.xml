@@ -10,13 +10,6 @@
           <include name="runScenario" invocation-numbers="0"/>
         </methods>
       </class> <!-- com.ninjaalgo.runner.ArrayparallelClass -->
-      <class name="com.ninjaalgo.runner.DataparallelClass">
-        <methods>
-          <include name="setUpClass"/>
-          <include name="runScenario" invocation-numbers="0"/>
-          <include name="tearDownClass"/>
-        </methods>
-      </class> <!-- com.ninjaalgo.runner.DataparallelClass -->
     </classes>
   </test> <!-- Test Data(failed) -->
 </suite> <!-- Failed suite [DataParallelSuite] -->

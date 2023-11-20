@@ -4,6 +4,8 @@
 package com.ninjaalgo.runner;
 
 import java.io.IOException;
+import java.time.Duration;
+import java.util.Properties;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.openqa.selenium.WebDriver;
@@ -19,6 +21,7 @@ import com.ninjaalgo.pages.LoginPage;
 import com.ninjaalgo.steps.CommonSteps;
 import com.ninjaalgo.testdata.GetXLData;
 import com.ninjaalgo.utils.AllActions;
+import com.ninjaalgo.utils.ConfigReader;
 import com.ninjaalgo.utils.XLUtility;
 
 public class DDLoginTestCase extends AllActions {
@@ -27,6 +30,8 @@ public class DDLoginTestCase extends AllActions {
 	XLUtility xlutil;
 	LoginPage loginPage;
 	CommonSteps commonSteps;
+	ConfigReader configReader;
+	Properties prop;
 	GetXLData getXLData;
     String xmlPath="";
     
@@ -44,20 +49,20 @@ public class DDLoginTestCase extends AllActions {
 	public void setup(String url, String xmlPath, String browserType) throws Exception {
 		this.xmlPath=xmlPath;
 		getXLData = new GetXLData(this.xmlPath);
-
+		configReader = new ConfigReader();
+		prop = configReader.initializeProperties();	
 		DriverFactory driverFactory = new DriverFactory();
 		driverFactory.SingleDriver(browserType);
 		DriverFactory.getDriver().get(url);
-		// driver.manage().window().maximize();
-		// driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
+		DriverFactory.getDriver().manage().window().maximize();
+		DriverFactory.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
 		
-		loginPage = PageFactory.initElements(driver, LoginPage.class);
+		loginPage = PageFactory.initElements(DriverFactory.getDriver(), LoginPage.class);
 	}
 
 	@AfterClass
 	public void afterClass() {
-		WebDriver driver = DriverFactory.getDriver();
-		driver.quit();
+		DriverFactory.CloseDriver();
 	}
 
 	@Test(dataProvider = "ds")

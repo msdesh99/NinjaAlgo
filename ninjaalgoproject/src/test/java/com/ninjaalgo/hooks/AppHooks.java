@@ -42,9 +42,10 @@ public class AppHooks extends AllActions{
 	public void beforeAll(Scenario scenario) throws Exception {
 	   configReader = new ConfigReader();
 	   prop = configReader.initializeProperties();	
-	   System.out.println("Current thread name: "+Thread.currentThread().getName());
+/*	   System.out.println("Current thread name: "+Thread.currentThread().getName());
 	   System.out.println("Current thread ID: "+Thread.currentThread().threadId());
-	   System.out.println("conf hook: "+ ConfigReader.getBrowserType());	  
+	   System.out.println("conf hook: "+ ConfigReader.getBrowserType());	
+*/	     
     }
     
 @Before(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce or @arrayClass or @dataClass", order=1)
@@ -54,8 +55,7 @@ public class AppHooks extends AllActions{
 		     driverFactory.SingleDriver("edge");
 	   else
 	     driverFactory.SingleDriver("chrome");
-	   System.out.println("Current thread name1: "+Thread.currentThread().getName());
-	   System.out.println("Current thread ID1: "+Thread.currentThread().threadId());
+	   
 	   DriverFactory.getDriver().get(ConfigReader.getBaseUrl().toString());
 	   DriverFactory.getDriver().manage().window().maximize();
 	   DriverFactory.getDriver().manage().deleteAllCookies();

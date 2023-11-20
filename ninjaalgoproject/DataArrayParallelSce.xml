@@ -3,7 +3,7 @@
 <suite name="DataArrayParallelSce" parallel="true">
   <test name="Test" parallel="true">
    <classes>
-   	   	<class name="com.ninjaalgo.runner.DataArrayparallel"></class>  	
+   	   	<class name="com.ninjaalgo.runner.DataArrayparallelSce"></class>  	
    </classes>
   </test> 
 </suite> 
