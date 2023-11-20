@@ -77,15 +77,26 @@
 					<!--  <version>3.0.0-M3</version> -->
 					<version>3.0.0-M3</version>
 					<executions>
-						<execution>
+						<execution>						
 							<configuration>
-								<includes>**/*Test*.java</includes>
+	<!--							<properties>
+        <property>
+            <name>dataproviderthreadcount</name>
+            
+            <value>true</value>
+        </property>								
+        </properties>
+  
+								<suiteXmlFiles>
+									<suiteXmlFile>parallel.xml</suiteXmlFile>
+								</suiteXmlFiles>  -->
+								<includes>*parallelClass.java</includes>
 								<parallel>classesAndMethods</parallel>
-								<useUnlimitedThreads>true</useUnlimitedThreads>  <!--unlimited no of browsers at a time-->
+								<useUnlimitedThreads>true</useUnlimitedThreads> <!--unlimited no of browsers at a time-->
 								<threadCount>4</threadCount>
 							</configuration>
 						</execution>
-					</executions>
+					</executions> 
 				</plugin>
 			</plugins>
 		</pluginManagement>

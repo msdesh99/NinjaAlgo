@@ -18,6 +18,8 @@ public class DDataStructure {
 	DataStructurePage dataStructurePage;
 	HomePage homePage;
 	CommonSteps commonSteps;
+    ConfigReader configReader;
+
 	
 	@Then("ClickOnDataModule {string}")
 	public void clickOnHomePage(String string) throws Exception {
@@ -49,7 +51,7 @@ public class DDataStructure {
 	@Then ("GoTO DataHomePage")
 	public void GoTO_DataHomePage() {
 	    WebDriver driver = DriverFactory.getDriver();
-		driver.get(ConfigReader.getModuleUrl().toString());
+		driver.get(configReader.getModuleUrl().toString());
 	}
 
 

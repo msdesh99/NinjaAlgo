@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="Failed suite [DataArrayParallelSce]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="methods" name="Test(failed)">
+    <classes>
+      <class name="com.ninjaalgo.runner.DataArrayparallel">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="runScenario" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.ninjaalgo.runner.DataArrayparallel -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [DataArrayParallelSce] -->

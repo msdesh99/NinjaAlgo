@@ -25,13 +25,14 @@ public class CommonSteps{
     String currentUrl;
     static  WebDriver driver;
     public static String parentWindowHandle;
-    
+   // ConfigReader configReader;
     StartPage startPage;   
     HomePage homePage;
     LoginPage loginPage;
     
     public CommonSteps() {
 		super();
+		//ConfigReader configReader = new ConfigReader();
 	}
     
 	@Then("Verify currentUrl {string} and {string}")
@@ -54,6 +55,10 @@ public class CommonSteps{
 		 WebDriver driver = DriverFactory.getDriver();
 		 //driver.get(ConfigReader.getModuleUrl().toString());
 	}	
+	@Then("Quit Driver")
+	public void QuitDriver() {
+		DriverFactory.CloseDriver();
+	}
 	public void VerifyURl(String url) {
 		   WebDriver driver = DriverFactory.getDriver();
 			currentUrl =  ConfigReader.getBaseUrl()+"/"+ url;

@@ -17,7 +17,7 @@ import com.ninjaalgo.utils.AllActions;
 public class LoginPage extends AllActions {
 	WebDriver driver;
 	JavascriptExecutor js;
-
+    By locator;
 	public LoginPage(WebDriver driver) {
 		super();
 		this.driver = driver;
@@ -45,7 +45,9 @@ public class LoginPage extends AllActions {
 	WebElement signOutAlert;
 	
 	public void ClickSignIn() {
-		ClickElement(signIn, driver);
+		locator= By.xpath("//*[text()='Sign in']");
+		ClickElement(CallDriverWait(driver, locator), driver);
+		//ClickElement(signIn, driver);
 	}
 	public String ClickSignOut() {
 		ClickElement(signOut, driver);

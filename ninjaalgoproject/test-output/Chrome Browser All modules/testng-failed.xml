@@ -7,9 +7,16 @@
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
-          <include name="runScenario" invocation-numbers="0"/>
+          <include name="runScenario" invocation-numbers="0 1"/>
         </methods>
       </class> <!-- com.ninjaalgo.runner.TestNGArray -->
+      <class name="com.ninjaalgo.runner.TestNGDataStructure">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="runScenario" invocation-numbers="0 1 2 3 4"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.ninjaalgo.runner.TestNGDataStructure -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Chrome Browser All modules] -->

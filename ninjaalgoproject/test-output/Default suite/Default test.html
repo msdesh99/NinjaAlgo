@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/2/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Nov 18 15:18:59 EST 2023</td>
+<td>Started on:</td><td>Mon Nov 20 12:13:16 EST 2023</td>
 </tr>
-<tr><td>Total time:</td><td>1 seconds (1454 ms)</td>
+<tr><td>Total time:</td><td>13 seconds (13414 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,33 +76,161 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.ninjaalgo.runner.TestNGArray.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.TestNGArray<br>Test method: Runs Cucumber Scenarios<br>Parameters: "ArraysinPython", "Array module"</td>
-<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;java.lang.ThreadLocal.get()&quot; because &quot;com.ninjaalgo.driverfactory.DriverFactory.tDriver&quot; is null
-	at com.ninjaalgo.driverfactory.DriverFactory.getDriver(DriverFactory.java:46)
-	at com.ninjaalgo.steps.DDataStructure.GoTO_DataHomePage(DDataStructure.java:51)
-	at ✽.GoTO DataHomePage(classpath:com/ninjaalgo/features/EArray.feature:11)
-</pre></div><a href='#' onClick='toggleBox("stack-trace255839577", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace255839577'><pre>java.lang.NullPointerException: Cannot invoke &quot;java.lang.ThreadLocal.get()&quot; because &quot;com.ninjaalgo.driverfactory.DriverFactory.tDriver&quot; is null
-	at com.ninjaalgo.driverfactory.DriverFactory.getDriver(DriverFactory.java:46)
-	at com.ninjaalgo.steps.DDataStructure.GoTO_DataHomePage(DDataStructure.java:51)
-	at ✽.GoTO DataHomePage(classpath:com/ninjaalgo/features/EArray.feature:11)
+<td title='com.ninjaalgo.runner.Dataparallel1.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.Dataparallel1<br>Test method: Runs Cucumber Scenarios<br>Parameters: "ParallelSuite1", "DataStructure module"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.WebDriver.get(String)&quot; because &quot;this.driver&quot; is null
+	at com.ninjaalgo.hooks.AppHooks.beforeParallel1(AppHooks.java:71)
+</pre></div><a href='#' onClick='toggleBox("stack-trace35399608", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace35399608'><pre>java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.WebDriver.get(String)&quot; because &quot;this.driver&quot; is null
+	at com.ninjaalgo.hooks.AppHooks.beforeParallel1(AppHooks.java:71)
 </pre></div></td>
-<td>0</td>
-<td>com.ninjaalgo.runner.TestNGArray@6150c3ec</td></tr>
+<td>3</td>
+<td>com.ninjaalgo.runner.Dataparallel1@6150c3ec</td></tr>
 <tr>
-<td title='com.ninjaalgo.runner.TestNGArray.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.TestNGArray<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Arrays-Using-List", "Array module"</td>
-<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;java.lang.ThreadLocal.get()&quot; because &quot;com.ninjaalgo.driverfactory.DriverFactory.tDriver&quot; is null
-	at com.ninjaalgo.driverfactory.DriverFactory.getDriver(DriverFactory.java:46)
-	at com.ninjaalgo.steps.EArrayStep.click(EArrayStep.java:26)
-	at ✽.ClickOnArrayModule &quot;Array&quot;(classpath:com/ninjaalgo/features/EArray.feature:23)
-</pre></div><a href='#' onClick='toggleBox("stack-trace351520508", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace351520508'><pre>java.lang.NullPointerException: Cannot invoke &quot;java.lang.ThreadLocal.get()&quot; because &quot;com.ninjaalgo.driverfactory.DriverFactory.tDriver&quot; is null
-	at com.ninjaalgo.driverfactory.DriverFactory.getDriver(DriverFactory.java:46)
-	at com.ninjaalgo.steps.EArrayStep.click(EArrayStep.java:26)
-	at ✽.ClickOnArrayModule &quot;Array&quot;(classpath:com/ninjaalgo/features/EArray.feature:23)
+<td title='com.ninjaalgo.runner.Dataparallel1.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.Dataparallel1<br>Test method: Runs Cucumber Scenarios<br>Parameters: "ParallelSuite2", "DataStructure module"</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for at least one condition to be valid: visibility of element located by By.xpath: //*[contains(text(),&apos;Invalid Username and Password&apos;)] || url to contain &quot;home&quot;. Current url: &quot;&quot; (tried for 5 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
+	at com.ninjaalgo.utils.AllActions.DriverWaitForLocatorOrUrl(AllActions.java:74)
+	at com.ninjaalgo.pages.LoginPage.SetLoginCred(LoginPage.java:98)
+	at com.ninjaalgo.steps.CLoginStep.send_login_with_password(CLoginStep.java:33)
+	at ✽.Send Login &quot;NinjaAlgo&quot; with password &quot;@Algo123&quot;(classpath:com/ninjaalgo/features/DDataParallelSce.feature:30)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.160)
+Build info: version: &apos;4.15.0&apos;, revision: &apos;1d14b5521b&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;20.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [41dae5469c1ca48edbd40a2baba4403e, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\mdesh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54603}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54603/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 41dae5469c1ca48edbd40a2baba4403e
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:680)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:684)
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:321)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:124)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:119)
+	at org.openqa.selenium.support.ui.ExpectedConditions$49.apply(ExpectedConditions.java:1396)
+	at org.openqa.selenium.support.ui.ExpectedConditions$49.apply(ExpectedConditions.java:1390)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:204)
+	at com.ninjaalgo.utils.AllActions.DriverWaitForLocatorOrUrl(AllActions.java:74)
+	at com.ninjaalgo.pages.LoginPage.SetLoginCred(LoginPage.java:98)
+	at com.ninjaalgo.steps.CLoginStep.send_login_with_password(CLoginStep.java:33)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+</pre></div><a href='#' onClick='toggleBox("stack-trace2021362628", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2021362628'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for at least one condition to be valid: visibility of element located by By.xpath: //*[contains(text(),&apos;Invalid Username and Password&apos;)] || url to contain &quot;home&quot;. Current url: &quot;&quot; (tried for 5 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
+	at com.ninjaalgo.utils.AllActions.DriverWaitForLocatorOrUrl(AllActions.java:74)
+	at com.ninjaalgo.pages.LoginPage.SetLoginCred(LoginPage.java:98)
+	at com.ninjaalgo.steps.CLoginStep.send_login_with_password(CLoginStep.java:33)
+	at ✽.Send Login &quot;NinjaAlgo&quot; with password &quot;@Algo123&quot;(classpath:com/ninjaalgo/features/DDataParallelSce.feature:30)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.160)
+Build info: version: &apos;4.15.0&apos;, revision: &apos;1d14b5521b&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;20.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [41dae5469c1ca48edbd40a2baba4403e, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\mdesh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54603}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54603/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 41dae5469c1ca48edbd40a2baba4403e
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:680)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:684)
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:321)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:124)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:119)
+	at org.openqa.selenium.support.ui.ExpectedConditions$49.apply(ExpectedConditions.java:1396)
+	at org.openqa.selenium.support.ui.ExpectedConditions$49.apply(ExpectedConditions.java:1390)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:204)
+	at com.ninjaalgo.utils.AllActions.DriverWaitForLocatorOrUrl(AllActions.java:74)
+	at com.ninjaalgo.pages.LoginPage.SetLoginCred(LoginPage.java:98)
+	at com.ninjaalgo.steps.CLoginStep.send_login_with_password(CLoginStep.java:33)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80)
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
 </pre></div></td>
-<td>0</td>
-<td>com.ninjaalgo.runner.TestNGArray@6150c3ec</td></tr>
+<td>12</td>
+<td>com.ninjaalgo.runner.Dataparallel1@6150c3ec</td></tr>
 </table><p>
 </body>
 </html>

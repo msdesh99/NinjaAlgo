@@ -10,17 +10,13 @@ import io.cucumber.testng.CucumberOptions;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
-	     tags =("@module"), //for Chrome
-	     //tags =("not @firefox and not @chrome"), //for Edge
-	     //tags =("@open or @loginPage or @module"),  //all browser	
-	    //tags =("not @chrome and not @edge"), //for firefox
-	     
+	      tags =("@dataClass"), //for Data-structure
 		features = {"classpath:com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","html:target/html/test-output.html"}, //"timeline: target/cucumber"
+		plugin= {"pretty","timeline: target/cucumber/datachrome","html:target/html/datachrome-output.html"},
 		monochrome = true
 		) 
-public class TestNG extends AbstractTestNGCucumberTests {
+public class DataparallelClass extends AbstractTestNGCucumberTests {
 	@Override
 	@DataProvider(parallel = false)
 	public Object[][] scenarios(){		

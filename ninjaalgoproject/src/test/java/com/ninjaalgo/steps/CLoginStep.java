@@ -21,15 +21,15 @@ public class CLoginStep {
     
     @Given("Click SignIn")
     public void Click_SignIn() {
-		   WebDriver driver = DriverFactory.getDriver();
-			loginPage = PageFactory.initElements(driver, LoginPage.class);
+		   //WebDriver driver = DriverFactory.getDriver();
+			loginPage = PageFactory.initElements(DriverFactory.getDriver(), LoginPage.class);
     	    loginPage.ClickSignIn();
     	
     }
 	@Given("Send Login {string} with password {string}")
 	public void send_login_with_password(String name, String password) {
-		   WebDriver driver = DriverFactory.getDriver();
-			loginPage = PageFactory.initElements(driver, LoginPage.class);
+		     //WebDriver driver = DriverFactory.getDriver();
+			loginPage = PageFactory.initElements(DriverFactory.getDriver(), LoginPage.class);
 			loginPage.SetLoginCred(new String[] {name,password});		
 	}
 	@Then("click Login Password Submit")

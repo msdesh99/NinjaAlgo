@@ -46,8 +46,8 @@ public class DDLoginTestCase extends AllActions {
 		getXLData = new GetXLData(this.xmlPath);
 
 		DriverFactory driverFactory = new DriverFactory();
-		driver = driverFactory.SingleDriver(browserType);
-		driver.get(url);
+		driverFactory.SingleDriver(browserType);
+		DriverFactory.getDriver().get(url);
 		// driver.manage().window().maximize();
 		// driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
 		

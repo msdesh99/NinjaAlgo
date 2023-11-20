@@ -3,49 +3,43 @@
 */
 package com.ninjaalgo.driverfactory;
 
-import java.util.Properties;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import com.ninjaalgo.utils.ConfigReader;
-
-public class DriverFactory {
- 	static Properties prop;
-	static String allBrowsers;
- 
-
-    public static ThreadLocal<WebDriver> tDriver; 
+public final class DriverFactory {
+     public WebDriver driver;
     
-	public WebDriver SingleDriver(String selectedBrowser) throws Exception {
-		prop = new Properties();
-		prop = ConfigReader.initializeProperties();		
+    public static ThreadLocal<WebDriver> tDriver = new ThreadLocal<>(); 
+   
+ 	public void SingleDriver(String selectedBrowser) throws Exception {
+ 		/*    if(!selectedBrowser. equalsIgnoreCase(ConfigReader.getBrowserType())){
+		    	prop.setProperty("browserType", selectedBrowser);
+			    prop = configReader.initializeProperties();		
+			    // System.out.println("in driver: "+ConfigReader.getBrowserType());
+		    }
+           */
 			if(selectedBrowser.toLowerCase().contentEquals("chrome")) {
-				tDriver = new ThreadLocal<>();
+			//if(selectedBrowser.equalsIgnoreCase(ConfigReader.getBrowserType().toString())) {
 				tDriver.set(new ChromeDriver());
+		
 			}
 			else if(selectedBrowser.toLowerCase().contentEquals("firefox")) {
-				tDriver = new ThreadLocal<WebDriver>();
 				tDriver.set(new FirefoxDriver());
 			}
 			else if(selectedBrowser.toLowerCase().contentEquals("edge")) {
-				tDriver = new ThreadLocal<WebDriver>();
 				tDriver.set(new EdgeDriver());
 			}
 			else throw new Exception("Browser not supported"); 
-			return getDriver();
+			//return getDriver();
 	}	
 	  public static WebDriver getDriver() {
 			return tDriver.get();	   
       }	
- /*    public static HashMap<String, WebDriver> getMapDrivers(){
-			   return dMap;
-     }
-     public static void setMapDrivers(String windowHandle, WebDriver driver ){
-		   //dMap.remove(windowHandle);
-		   dMap.remove(windowHandle, driver);
-		   System.out.println("in setdriver: "+getMapDrivers().size());
-}*/
+//newly added while parallel https://community.jaspersoft.com/	  
+ public static void CloseDriver() {
+	 tDriver.get().quit();
+	 tDriver.remove();
+ }
 }

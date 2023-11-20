@@ -23,12 +23,12 @@ public class BStartStep {
     @Given("open url with {string} browser")
  	public void open_url_with_browser(String browserType) throws Exception{
     	DriverFactory driverFactory = new DriverFactory();
-		driver = driverFactory.SingleDriver(browserType);
+		driverFactory.SingleDriver(browserType);
      }	
     @Given("Click Get Started button")
 	public void click_get_started_button() {
-		   WebDriver driver = DriverFactory.getDriver();
-			startPage = PageFactory.initElements(driver, StartPage.class);
+		   //WebDriver driver = DriverFactory.getDriver();
+			startPage = PageFactory.initElements(DriverFactory.getDriver(), StartPage.class);
 			startPage.ClickButton();
 		}
 	

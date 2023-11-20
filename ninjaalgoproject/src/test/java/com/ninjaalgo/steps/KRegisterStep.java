@@ -15,11 +15,12 @@ import io.cucumber.java.en.When;
 public class KRegisterStep {
     WebDriver driver;
     RegisterPage registerPage;
-    
+    ConfigReader configReader;
+
 	@Given("User is on Home Page")
 	public void user_is_on_home_page() {
 		WebDriver driver = DriverFactory.getDriver();
-		driver.get(ConfigReader.getBaseUrl().toString()+"/home");
+		driver.get(configReader.getBaseUrl().toString()+"/home");
 	}
 
 	@Given("Click register")

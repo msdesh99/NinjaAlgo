@@ -1,4 +1,4 @@
 $(document).ready(function() {
-CucumberHTML.timelineItems.pushArray([{"id":"bf95323d-ab64-44ce-a43c-0051c9b64bd6","feature":"Array module","scenario":"ArraysinPython","start":1700338740614,"group":1,"content":"","tags":"@array,@arraysinpython,","end":1700338741112,"className":"failed"},{"id":"9258bcf5-c5af-4a29-8713-f2acde81ac05","feature":"Array module","scenario":"Arrays-Using-List","start":1700338741137,"group":1,"content":"","tags":"@array,@arraysusinglist,","end":1700338741147,"className":"failed"}]);
+CucumberHTML.timelineItems.pushArray([{"id":"854ee56d-1603-4298-99ec-3a2ad4195cac","feature":"Array module","scenario":"Arrays-Using-List","start":1700515361023,"group":1,"content":"","tags":"@array,@arraysusinglist,","end":1700515365901,"className":"passed"},{"id":"7eca5779-3e27-4e28-9a9d-262ded3e378e","feature":"Array module","scenario":"ArraysinPython","start":1700515351797,"group":1,"content":"","tags":"@array,@arraysinpython,","end":1700515361007,"className":"passed"}]);
 CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[#1,main,5,main]"}]);
 });

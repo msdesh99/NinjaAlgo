@@ -11,6 +11,7 @@ import java.time.Duration;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
@@ -33,12 +34,42 @@ public class AppHooks extends AllActions{
     StartPage startPage;
     LoginPage loginPage;
     ScreenShot screenShot;
+    ConfigReader configReader;
+    Properties prop;
+    WebDriver driver;
+ 
+@Before(order=0)
+	public void beforeAll(Scenario scenario) throws Exception {
+	   configReader = new ConfigReader();
+	   prop = configReader.initializeProperties();	
+	   System.out.println("Current thread name: "+Thread.currentThread().getName());
+	   System.out.println("Current thread ID: "+Thread.currentThread().threadId());
+	   System.out.println("conf hook: "+ ConfigReader.getBrowserType());	  
+    }
+    
+@Before(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce or @arrayClass or @dataClass", order=1)
+	public void beforeParallel(Scenario scenario) throws Exception {
+	   DriverFactory driverFactory = new DriverFactory();
+	   if(scenario.getName().contentEquals("arrayparallelsce1"))
+		     driverFactory.SingleDriver("edge");
+	   else
+	     driverFactory.SingleDriver("chrome");
+	   System.out.println("Current thread name1: "+Thread.currentThread().getName());
+	   System.out.println("Current thread ID1: "+Thread.currentThread().threadId());
+	   DriverFactory.getDriver().get(ConfigReader.getBaseUrl().toString());
+	   DriverFactory.getDriver().manage().window().maximize();
+	   DriverFactory.getDriver().manage().deleteAllCookies();
+	   DriverFactory.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(4)); 
+    }
 
+@After(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce", order=2)
+public void afterParallel(Scenario scenario) throws Exception {
+    DriverFactory.CloseDriver();
+}
 
 @After("@chrome or @firefox or @edge")  //for TestModules.xml
 public void set_up_drivers() throws Exception {
 	String url = ConfigReader.getBaseUrl();
-	//System.out.println("create: "+url);
 	WebDriver driver = DriverFactory.getDriver();
 
 	driver.get(url);
@@ -90,8 +121,8 @@ public void SetDrivers() {
 
 public void teardown() {	
 
-    WebDriver driver = DriverFactory.getDriver();
-    driver.quit();
+    //WebDriver driver = DriverFactory.getDriver();
+  //  driver.quit();
   //  Quit_Driver(driver);
 } 	
 @After(order = 0)
