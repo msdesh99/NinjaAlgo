@@ -4116,3 +4116,517 @@ java.io.EOFException: Unexpected end of ZLIB input stream
 [INFO ]2023-11-2017:55:35.546[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
 [INFO ]2023-11-2017:55:42.865[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
 [INFO ]2023-11-2017:55:43.775[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2020:54:07.761[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2020:55:35.055[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2020:55:41.569[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2020:55:42.836[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2021:07:14.894[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2021:07:22.163[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2021:07:23.070[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2021:38:38.595[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2021:40:40.176[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2021:40:52.021[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2021:41:43.020[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2021:43:28.735[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2021:43:29.875[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2021:44:07.485[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2021:44:12.623[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2021:47:42.038[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2021:47:47.316[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2021:52:19.159[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2021:52:26.948[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2021:57:49.717[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2021:57:57.377[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2021:58:49.545[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2021:58:56.810[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2022:00:07.123[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2022:00:13.899[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2022:01:29.752[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2022:03:00.653[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2022:03:01.986[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2022:03:30.311[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2022:03:39.313[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2022:03:40.405[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2022:04:48.228[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2022:04:54.598[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2022:04:55.465[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2022:05:42.378[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2022:05:43.400[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2108:06:45.535[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2108:06:54.240[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2108:06:55.251[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2108:08:13.259[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:08:17.457[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:09:45.101[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:10:39.292[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:10:45.714[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:12:55.693[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:13:03.965[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:15:18.223[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:15:25.232[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:16:12.706[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:16:12.706[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2108:18:23.026[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2108:18:31.461[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2108:18:32.811[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2108:19:23.056[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:19:29.000[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2108:19:30.494[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2108:20:26.296[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2108:20:27.215[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2108:21:04.371[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2108:21:04.873[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2108:21:05.791[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:21:10.697[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:21:12.315[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2108:21:12.317[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2108:21:21.261[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2108:21:22.305[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2108:21:27.145[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2108:22:07.517[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: SyntaxError: unindent does not match any outer indentation level on line 6
+[INFO ]2023-11-2108:22:25.319[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2108:22:26.099[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2108:22:27.136[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:22:31.961[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:22:43.867[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2108:22:44.086[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2108:22:49.964[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-2108:22:50.454[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2108:22:51.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:22:56.464[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:23:07.120[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2108:23:07.244[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2108:23:50.225[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:25:05.418[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:26:32.367[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:26:34.932[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:27:13.669[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:28:36.649[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:35:31.042[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:35:35.871[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:38:18.999[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:38:20.352[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:39:00.519[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:39:01.622[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:40:31.383[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:45:10.910[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:45:16.976[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2108:45:17.827[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2108:54:56.221[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2108:54:57.077[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2108:57:38.666[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2108:57:39.208[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2108:57:40.107[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:57:45.011[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:57:51.343[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2108:59:09.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2108:59:09.683[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2108:59:10.601[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:59:15.365[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2108:59:21.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:00:34.194[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2109:00:34.694[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:00:35.829[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2109:00:40.682[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2109:00:52.158[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2109:00:52.710[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2109:01:39.408[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2109:02:33.741[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2109:02:39.301[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2109:02:40.168[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2109:03:03.587[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2109:03:13.015[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2109:03:14.358[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2109:06:44.449[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2109:06:50.224[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2109:06:51.411[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2109:08:00.683[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2109:08:06.289[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2109:08:07.267[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2109:09:17.151[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:09:18.046[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:09:22.357[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:09:31.541[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:09:35.260[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:10:14.852[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:10:15.448[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:10:19.747[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:10:20.010[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:10:23.703[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:12:14.196[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:12:14.747[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:12:19.057[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:12:28.214[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:12:31.880[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:14:33.867[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:14:34.476[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:14:38.800[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:14:39.083[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:14:42.759[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:25:00.904[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:25:01.555[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:25:05.867[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:25:15.261[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:25:18.895[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:25:45.259[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:25:45.865[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:25:50.196[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:25:59.327[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:26:02.997[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:26:26.564[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2109:26:27.100[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:26:28.388[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2109:26:33.146[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2109:26:44.744[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2109:26:46.058[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2109:28:34.283[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:28:34.987[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:28:39.287[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:28:48.464[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:28:52.130[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:29:27.077[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:29:27.685[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:29:32.035[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:29:35.687[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:30:11.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:30:12.113[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:30:16.444[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:30:20.300[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:31:07.079[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:31:07.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:31:12.018[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:31:21.202[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:31:25.063[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:32:25.970[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:32:26.660[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:32:30.954[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:32:44.644[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:32:48.292[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:33:13.886[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For firefox browser is : PASSED
+[INFO ]2023-11-2109:33:14.510[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:33:18.806[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2109:33:22.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : FAILED
+[INFO ]2023-11-2109:33:55.935[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2109:33:56.480[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2109:34:01.478[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2109:34:13.630[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2109:34:13.854[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2109:35:38.767[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2109:35:38.767[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2109:36:38.630[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2109:36:41.461[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2109:37:56.577[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2109:37:57.556[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2109:53:49.367[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2109:53:53.484[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2109:57:11.906[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2109:57:16.693[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2109:58:28.737[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2109:58:32.944[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2111:32:30.540[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2111:32:33.018[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2111:32:34.040[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2111:48:43.802[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2111:48:50.924[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2111:48:51.772[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2113:27:10.527[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2113:27:13.539[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2113:27:14.744[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2113:28:41.949[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2113:28:44.572[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2113:28:45.410[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2113:51:41.301[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2113:52:17.323[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2113:57:12.590[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2114:03:03.292[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2114:03:10.394[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:03:11.325[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2114:08:24.641[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:08:25.605[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2114:08:55.068[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:08:55.940[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2114:09:27.699[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:09:28.721[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2114:12:25.409[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2114:12:31.274[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:13:29.394[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2114:13:34.683[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:17:53.338[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2114:17:58.687[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:19:10.128[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2114:19:16.251[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:19:16.997[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2114:20:21.107[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:20:22.064[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2114:21:05.977[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2114:21:06.495[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2114:21:07.355[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2114:21:12.155[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2114:21:13.996[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2114:21:13.997[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2114:21:23.013[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:21:23.456[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2114:21:28.354[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2114:21:48.331[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2114:21:48.857[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2114:21:49.759[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2114:21:54.664[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2114:22:06.842[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:22:06.973[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2114:22:13.487[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-2114:22:14.092[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2114:22:15.029[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2114:22:19.918[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2114:22:30.931[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:22:31.069[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2114:23:18.632[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2114:23:23.804[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:34:16.820[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:34:16.820[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2114:37:00.481[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2114:37:08.390[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:41:57.006[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2114:42:00.338[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:46:24.507[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2114:46:32.975[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:48:14.483[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2114:48:22.125[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:48:22.962[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2114:48:50.065[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2114:48:57.007[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2114:57:47.546[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2114:57:55.366[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2114:57:56.193[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2115:02:58.597[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2115:04:40.939[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2115:04:46.694[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2115:06:24.317[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2115:06:36.073[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2115:08:33.976[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2115:08:34.808[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2115:09:01.274[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2115:09:05.773[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2115:33:07.403[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2115:33:13.630[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2115:34:11.747[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2115:34:26.135[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2115:34:27.494[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2115:34:42.062[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2115:34:56.274[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2115:34:57.481[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2115:36:57.666[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2115:37:02.750[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2115:37:38.490[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2115:37:44.310[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2115:38:09.753[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2115:38:14.984[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2115:55:54.368[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2115:55:55.505[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2115:56:10.558[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2115:56:16.726[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2115:57:13.632[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2115:57:19.278[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2116:08:03.014[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2116:08:06.548[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : FAILED
+[INFO ]2023-11-2116:09:12.503[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : FAILED
+[INFO ]2023-11-2116:09:19.733[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : FAILED
+[INFO ]2023-11-2116:10:36.420[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : FAILED
+[INFO ]2023-11-2116:10:44.762[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:10:45.694[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2116:12:05.013[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : FAILED
+[INFO ]2023-11-2116:12:12.763[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:12:15.404[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2116:15:42.261[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : FAILED
+[INFO ]2023-11-2116:15:50.576[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:15:51.440[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2116:18:12.083[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2116:18:18.218[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:18:19.159[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2116:20:58.773[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2116:21:05.535[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:21:06.494[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2116:21:56.854[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2116:21:59.057[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:22:00.719[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2116:23:46.517[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2116:23:53.911[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:23:54.774[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2116:32:58.445[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2116:33:04.945[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:33:06.030[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2116:53:34.038[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2116:53:40.248[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2116:53:41.197[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2117:38:20.635[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2117:38:25.372[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2117:39:39.741[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2117:41:31.654[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2117:41:37.656[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2117:41:38.607[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2117:42:11.309[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2117:42:11.309[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : FAILED
+[INFO ]2023-11-2117:42:45.674[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2117:42:46.800[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2117:43:36.047[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2117:43:42.251[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2117:43:43.142[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2117:44:08.221[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2117:44:12.329[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2117:47:59.780[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2117:48:04.501[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2117:58:33.129[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2117:58:40.897[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:01:02.435[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:01:09.579[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:06:15.469[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:12:28.320[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:13:23.831[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:13:25.073[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:14:28.097[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:14:34.292[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2118:14:35.578[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2118:15:30.763[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:15:36.678[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:16:56.582[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:17:03.032[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2118:17:03.884[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2118:17:30.515[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2118:17:38.330[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2118:17:39.400[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2118:18:29.538[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:18:35.858[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:20:19.205[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:20:25.366[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:21:59.274[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2118:22:00.166[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2118:22:25.289[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2118:22:33.771[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2118:22:34.995[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2118:29:51.347[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:30:01.133[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:40:11.539[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2118:40:17.370[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2118:41:05.719[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2118:41:09.139[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2118:41:10.137[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2118:55:14.914[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2118:55:15.438[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2118:55:16.337[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2118:55:21.121[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2118:55:33.548[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2118:55:33.693[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2118:59:47.302[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2118:59:59.187[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2120:06:29.018[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2120:09:09.204[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2120:09:17.075[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2120:09:18.378[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2120:12:04.030[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2120:12:10.605[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2120:12:11.552[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2121:03:15.971[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2121:03:23.111[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2121:03:24.163[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2121:25:31.445[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2121:25:39.865[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2121:25:40.661[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2121:30:43.359[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2121:30:49.794[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2121:30:50.854[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2121:32:12.450[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2121:32:18.721[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2121:32:19.545[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2122:22:09.397[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2122:22:13.184[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2122:22:47.200[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2122:22:53.784[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2122:22:54.890[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2122:24:45.388[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2122:24:49.873[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2205:52:51.925[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : UNDEFINED
+[INFO ]2023-11-2206:08:49.905[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2206:10:26.889[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PENDING
+[INFO ]2023-11-2206:12:06.752[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2206:14:41.868[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2023-11-2206:16:10.392[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2206:16:51.634[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2206:16:58.077[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:16:59.942[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2206:17:39.552[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2206:17:46.128[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:17:47.231[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2206:18:47.243[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:18:49.466[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2206:19:34.555[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : FAILED
+[INFO ]2023-11-2206:19:34.681[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : FAILED
+[INFO ]2023-11-2206:21:38.130[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2206:21:46.289[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:21:47.311[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2206:22:23.046[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2206:26:30.043[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2206:26:37.694[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2206:29:15.939[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2206:29:23.342[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-11-2206:30:54.952[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2206:31:01.661[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:31:02.636[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2206:31:30.750[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-11-2206:31:38.292[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:31:39.175[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-11-2206:33:02.149[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2206:33:02.671[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2206:33:03.461[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:33:08.369[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:33:20.416[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:33:20.609[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2206:33:29.086[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-2206:33:29.523[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2206:33:30.213[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:33:34.862[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:33:45.891[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:33:46.099[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2206:35:29.536[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2206:35:29.979[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2206:35:30.613[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:35:35.315[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:35:47.292[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:35:47.907[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2206:35:57.266[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-2206:35:57.686[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2206:35:58.360[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:36:03.001[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:36:13.992[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:36:14.491[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2206:41:01.713[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2206:41:02.140[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2206:41:02.803[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:41:07.712[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:41:19.656[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:41:20.606[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2206:41:29.819[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-11-2206:41:30.303[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2206:41:30.978[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:41:35.597[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:41:46.562[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:41:47.579[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-11-2206:42:15.472[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2206:42:16.012[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2206:42:16.611[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:42:21.516[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:42:23.573[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2206:42:23.574[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2206:42:32.739[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:42:33.102[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2206:42:37.949[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2206:44:05.817[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2206:44:06.272[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2206:44:06.903[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:44:11.738[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2206:44:13.489[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2206:44:13.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2206:44:22.179[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2206:44:22.665[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2206:44:27.527[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2206:44:28.662[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For SignOut is : PASSED
+[INFO ]2023-11-2206:45:57.433[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: SyntaxError: unindent does not match any outer indentation level on line 6
+[INFO ]2023-11-2206:46:35.966[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: SyntaxError: bad input on line 2

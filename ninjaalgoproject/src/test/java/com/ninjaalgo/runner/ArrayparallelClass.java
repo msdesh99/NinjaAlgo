@@ -13,7 +13,9 @@ import io.cucumber.testng.CucumberOptions;
 	      tags =("@arrayClass"), //for Data-structure
 		features = {"classpath:com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/datachrome","html:target/html/datachrome-output.html"},
+		plugin= {"pretty","timeline: target/cucumber/datachrome",
+				"html:target/html/datachrome-output.html",
+				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" },
 		monochrome = true
 		) 
 public class ArrayparallelClass extends AbstractTestNGCucumberTests {

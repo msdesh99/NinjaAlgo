@@ -45,8 +45,9 @@ public class LoginPage extends AllActions {
 	WebElement signOutAlert;
 	
 	public void ClickSignIn() {
-		locator= By.xpath("//*[text()='Sign in']");
-		ClickElement(CallDriverWait(driver, locator), driver);
+		//locator= By.xpath("//*[text()='Sign in']");
+		 driver.findElement(By.xpath("//*[text()='Sign in']")).click();
+		//ClickElement(CallDriverWait(driver, locator), driver);
 		//ClickElement(signIn, driver);
 	}
 	public String ClickSignOut() {
@@ -55,35 +56,20 @@ public class LoginPage extends AllActions {
 		By locator = By.xpath("//*[@role='alert']");
 		return CallDriverWait(driver,locator).getText();
 	}
-	public void SetLoginCred(String[] loginCred) {
- 		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(6));
-    /*     System.out.println("login: "+driver.getCurrentUrl());
-         System.out.println("login: "+driver.getClass());
-         System.out.println("login: "+loginCred[0]); */
-
-         
+	public void SetLoginCred(String[] loginCred) {         
 		//DriverWaitForElement(driver, userElement);
-		userElement.clear();
-		userElement.sendKeys(loginCred[0]);
+		// userElement.clear();
+		 driver.findElement(
+         		By.xpath("//*[@id='id_username']")).sendKeys(loginCred[0]);	
+		 //userElement.sendKeys(loginCred[0]);
+		 //userElement.click();
 
-        //SendKeysElement(driver, userElement, loginCred[0]);
-        //DriverWaitForTextAndVisible(driver,userElement,loginCred[0]);
-		//userElement.click();
-
-		//WebElement elem = driver.findElement(By.xpath("//*[@name='username']"));
-		//((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", elem);
-		//((JavascriptExecutor)driver).executeScript("arguments[0].removeAttribute('autofocus')", elem);
-		//elem.sendKeys(loginCred[0]);
-		//userElement.sendKeys(loginCred[0]);
-		//JavascriptExecutor jse = (JavascriptExecutor)driver;
-		//jse.executeScript("document.getElementById('userElement').setAttribute('value', 'NinjaAlgo')");
-		//DriverWaitForTextAndVisible(driver, userElement, loginCred[0]);
-
-	
+  	
 		//DriverWaitForElement(driver, passwordElement);
-
-		passwordElement.clear();
-		passwordElement.sendKeys(loginCred[1]);
+		//passwordElement.clear();
+		 driver.findElement(
+	         		By.xpath("//*[@name='password']")).sendKeys(loginCred[1]);	
+		//passwordElement.sendKeys(loginCred[1]);
 		//passwordElement.click();
 
 		

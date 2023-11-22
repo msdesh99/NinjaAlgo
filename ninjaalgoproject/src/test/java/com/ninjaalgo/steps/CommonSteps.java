@@ -22,7 +22,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 
 public class CommonSteps{
-    String currentUrl;
+    static String currentUrl;
     static  WebDriver driver;
     public static String parentWindowHandle;
    // ConfigReader configReader;
@@ -36,7 +36,7 @@ public class CommonSteps{
 	}
     
 	@Then("Verify currentUrl {string} and {string}")
-	public void verify_current_url_and(String url, String type) {	
+	public static void verify_current_url_and(String url, String type) {	
         url = url.replace(" ","-").toLowerCase()+"/";
 		    if (type.contentEquals("module"))VerifyURl(url);
 		    else if(type.contentEquals("start")) VerifyURl("home");
@@ -44,11 +44,11 @@ public class CommonSteps{
 	}
 	            
 	@Then("verify {string} in Common")
-	public void verify_in_common(String url) {
+	public static void verify_in_common(String url) {
 	     VerifyURl(url);
 	}
 	@Then("verifyBug {string} {string} in common")
-	public void verify_bug_in_common(String actual, String expected) {
+	public static void verify_bug_in_common(String actual, String expected) {
 		 VerifyURl("register");
 	     String bugReport ="Actual :"+actual +"Expected: "+expected;		
 		 LoggerLoad.error("<=====Bug Found on Register page: "+ bugReport);	
@@ -56,10 +56,10 @@ public class CommonSteps{
 		 //driver.get(ConfigReader.getModuleUrl().toString());
 	}	
 	@Then("Quit Driver")
-	public void QuitDriver() {
+	public static void QuitDriver() {
 		DriverFactory.CloseDriver();
 	}
-	public void VerifyURl(String url) {
+	public static void VerifyURl(String url) {
 		   WebDriver driver = DriverFactory.getDriver();
 			currentUrl =  ConfigReader.getBaseUrl()+"/"+ url;
 		    AllActions.DriverWaitForUrl(driver, currentUrl);

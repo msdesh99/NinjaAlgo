@@ -15,6 +15,7 @@ import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.AfterClass;
 
 import com.ninjaalgo.driverfactory.DriverFactory;
 import com.ninjaalgo.pages.LoginPage;
@@ -30,14 +31,14 @@ import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 
 public class AppHooks extends AllActions{
-    CommonSteps commonSteps;
+    public CommonSteps commonSteps;
     StartPage startPage;
     LoginPage loginPage;
     ScreenShot screenShot;
     ConfigReader configReader;
     Properties prop;
     WebDriver driver;
- 
+
 @Before(order=0)
 	public void beforeAll(Scenario scenario) throws Exception {
 	   configReader = new ConfigReader();
@@ -51,6 +52,7 @@ public class AppHooks extends AllActions{
 @Before(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce or @arrayClass or @dataClass", order=1)
 	public void beforeParallel(Scenario scenario) throws Exception {
 	   DriverFactory driverFactory = new DriverFactory();
+	   //commonSteps = new CommonSteps();
 	   if(scenario.getName().contentEquals("arrayparallelsce1"))
 		     driverFactory.SingleDriver("edge");
 	   else
@@ -60,9 +62,16 @@ public class AppHooks extends AllActions{
 	   DriverFactory.getDriver().manage().window().maximize();
 	   DriverFactory.getDriver().manage().deleteAllCookies();
 	   DriverFactory.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(4)); 
+	   startPage = PageFactory.initElements(DriverFactory.getDriver(), StartPage.class);
+	   startPage.ClickButton();
+	   loginPage = PageFactory.initElements(DriverFactory.getDriver(), LoginPage.class);
+	   loginPage.ClickSignIn();
+	   //loginPage = PageFactory.initElements(driver, LoginPage.class);
+	   loginPage.SetLoginCred(new String[] {"NinjaAlgo","@Algo123"});	
+
     }
 
-@After(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce", order=2)
+@After(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce", order=0)
 public void afterParallel(Scenario scenario) throws Exception {
     DriverFactory.CloseDriver();
 }

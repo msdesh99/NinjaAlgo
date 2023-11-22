@@ -27,8 +27,9 @@ Feature: Array module
 		Then GoTO ArrayPage and "/array/"
 		Then GoTO ArrayHomePage
 	
- #@signOut	
-  #Scenario:SignOut
-  #Given User Signing Off
-  #Then VerifySignout "Logged out successfully"
+ @signOut	
+  Scenario:SignOut
+  Given User Signing Off
+  Then VerifySignout "Logged out successfully"
+	Then Quit Driver
   

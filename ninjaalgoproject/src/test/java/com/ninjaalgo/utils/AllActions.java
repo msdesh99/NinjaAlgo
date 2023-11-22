@@ -5,6 +5,8 @@
 package com.ninjaalgo.utils;
 
 import java.time.Duration;
+import java.util.Iterator;
+import java.util.Set;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
@@ -70,21 +72,18 @@ public class AllActions {
         new WebDriverWait(driver, timeInSec);
     }
 	public static void DriverWaitForLocatorOrUrl(WebDriver driver, By locator, String url) {
-	new WebDriverWait(driver,Duration.ofSeconds(5))
+	new WebDriverWait(driver,Duration.ofSeconds(6))
 	  .until(ExpectedConditions.or(
 			  ExpectedConditions.visibilityOfElementLocated(locator),
 			  ExpectedConditions.urlContains(url))) ;
 }
-	public static WebElement CallDriverWait(WebDriver driver, By locator) {
-		return new WebDriverWait(driver, Duration.ofSeconds(6))
-				.until(ExpectedConditions.visibilityOfElementLocated(locator));
-}
+	
 	public static WebElement FindElementWithLocator(WebDriver driver, By locator) {
 		return new WebDriverWait(driver, Duration.ofSeconds(7))
 				.until(ExpectedConditions.presenceOfElementLocated(locator));
 	}
 	public static void DriverWaitForUrl(WebDriver driver, String url) {
-		new WebDriverWait(driver, Duration.ofSeconds(3))
+		new WebDriverWait(driver, Duration.ofSeconds(6))
 		    .until(ExpectedConditions.urlMatches(url));
 	}
 	public static WebElement DriverWaitForElement(WebDriver driver, WebElement element) {		
@@ -92,6 +91,14 @@ public class AllActions {
 				.until(ExpectedConditions.visibilityOf(element));
 		return ele;
 	}
+	public static void DriverWaitForClickable(WebDriver driver, By locator) {
+		new WebDriverWait(driver, Duration.ofSeconds(6))
+		.until(ExpectedConditions.elementToBeClickable(locator));
+	}
+	public static WebElement CallDriverWait(WebDriver driver, By locator) {
+		return new WebDriverWait(driver, Duration.ofSeconds(6))
+				.until(ExpectedConditions.visibilityOfElementLocated(locator));
+}
 	public static void DriverWaitForTextAndVisible(WebDriver driver, WebElement element, String text) {		
 	new WebDriverWait(driver, Duration.ofSeconds(6))
 		.until(ExpectedConditions.and(
@@ -110,10 +117,7 @@ public class AllActions {
 				return null;
 			}		
 	}
-	public static void DriverWaitForClickable(WebDriver driver, By locator) {
-		new WebDriverWait(driver, Duration.ofSeconds(6))
-		.until(ExpectedConditions.elementToBeClickable(locator));
-	}
+	
 	public static void ScrollToElementjs(WebDriver driver, WebElement element) {
 		js.executeScript("arguments[0].scrollIntoView(true);", element);
 
@@ -151,6 +155,26 @@ public class AllActions {
     	js.executeScript("window.scrollBy(0,350)", "");
     }	
 	
+	public static WebElement GetCurrentWindowHandle(WebDriver driver, By locator) {
+		String parent = driver.getWindowHandle();
+		System.out.println("parent han: "+parent);
+		//FindElementWithLocator(driver,locator);
+		//driver.findElement(By.xpath("//*[@id='answer_form']//*[contains(@class,'CodeMirror')]//textarea")).click();
+		Set<String> s = driver.getWindowHandles();
+	
+		// Now iterate using Iterator
+		Iterator<String> I1 = s.iterator();
+		while (I1.hasNext()) {
+		String child_window = I1.next();
+		System.out.println("itr parent han: "+parent);
+		System.out.println("itr child han: "+child_window);
 
-
+		if (!parent.equals(child_window)) {
+		    driver.switchTo().window(child_window);
+			return FindElementWithLocator(driver,locator);
+		   // element1.click() 
+		}
+	   }
+		return null;	
+}
  }

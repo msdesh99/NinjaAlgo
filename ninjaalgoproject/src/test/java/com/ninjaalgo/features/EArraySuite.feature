@@ -16,6 +16,10 @@ Feature: Array module
 		Then ClickOnArrayTopic "Try Here"
 		#Then verify "tryEditor" in Common
 		Then Add Python code "print you are here"
+    Then User Signing Off
+    Then VerifySignout "Logged out successfully"
+  
+		Then Quit Driver
 		#Then Verify Python output "564 is Number is Not Found" 
 		
 #		Then GoTO ArrayPage and "/array/"

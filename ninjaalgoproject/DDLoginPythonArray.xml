@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
   <parameter name="url" value="https://dsportalapp.herokuapp.com/login"></parameter>
   <parameter name="xmlPath" value="/src/test/resources/TestData/TestData.xlsx"></parameter>
-  <parameter name="browserType" value="chrome"></parameter>
+  <parameter name="browserType" value="firefox"></parameter>
     <classes>
       <class name="com.ninjaalgo.runner.DDLoginTestCase"/>
       <class name="com.ninjaalgo.runner.DDPythonArrayTestCase"/>

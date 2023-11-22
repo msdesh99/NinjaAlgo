@@ -5,7 +5,7 @@
   <test name="Test Data" parallel="classes">
   <classes>
    	   	<class name="com.ninjaalgo.runner.DataparallelClass"></class>
-   	   	<class name="com.ninjaalgo.runner.ArrayparallelClass"></class>
+     	<class name="com.ninjaalgo.runner.ArrayparallelClass"></class>
    </classes>
   </test>
 </suite> <!-- Suite -->

@@ -23,7 +23,10 @@ import io.cucumber.testng.CucumberOptions;
 	     
 		features = {"classpath:com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/arrayedge","html:target/html/testarrayedge-output.html"},
+		plugin= {"pretty","timeline: target/cucumber/arrayedge",
+				"html:target/html/testarrayedge-output.html",
+				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" 	
+	      },
 		monochrome = true
 		) 
 public class ArrayChromeBrowser extends AbstractTestNGCucumberTests {

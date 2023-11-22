@@ -17,7 +17,7 @@ import io.cucumber.java.en.Then;
 public class DDataStructure {
 	DataStructurePage dataStructurePage;
 	HomePage homePage;
-	CommonSteps commonSteps;
+	//CommonSteps commonSteps;
     ConfigReader configReader;
 
 	
@@ -44,14 +44,14 @@ public class DDataStructure {
 	}
 	@Then("Verify datacurrentUrl {string} and {string}")
 	public void verify_current_url_and(String url, String type) {	
-		commonSteps = new CommonSteps();
-		 if(type.contentEquals("module"))commonSteps.VerifyURl(url);
-		 else commonSteps.VerifyURl(url+type);
+		//commonSteps = new CommonSteps();
+		 if(type.contentEquals("module"))CommonSteps.VerifyURl(url);
+		 else CommonSteps.VerifyURl(url+type);
 	}
 	@Then ("GoTO DataHomePage")
 	public void GoTO_DataHomePage() {
 	    WebDriver driver = DriverFactory.getDriver();
-		driver.get(configReader.getModuleUrl().toString());
+		driver.get(ConfigReader.getModuleUrl().toString());
 	}
 
 

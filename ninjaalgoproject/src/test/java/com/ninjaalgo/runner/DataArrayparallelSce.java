@@ -13,7 +13,10 @@ import io.cucumber.testng.CucumberOptions;
 	      tags =("@dataarrayParallel"), //for Data-structure
 		features = {"classpath:com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/dataarrayparallelsce","html:target/html/dataarrparasce-output.html"},
+		plugin= {"pretty","timeline: target/cucumber/dataarrayparallelsce",
+				"html:target/html/dataarrparasce-output.html",
+				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+				},
 		monochrome = true
 		) 
 public class DataArrayparallelSce extends AbstractTestNGCucumberTests {

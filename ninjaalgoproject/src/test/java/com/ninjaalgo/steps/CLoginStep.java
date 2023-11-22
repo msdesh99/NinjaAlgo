@@ -17,7 +17,7 @@ public class CLoginStep {
     WebDriver driver;
     String url;
     LoginPage loginPage;
-    CommonSteps commonSteps;
+    //CommonSteps commonSteps;
     
     @Given("Click SignIn")
     public void Click_SignIn() {
@@ -28,8 +28,8 @@ public class CLoginStep {
     }
 	@Given("Send Login {string} with password {string}")
 	public void send_login_with_password(String name, String password) {
-		     //WebDriver driver = DriverFactory.getDriver();
-			loginPage = PageFactory.initElements(DriverFactory.getDriver(), LoginPage.class);
+		    WebDriver driver = DriverFactory.getDriver();
+			loginPage = PageFactory.initElements(driver, LoginPage.class);
 			loginPage.SetLoginCred(new String[] {name,password});		
 	}
 	@Then("click Login Password Submit")

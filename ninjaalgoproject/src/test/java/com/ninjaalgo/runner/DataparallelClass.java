@@ -13,7 +13,10 @@ import io.cucumber.testng.CucumberOptions;
 	      tags =("@dataClass"), //for Data-structure
 		features = {"classpath:com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/datachrome","html:target/html/datachrome-output.html"},
+		plugin= {"pretty","timeline: target/cucumber/datachrome",
+				"html:target/html/datachrome-output.html",
+				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
+				//"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},
 		monochrome = true
 		) 
 public class DataparallelClass extends AbstractTestNGCucumberTests {

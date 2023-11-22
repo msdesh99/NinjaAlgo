@@ -3,8 +3,6 @@
 */
 package com.ninjaalgo.steps;
 
-import java.util.Map;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
@@ -13,13 +11,12 @@ import com.ninjaalgo.pages.ArrayPage;
 import com.ninjaalgo.pages.HomePage;
 import com.ninjaalgo.utils.ConfigReader;
 
-import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 
 public class EArrayStep {
 	HomePage homePage;
 	ArrayPage arrayPage;
-	CommonSteps commonSteps;
+	//CommonSteps commonSteps;
 
 	@Then("ClickOnArrayModule {string}")
 	public void click(String string) throws Exception {
@@ -47,10 +44,13 @@ public class EArrayStep {
 			arrayPage.TryPython();
 	}
 	@Then("Verify arraycurrentUrl {string} and {string}")
-	public void verify_arraycurrentUrl(String url, String type) {	
-		commonSteps = new CommonSteps();
-		 if(type.contentEquals("module"))commonSteps.VerifyURl(url);
-		 else commonSteps.VerifyURl(url+type);
+	public void verify_arraycurrentUrl(String url, String type) {
+	    WebDriver driver = DriverFactory.getDriver();
+		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
+
+		//commonSteps = new CommonSteps();
+		 if(type.contentEquals("module"))CommonSteps.VerifyURl(url);
+		 else CommonSteps.VerifyURl(url+type);
 	}
 	  
 	@Then("GoTO ArrayPage and {string}")
