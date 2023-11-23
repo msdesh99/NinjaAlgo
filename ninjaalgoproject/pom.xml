@@ -11,6 +11,40 @@
 		<maven.compiler.target>20</maven.compiler.target>
 	</properties>
 	<build>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>3.2.2</version>
+          <configuration>
+			  <!--<test>DDPythonArrayTestCase.java</test> -->
+			  <suiteXmlFiles>
+				  <suiteXmlFile>TestModules.xml</suiteXmlFile>
+				  <suiteXmlFile>ArrayCrossBrowser1.xml</suiteXmlFile>
+				  <suiteXmlFile>dataArrayParallelSce.xml</suiteXmlFile>
+				  <suiteXmlFile>DDLoginPythonArray.xml</suiteXmlFile>
+				  <suiteXmlFile>dataArrayParallelClass.xml</suiteXmlFile>
+
+
+			  </suiteXmlFiles>
+			  <!--		  
+				  <includes>*parallelClass.java</includes>
+				  <parallel>classesAndMethods</parallel>
+				  <useUnlimitedThreads>true</useUnlimitedThreads> unlimited no of browsers at a time -->
+		  </configuration> 
+		  
+        </plugin>
+           <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>3.11.0</version>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+  </build>
+	<!--
+	<build>
 		<pluginManagement>
 			<plugins>
 			<plugin>
@@ -20,34 +54,17 @@
 					<executions>
 						<execution>
 							<configuration>
-	<!--<properties>
-        <property>
-            <name>dataproviderthreadcount</name>          
-            <value>true</value>
-        </property>								
-        </properties> 
-		<suiteXmlFiles>
-		<suiteXmlFile>parallel.xml</suiteXmlFile>
-	</suiteXmlFiles>  -->
 								<includes>*parallelClass.java</includes>
 								<parallel>classesAndMethods</parallel>
-								<useUnlimitedThreads>true</useUnlimitedThreads> <!--unlimited no of browsers at a time-->
+								<useUnlimitedThreads>true</useUnlimitedThreads> unlimited no of browsers at a time
 								<threadCount>4</threadCount>
 							</configuration>
 						</execution>
 					</executions>
-				</plugin>
-				 <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-          <artifactId>maven-compiler-plugin</artifactId>
-          <version>3.11.0</version>
-          <configuration>
-            <!-- put your configurations here -->
-          </configuration>
-        </plugin>
+				</plugin> 
 			</plugins>
 		</pluginManagement>
-	</build>
+	</build>-->
 
 	<dependencies>
 		<dependency>
@@ -86,6 +103,11 @@
 		    <groupId>tech.grasshopper</groupId>
 		    <artifactId>extentreports-cucumber7-adapter</artifactId>
 		    <version>1.14.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>tech.grasshopper</groupId>
+		    <artifactId>extent-pdf-report</artifactId>
+		    <version>2.12.0</version>
 		</dependency>
 
 		<dependency>

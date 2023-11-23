@@ -10,18 +10,10 @@ import io.cucumber.testng.CucumberOptions;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
-	      tags =("@openChrome or @login or  @arraySuite"), //for Data-structure
-		  //tags =("@open or @dataSuite"), //for Data-structure
-		  //tags =("@array"), //for Data-structure
+	    tags =("@openChrome or @login or  @arraySuite"), //for Data-structure
+	  //features = {"classpath:com/ninjaalgo/features"},
+		features = {"src/test/java/com/ninjaalgo/features"},
 
-		 // tags =("@data or @array"), //for Data-structure
-	     //tags =("@open or @data or @array"), //for Data-structure
-
-	     //tags =("not @firefox and not @chrome"), //for Edge
-	     //tags =("@open or @loginPage or @module"),  //all browser	
-	    //tags =("not @chrome and not @edge"), //for firefox
-	     
-		features = {"classpath:com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
 		plugin= {"pretty","timeline: target/cucumber/arrayedge",
 				"html:target/html/testarrayedge-output.html",

@@ -11,9 +11,12 @@ import io.cucumber.testng.CucumberOptions;
 //@RunWith(Cucumber.class)
 @CucumberOptions(
 	    tags =("@openChrome or @registerBug"), //for register     
-		features = {"classpath:com/ninjaalgo/features"},
+	//	features = {"classpath:com/ninjaalgo/features"},
+		features = {"src/test/java/com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/datachrome","html:target/html/datachrome-output.html"},
+		plugin= {"pretty","timeline: target/cucumber/datachrome",
+				"html:target/html/datachrome-output.html",
+				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" 	},
 		monochrome = true
 		) 
 public class BugChromeBrowser extends AbstractTestNGCucumberTests {

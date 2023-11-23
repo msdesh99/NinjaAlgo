@@ -67,7 +67,7 @@ public Object[][] loginData() throws Exception{
   }
 @Test(dataProvider = "ds")
   public void LoginValidity(String code, String expected) throws InterruptedException {	
-	System.out.println("code: "+code +" exepect: "+expected);
+	//System.out.println("code: "+code +" exepect: "+expected);
 			arrayPage.TryPythonNegative(code);	        
   }
 }

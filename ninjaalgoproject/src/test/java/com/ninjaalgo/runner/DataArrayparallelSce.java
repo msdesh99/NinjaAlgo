@@ -10,8 +10,9 @@ import io.cucumber.testng.CucumberOptions;
 //DataArrayParallelSce.xml
 //@RunWith(Cucumber.class)
 @CucumberOptions(
-	      tags =("@dataarrayParallel"), //for Data-structure
-		features = {"classpath:com/ninjaalgo/features"},
+	    tags =("@dataarrayParallel"), //for Data-structure		
+	//  features = {"classpath:com/ninjaalgo/features"},
+	    features = {"src/test/java/com/ninjaalgo/features"}, 
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
 		plugin= {"pretty","timeline: target/cucumber/dataarrayparallelsce",
 				"html:target/html/dataarrparasce-output.html",

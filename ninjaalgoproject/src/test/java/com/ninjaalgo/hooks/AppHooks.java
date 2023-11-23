@@ -43,6 +43,7 @@ public class AppHooks extends AllActions{
 	public void beforeAll(Scenario scenario) throws Exception {
 	   configReader = new ConfigReader();
 	   prop = configReader.initializeProperties();	
+       System.out.println(System.getProperty("user.dir"));
 /*	   System.out.println("Current thread name: "+Thread.currentThread().getName());
 	   System.out.println("Current thread ID: "+Thread.currentThread().threadId());
 	   System.out.println("conf hook: "+ ConfigReader.getBrowserType());	
