@@ -36,6 +36,9 @@ public class ConfigReader {
 	public static Object getModuleUrl() {
 		return prop.getProperty("moduleUrl");
 	}
+	public static Object getDropDown() {
+		return prop.getProperty("dropdown");
+	}
 	public static void setProperties() {
 		
 	}

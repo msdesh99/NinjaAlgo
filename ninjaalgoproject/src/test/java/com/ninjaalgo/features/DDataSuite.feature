@@ -11,5 +11,6 @@ Feature: DataStructure module
   	Then Verify currentUrl "Data Structures-Introduction" and "time-complexity/"
   	Then ClickOnDataTopic "Practice Questions"
   	Then Verify currentUrl "Data Structures-Introduction" and "practice"
-	
+  	Then verifyBug "Empty Page" "Editor for Practice" in common
+  		
   	

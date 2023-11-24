@@ -6,14 +6,12 @@ Feature: Title of your feature
   Scenario: Data Bug reporting 
     Given User is on Home Page
     And Click SignIn "NinjaAlgo" "@Algo123"
-    
-
+ 
   @registerCred
   Scenario Outline: RegisterCred
     Given Username "<name>" Password1 "<password1>" Password2 "<password2>"
     When Click "Register"
     Then verifyBug "<actual>" "<expected>" in common
-    #Add "<actual>" "<expected>" in Log4j
 
     Examples: 
       | name  | password1 | password2 | actual | Expected |

@@ -103,8 +103,6 @@ public class ArrayPage extends AllActions {
 			   commonSteps.VerifyPython(actual,expected);
 	}
 	public void TryPythonNegative(String string) throws InterruptedException {
-		//pythonElement.sendKeys("print 'hello';");
-		//System.out.println("in array: string: "+string+"expec: "+expected);
 		if((string!=null)) {
 		    pythonElement.sendKeys(string);
 		}

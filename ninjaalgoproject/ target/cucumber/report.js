@@ -1,4 +1,0 @@
-$(document).ready(function() {
-CucumberHTML.timelineItems.pushArray([{"id":"05176003-25da-445b-8fd3-68524171d042","feature":"Array module","scenario":"Arrays-Using-List","start":1700702445791,"group":1,"content":"","tags":"@array,@arraysusinglist,","end":1700702450731,"className":"passed"},{"id":"9f3aa835-7176-4289-a947-d564417d76f0","feature":"Array module","scenario":"SignOut","start":1700702450745,"group":1,"content":"","tags":"@array,@signout,","end":1700702451608,"className":"passed"},{"id":"6f2f6707-1362-4c2b-938e-346c86af5169","feature":"Array module","scenario":"ArraysinPython","start":1700702436641,"group":1,"content":"","tags":"@array,@arraysinpython,","end":1700702445772,"className":"passed"}]);
-CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[#1,main,5,main]"}]);
-});

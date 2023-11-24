@@ -10,7 +10,9 @@ import io.cucumber.testng.CucumberOptions;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
+	  //  tags =("@openChrome or @signIn or dropdown"), //for register
 	    tags =("@openChrome or @registerBug"), //for register     
+
 	//	features = {"classpath:com/ninjaalgo/features"},
 		features = {"src/test/java/com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},

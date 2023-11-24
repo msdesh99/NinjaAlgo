@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 24 14:12:17 EST 2023","Fri Nov 24 14:12:21 EST 2023","4623","DDSuite","Test","com.ninjaalgo.runner.DDLoginTestCase","com.ninjaalgo.runner.DDLoginTestCase","LoginValidity","LoginValidity",""
+"passed","Fri Nov 24 14:12:34 EST 2023","Fri Nov 24 14:12:35 EST 2023","1258","DDSuite","Test","com.ninjaalgo.runner.DDPythonArrayTestCase","com.ninjaalgo.runner.DDPythonArrayTestCase","LoginValidity","LoginValidity",""
+"passed","Fri Nov 24 14:12:16 EST 2023","Fri Nov 24 14:12:16 EST 2023","613","DDSuite","Test","com.ninjaalgo.runner.DDLoginTestCase","com.ninjaalgo.runner.DDLoginTestCase","LoginValidity","LoginValidity",""

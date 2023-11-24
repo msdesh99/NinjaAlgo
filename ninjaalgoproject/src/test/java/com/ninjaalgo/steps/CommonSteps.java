@@ -37,9 +37,11 @@ public class CommonSteps{
     
 	@Then("Verify currentUrl {string} and {string}")
 	public static void verify_current_url_and(String url, String type) {	
+		//System.out.println("comm url: "+url);
         url = url.replace(" ","-").toLowerCase()+"/";
 		    if (type.contentEquals("module"))VerifyURl(url);
 		    else if(type.contentEquals("start")) VerifyURl("home");
+		    else if(type.contentEquals("headerBug")) VerifyURl("headerBug");
 		    else VerifyURl(url+type);
 	}
 	            
@@ -47,20 +49,44 @@ public class CommonSteps{
 	public static void verify_in_common(String url) {
 	     VerifyURl(url);
 	}
-	@Then("verifyBug {string} {string} in common")
-	public static void verify_bug_in_common(String actual, String expected) {
-		 VerifyURl("register");
+	@Then("verifyBug {string} {string} {string} in common")
+	public static  void verify_bug_in_common(String actual, String expected, String type) {
+		if(type.contentEquals("register")) {
+			VerifyURl("register");
+			type="Register page";}
+		else if(type.contentEquals("headerBug")) {
+			VerifyURl("headerBug");
+			type="Header Link";}
+
 	     String bugReport ="Actual :"+actual +"Expected: "+expected;		
-		 LoggerLoad.error("<=====Bug Found on Register page: "+ bugReport);	
-		 WebDriver driver = DriverFactory.getDriver();
+		 LoggerLoad.error("<=====Bug Found on "+type+" : "+ bugReport);	
+		 //WebDriver driver = DriverFactory.getDriver();
 		 //driver.get(ConfigReader.getModuleUrl().toString());
-	}	
+
+	}
+
 	@Then("Quit Driver")
 	public static void QuitDriver() {
 		DriverFactory.CloseDriver();
 	}
+	@Then("Select DropDown")
+	public void select_drop_down() throws Exception {
+        WebDriver driver = DriverFactory.getDriver();
+        homePage = PageFactory.initElements(driver, HomePage.class);
+	    homePage.SelectDropDown();
+	}	
+	@Then("Click Header")
+	public void click_header() {
+	     WebDriver driver = DriverFactory.getDriver();
+	     homePage = PageFactory.initElements(driver, HomePage.class);
+		 homePage.ClickHeader();		
+	}
+
 	public static void VerifyURl(String url) {
 		   WebDriver driver = DriverFactory.getDriver();
+		   if(url.contentEquals("headerBug"))
+				currentUrl =  ConfigReader.getBaseUrl()+"/";
+		   else	
 			currentUrl =  ConfigReader.getBaseUrl()+"/"+ url;
 		    AllActions.DriverWaitForUrl(driver, currentUrl);
 			boolean testOutput = currentUrl.contentEquals(driver.getCurrentUrl()) ? true : false;

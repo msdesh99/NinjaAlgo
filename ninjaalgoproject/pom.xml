@@ -20,16 +20,14 @@
           <configuration>
 			  <!--<test>DDPythonArrayTestCase.java</test> -->
 			  <suiteXmlFiles>
-				  <suiteXmlFile>TestModules.xml</suiteXmlFile>
-				  <suiteXmlFile>ArrayCrossBrowser1.xml</suiteXmlFile>
+			      <suiteXmlFile>TestModules.xml</suiteXmlFile>
+			      <suiteXmlFile>ArrayCrossBrowser1.xml</suiteXmlFile> 
 				  <suiteXmlFile>dataArrayParallelSce.xml</suiteXmlFile>
+				  <suiteXmlFile>BugChromeBrowser.xml</suiteXmlFile>-->
 				  <suiteXmlFile>DDLoginPythonArray.xml</suiteXmlFile>
 				  <suiteXmlFile>dataArrayParallelClass.xml</suiteXmlFile>
-
-
 			  </suiteXmlFiles>
-			  <!--		  
-				  <includes>*parallelClass.java</includes>
+			  <!-- <includes>*parallelClass.java</includes>
 				  <parallel>classesAndMethods</parallel>
 				  <useUnlimitedThreads>true</useUnlimitedThreads> unlimited no of browsers at a time -->
 		  </configuration> 
@@ -67,6 +65,13 @@
 	</build>-->
 
 	<dependencies>
+		<dependency>
+		    <groupId>io.qameta.allure</groupId>
+		    <artifactId>allure-testng</artifactId>
+		    <version>2.24.0</version>
+		</dependency>
+
+
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
