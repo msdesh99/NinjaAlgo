@@ -10,8 +10,68 @@
 		<maven.compiler.source>20</maven.compiler.source>
 		<maven.compiler.target>20</maven.compiler.target>
 	</properties>
+	<build>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>3.2.2</version>
+          <configuration>
+			  <!--<test>DDPythonArrayTestCase.java</test> -->
+			  <suiteXmlFiles>
+			      <suiteXmlFile>TestModules.xml</suiteXmlFile>
+			      <suiteXmlFile>ArrayCrossBrowser1.xml</suiteXmlFile> 
+				  <suiteXmlFile>dataArrayParallelSce.xml</suiteXmlFile>
+				  <suiteXmlFile>BugChromeBrowser.xml</suiteXmlFile>
+				<!--  <suiteXmlFile>DDLoginPythonArray.xml</suiteXmlFile> -->
+				  <suiteXmlFile>dataArrayParallelClass.xml</suiteXmlFile>
+			  </suiteXmlFiles>
+			  <!-- <includes>*parallelClass.java</includes>
+				  <parallel>classesAndMethods</parallel>
+				  <useUnlimitedThreads>true</useUnlimitedThreads> unlimited no of browsers at a time -->
+		  </configuration> 
+		  
+        </plugin>
+           <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>3.11.0</version>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+  </build>
+	<!--
+	<build>
+		<pluginManagement>
+			<plugins>
+			<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>3.0.0-M3</version> 
+					<executions>
+						<execution>
+							<configuration>
+								<includes>*parallelClass.java</includes>
+								<parallel>classesAndMethods</parallel>
+								<useUnlimitedThreads>true</useUnlimitedThreads> unlimited no of browsers at a time
+								<threadCount>4</threadCount>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin> 
+			</plugins>
+		</pluginManagement>
+	</build>-->
 
 	<dependencies>
+		<dependency>
+		    <groupId>io.qameta.allure</groupId>
+		    <artifactId>allure-testng</artifactId>
+		    <version>2.24.0</version>
+		</dependency>
+
+
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
@@ -39,6 +99,21 @@
 			<version>7.14.0</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+		    <groupId>com.aventstack</groupId>
+		    <artifactId>extentreports</artifactId>
+		    <version>5.1.1</version>
+		</dependency>
+		<dependency>
+		    <groupId>tech.grasshopper</groupId>
+		    <artifactId>extentreports-cucumber7-adapter</artifactId>
+		    <version>1.14.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>tech.grasshopper</groupId>
+		    <artifactId>extent-pdf-report</artifactId>
+		    <version>2.12.0</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.apache.maven.surefire</groupId>
@@ -65,30 +140,15 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.2.4</version>
 		</dependency>
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.8.0</version>
+    <scope>test</scope>
+</dependency>
 
 
 	</dependencies>
-	<build>
-		<pluginManagement>
-			<plugins>
-				<plugin>
-					<groupId>org.apache.maven.plugins</groupId>
-					<artifactId>maven-surefire-plugin</artifactId>
-					<!--  <version>3.0.0-M3</version> -->
-					<version>3.0.0-M3</version>
-					<executions>
-						<execution>
-							<configuration>
-								<includes>**/*Test*.java</includes>
-								<parallel>classesAndMethods</parallel>
-								<useUnlimitedThreads>true</useUnlimitedThreads>  <!--unlimited no of browsers at a time-->
-								<threadCount>4</threadCount>
-							</configuration>
-						</execution>
-					</executions>
-				</plugin>
-			</plugins>
-		</pluginManagement>
-	</build>
-
+	
 </project>

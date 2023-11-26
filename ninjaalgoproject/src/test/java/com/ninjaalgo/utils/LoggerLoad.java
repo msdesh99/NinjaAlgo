@@ -33,6 +33,7 @@ package com.ninjaalgo.utils;
 		{
 		logger.debug(message);
 		}
+	
 	}
 
 

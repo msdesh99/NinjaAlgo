@@ -3,6 +3,8 @@
 */
 package com.ninjaalgo.pages;
 
+import java.time.Duration;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -25,6 +27,9 @@ public class StartPage extends AllActions {
 	WebElement getStarted;
 
 	public void ClickButton() {
-		ClickElement(CallDriverWait(driver, buttonXpath), driver);
+ 		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
+
+		getStarted.click();
+		//ClickElement(CallDriverWait(driver, buttonXpath), driver);
 	}
 }

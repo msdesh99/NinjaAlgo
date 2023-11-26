@@ -2,6 +2,8 @@
 	#Author: Meenakshi Dated: 6-Nov-2023
 */
 package com.ninjaalgo.steps;
+import java.time.Duration;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import com.ninjaalgo.driverfactory.DriverFactory;
@@ -17,21 +19,28 @@ public class BStartStep {
     String url;
     StartPage startPage;   
     HomePage homePage;
- /*   
-	@Given("open url with {string} browser")
-	public void open_url_with_browser(String url) throws Exception{
-		DriverFactory driverFactory = new DriverFactory();
-		driver = driverFactory.SingleDriver(string);
-		url = ConfigReader.getBaseUrl();
-		driver.get(url); 
-   } */	
-	@Given("Click Get Started button")
+    CommonSteps commonSteps;
+    
+ // moved to commonsteps 
+    @Given("open url with {string} browser")
+ 	public void open_url_with_browser(String browserType) throws Exception{
+    	DriverFactory driverFactory = new DriverFactory();
+    	commonSteps = new CommonSteps();
+		driverFactory.SingleDriver(browserType);
+		driver = DriverFactory.getDriver();
+		driver.get(ConfigReader.getBaseUrl().toString());
+		driver.manage().window().maximize();
+		driver.manage().deleteAllCookies();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10)); 
+		
+     }	
+    @Given("Click Get Started button")
 	public void click_get_started_button() {
-		for(WebDriver driver: DriverFactory.getMapDrivers().values()) {
-			startPage = PageFactory.initElements(driver, StartPage.class);
+		   //WebDriver driver = DriverFactory.getDriver();
+			startPage = PageFactory.initElements(DriverFactory.getDriver(), StartPage.class);
 			startPage.ClickButton();
 		}
-	}
+	
 
 }
 	

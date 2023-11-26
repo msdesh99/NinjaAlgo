@@ -12,7 +12,7 @@ Feature: Open and Get Started dsalgoportal
   @edge
     Scenario: For edge browser
    Given open url with "edge" browser
-  
+  #
   @GetStarted
     Scenario: Get Started
     Given Click Get Started button

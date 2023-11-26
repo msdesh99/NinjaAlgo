@@ -10,23 +10,18 @@ import java.util.Properties;
 
 public class ConfigReader {
     static Properties prop;
-	static FileInputStream fis;
 
-    public static Properties initializeProperties() throws Exception {
+    public Properties initializeProperties() throws Exception {
+    	prop = new Properties();
     	File file = new File("src/test/resources/config/config.properties");    	
-//    	File file = new File(System.getProperty("user.dir")+"src/test/resources/config/config.properties");    	
-        
+    	FileInputStream fis;
+
     	try {
 			fis = new FileInputStream(file);
-			prop = new Properties();
 			prop.load(fis); //persistent set of properties loading from fis into properties object
 		} catch (FileNotFoundException e) {
 			throw new Exception("Property file Not Found\n" + e);
-			//e.printStackTrace();
 		}
-    	finally {
-    		fis.close();   	
-    	}
     	return prop;    	
     }
     public static String getBrowserType() {
@@ -41,4 +36,11 @@ public class ConfigReader {
 	public static Object getModuleUrl() {
 		return prop.getProperty("moduleUrl");
 	}
+	public static Object getDropDown() {
+		return prop.getProperty("dropdown");
+	}
+	public static void setProperties() {
+		
+	}
 }
+
