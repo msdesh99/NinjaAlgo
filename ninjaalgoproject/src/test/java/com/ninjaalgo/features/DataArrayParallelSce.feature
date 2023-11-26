@@ -36,7 +36,7 @@ Feature: DataparallelSce module
 		Then Verify arraycurrentUrl "array/" and "arrays-in-python/"
 		
    	Then ClickOnArrayTopic "Try Here"
-		Then Add Python code "print you are here"
+		Then Add Python code "print you are here" "Try Here>>>"
  		Then GoTO ArrayPage and "/array/"
  	  Then GoTO DataHomePage
  		

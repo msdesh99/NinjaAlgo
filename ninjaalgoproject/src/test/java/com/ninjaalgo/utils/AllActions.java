@@ -134,7 +134,6 @@ public class AllActions {
 		}  
 	}	
 	public static void TextIndentationForPractice(WebDriver driver, WebElement pythonElement) {
-		System.out.println("in textin");
 		 action = new Actions(driver);
 		      action.keyDown(Keys.CONTROL).sendKeys(Keys.chord("a")).keyUp(Keys.CONTROL).perform();
 		      //action.sendKeys(Keys.chord(Keys.CONTROL, "a")).perform();
