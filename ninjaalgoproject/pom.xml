@@ -23,7 +23,7 @@
 			      <suiteXmlFile>TestModules.xml</suiteXmlFile>
 			      <suiteXmlFile>ArrayCrossBrowser1.xml</suiteXmlFile> 
 				  <suiteXmlFile>dataArrayParallelSce.xml</suiteXmlFile>
-				  <suiteXmlFile>BugChromeBrowser.xml</suiteXmlFile>-->
+				  <suiteXmlFile>BugChromeBrowser.xml</suiteXmlFile>
 				  <suiteXmlFile>DDLoginPythonArray.xml</suiteXmlFile>
 				  <suiteXmlFile>dataArrayParallelClass.xml</suiteXmlFile>
 			  </suiteXmlFiles>
