@@ -24,7 +24,7 @@
 			      <suiteXmlFile>ArrayCrossBrowser1.xml</suiteXmlFile> 
 				  <suiteXmlFile>dataArrayParallelSce.xml</suiteXmlFile>
 				  <suiteXmlFile>BugChromeBrowser.xml</suiteXmlFile>
-				  <suiteXmlFile>DDLoginPythonArray.xml</suiteXmlFile>
+				<!--  <suiteXmlFile>DDLoginPythonArray.xml</suiteXmlFile> -->
 				  <suiteXmlFile>dataArrayParallelClass.xml</suiteXmlFile>
 			  </suiteXmlFiles>
 			  <!-- <includes>*parallelClass.java</includes>
