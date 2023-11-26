@@ -16,6 +16,7 @@ import io.cucumber.java.en.Then;
 public class EArrayStep {
 	HomePage homePage;
 	ArrayPage arrayPage;
+	String parentUrl="";
 	//CommonSteps commonSteps;
 
 	@Then("ClickOnArrayModule {string}")
@@ -36,13 +37,21 @@ public class EArrayStep {
 				arrayPage = PageFactory.initElements(driver, ArrayPage.class);
 				arrayPage.GetIntoTopic(string);
 	}
-	@Then("Add Python code {string}")
+	@Then("Add Python code {string} {string}")
+	public void add_python_code(String string, String string2) throws Exception {
+	    WebDriver driver = DriverFactory.getDriver();
+		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
+		//arrayPage.TryPython(string);
+		arrayPage.TryPython();
+
+	}
+/*	@Then("Add Python code {string}")
 	public void add_python_code(String string) throws Exception {
 		    WebDriver driver = DriverFactory.getDriver();
 			arrayPage = PageFactory.initElements(driver, ArrayPage.class);
 			//arrayPage.TryPython(string);
 			arrayPage.TryPython();
-	}
+	} */
 	@Then("Verify arraycurrentUrl {string} and {string}")
 	public void verify_arraycurrentUrl(String url, String type) {
 	    WebDriver driver = DriverFactory.getDriver();

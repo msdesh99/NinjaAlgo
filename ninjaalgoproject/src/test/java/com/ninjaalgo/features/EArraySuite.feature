@@ -15,7 +15,7 @@ Feature: Array module
 		Then Verify arraycurrentUrl "array/" and "arrays-in-python/"
 		Then ClickOnArrayTopic "Try Here"
 		#Then verify "tryEditor" in Common
-		Then Add Python code "print you are here"
+		Then Add Python code "print you are here" "Try Here>>>"
     Then User Signing Off
     Then VerifySignout "Logged out successfully"
   

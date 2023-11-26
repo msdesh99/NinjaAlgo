@@ -13,6 +13,7 @@ import org.testng.Assert;
 import com.ninjaalgo.driverfactory.DriverFactory;
 import com.ninjaalgo.pages.HomePage;
 import com.ninjaalgo.pages.LoginPage;
+import com.ninjaalgo.pages.PracticeQuestionPage;
 import com.ninjaalgo.pages.StartPage;
 import com.ninjaalgo.utils.AllActions;
 import com.ninjaalgo.utils.ConfigReader;
@@ -29,6 +30,8 @@ public class CommonSteps{
     StartPage startPage;   
     HomePage homePage;
     LoginPage loginPage;
+    String parentUrl="";
+    PracticeQuestionPage practiceQuestionPage;
     
     public CommonSteps() {
 		super();
@@ -81,7 +84,6 @@ public class CommonSteps{
 	     homePage = PageFactory.initElements(driver, HomePage.class);
 		 homePage.ClickHeader();		
 	}
-
 	public static void VerifyURl(String url) {
 		   WebDriver driver = DriverFactory.getDriver();
 		   if(url.contentEquals("headerBug"))
@@ -93,13 +95,16 @@ public class CommonSteps{
 			Assert.assertEquals(testOutput, true);
 			Assert.assertTrue(testOutput);
 	}
-	public void VerifyPython(String actual, String expected) {
+	public void VerifyPython(String actual, String expected, String topic) {
 		if(actual.contentEquals(expected)) {
 	     String report ="Actual :"+actual +"Expected: "+expected;		
-	      LoggerLoad.info("<=====Test For Try here>>>  is Passed. Output is: "+expected);	
+	      LoggerLoad.info("<=====Test For "+topic +">>> is Passed. Output is: "+expected);	
 		 WebDriver driver = DriverFactory.getDriver();
 		 driver.get(ConfigReader.getModuleUrl().toString());
+		 //driver.get(parentUrl);
 		}	 
+		
+		
 	}
 		public static String getParentWindowHandler() {
 			return parentWindowHandle;		

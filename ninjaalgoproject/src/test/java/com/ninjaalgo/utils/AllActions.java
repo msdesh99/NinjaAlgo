@@ -133,6 +133,13 @@ public class AllActions {
 			   }
 		}  
 	}	
+	public static void TextIndentationForPractice(WebDriver driver, WebElement pythonElement) {
+		System.out.println("in textin");
+		 action = new Actions(driver);
+		      action.keyDown(Keys.CONTROL).sendKeys(Keys.chord("a")).keyUp(Keys.CONTROL).perform();
+		      //action.sendKeys(Keys.chord(Keys.CONTROL, "a")).perform();
+		      action.sendKeys(Keys.DELETE).perform();		      
+	}	
 	public static String DriverWaitForElementOrAlert(WebDriver driver, WebElement pythonResult) {
 		    String output=null;
 	         try {
@@ -154,7 +161,24 @@ public class AllActions {
     	js = (JavascriptExecutor) driver;
     	js.executeScript("window.scrollBy(0,350)", "");
     }	
+    public static void GoToParentWindowHandle(WebDriver driver, String parentWindowHandler) {
+		Set<String> s = driver.getWindowHandles();
 	
+		// Now iterate using Iterator
+		Iterator<String> I1 = s.iterator();
+		while (I1.hasNext()) {
+		String child_window = I1.next();
+		System.out.println("itr parent han: "+parentWindowHandler);
+		System.out.println("itr child han: "+child_window);
+
+		if (parentWindowHandler.equals(child_window)) {
+		    driver.switchTo().window(parentWindowHandler);
+			//return FindElementWithLocator(driver,locator);
+		   // element1.click() 
+		    break;
+		}
+	   }
+}
 	public static WebElement GetCurrentWindowHandle(WebDriver driver, By locator) {
 		String parent = driver.getWindowHandle();
 		System.out.println("parent han: "+parent);

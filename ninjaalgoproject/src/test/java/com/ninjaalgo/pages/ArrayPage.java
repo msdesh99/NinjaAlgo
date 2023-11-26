@@ -13,9 +13,11 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import com.ninjaalgo.driverfactory.DriverFactory;
 import com.ninjaalgo.steps.CommonSteps;
 import com.ninjaalgo.testdata.GetXLData;
 import com.ninjaalgo.utils.AllActions;
+import com.ninjaalgo.utils.ConfigReader;
 
 public class ArrayPage extends AllActions {
    WebDriver driver;
@@ -100,9 +102,11 @@ public class ArrayPage extends AllActions {
 		if(actual==null) 
 			actual = pythonResult.getText();
 			   commonSteps = new CommonSteps();
-			   commonSteps.VerifyPython(actual,expected);
+			   commonSteps.VerifyPython(actual,expected,"Try Here");
 	}
 	public void TryPythonNegative(String string) throws InterruptedException {
+	    //pythonElement.clear();
+
 		if((string!=null)) {
 		    pythonElement.sendKeys(string);
 		}
@@ -112,13 +116,30 @@ public class ArrayPage extends AllActions {
 		String actual = DriverWaitForElementOrAlert(driver,pythonResult);
 		if(actual==null) 
 			actual = pythonResult.getText();
-		else 	{
-				expected = actual;
-		}
-			   commonSteps = new CommonSteps();
-			   commonSteps.VerifyPython(actual,expected);
-		
+		   expected = actual;
+		   commonSteps = new CommonSteps();
+	       commonSteps.VerifyPython(actual,expected,"Try Here>>>");		
 	}
-	
+/*	public void TryPractice(String code) {
+		TextIndentationForPractice(driver,pythonElement);
+	    pythonElement.sendKeys(code);
+		runElement.click();
+		String actual = DriverWaitForElementOrAlert(driver,pythonResult);
+		if(actual==null) 
+			actual = pythonResult.getText();
+			  commonSteps = new CommonSteps();
+			  commonSteps.VerifyPython(actual,expected,"Practice");
+	}*/
+
+	/*public void TryPracticeNegative(String code, String practice) {
+		TextIndentationForPractice(driver,pythonElement);
+	    pythonElement.sendKeys(code);
+		runElement.click();
+		String actual = DriverWaitForElementOrAlert(driver,pythonResult);
+		if(actual==null) 
+			actual = pythonResult.getText();
+			   commonSteps = new CommonSteps();
+			   commonSteps.VerifyPython(actual,expected,"Practice");
+		}*/
 
 }

@@ -1,1 +1,826 @@
-[INFO ]2023-11-2414:12:35.097[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: SyntaxError: bad input on line 2
+[INFO ]2023-11-2507:58:22.809[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2507:58:23.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2507:58:24.141[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2507:58:29.316[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2507:58:31.046[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2507:58:31.046[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2507:58:40.022[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:58:40.353[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2507:58:46.561[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:58:46.880[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2507:58:52.934[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:58:53.188[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2507:58:58.999[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:58:59.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2507:59:06.119[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:59:06.482[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : PASSED
+[INFO ]2023-11-2507:59:12.283[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:59:12.600[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : PASSED
+[INFO ]2023-11-2507:59:18.574[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:59:18.937[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : PASSED
+[INFO ]2023-11-2507:59:24.675[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:59:25.053[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : PASSED
+[INFO ]2023-11-2507:59:30.790[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:59:31.104[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : PASSED
+[INFO ]2023-11-2507:59:36.980[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:59:37.298[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : PASSED
+[INFO ]2023-11-2507:59:43.096[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2507:59:43.890[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : PASSED
+[INFO ]2023-11-2509:41:57.738[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : FAILED
+[INFO ]2023-11-2509:41:57.795[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : FAILED
+[INFO ]2023-11-2509:41:57.808[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : FAILED
+[INFO ]2023-11-2509:41:57.822[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : FAILED
+[INFO ]2023-11-2509:41:57.836[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : FAILED
+[INFO ]2023-11-2509:41:57.850[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : FAILED
+[INFO ]2023-11-2509:41:57.863[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : FAILED
+[INFO ]2023-11-2509:42:52.407[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2509:42:52.924[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2509:42:53.642[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2509:42:58.469[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2509:43:00.570[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2509:43:00.570[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2509:43:10.569[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2509:43:11.003[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : PASSED
+[INFO ]2023-11-2509:43:17.266[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2509:43:17.620[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : PASSED
+[INFO ]2023-11-2509:43:23.174[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : FAILED
+[INFO ]2023-11-2509:43:33.491[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : FAILED
+[INFO ]2023-11-2509:43:43.854[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : FAILED
+[INFO ]2023-11-2509:43:54.137[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : FAILED
+[INFO ]2023-11-2509:44:04.470[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : FAILED
+[INFO ]2023-11-2509:45:04.907[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2509:45:05.484[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2509:45:06.567[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2509:45:11.362[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2509:45:13.591[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2509:45:13.591[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2509:45:24.717[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2509:45:25.126[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : UNDEFINED
+[INFO ]2023-11-2509:45:35.505[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : FAILED
+[INFO ]2023-11-2509:45:45.807[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : FAILED
+[INFO ]2023-11-2509:45:56.093[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : FAILED
+[INFO ]2023-11-2509:46:06.438[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : FAILED
+[INFO ]2023-11-2509:46:16.813[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : FAILED
+[INFO ]2023-11-2509:46:27.096[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : FAILED
+[INFO ]2023-11-2509:48:13.610[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : FAILED
+[INFO ]2023-11-2509:48:13.663[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : FAILED
+[INFO ]2023-11-2509:48:13.687[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : FAILED
+[INFO ]2023-11-2509:48:13.707[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : FAILED
+[INFO ]2023-11-2509:48:13.724[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : FAILED
+[INFO ]2023-11-2509:48:13.737[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : FAILED
+[INFO ]2023-11-2509:48:13.747[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : FAILED
+[INFO ]2023-11-2510:02:34.942[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2510:02:35.466[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2510:02:36.604[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:02:41.315[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:02:43.638[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2510:02:43.638[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2510:02:53.526[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2510:02:54.532[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : UNDEFINED
+[INFO ]2023-11-2510:03:04.898[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : FAILED
+[INFO ]2023-11-2510:03:15.269[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : FAILED
+[INFO ]2023-11-2510:03:25.557[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : FAILED
+[INFO ]2023-11-2510:03:35.840[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : FAILED
+[INFO ]2023-11-2510:03:46.083[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : FAILED
+[INFO ]2023-11-2510:03:56.381[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : FAILED
+[INFO ]2023-11-2510:04:35.130[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2510:04:35.754[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2510:04:36.468[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:04:41.417[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:04:43.380[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2510:04:43.380[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2510:04:53.158[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2510:04:54.301[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : UNDEFINED
+[INFO ]2023-11-2510:07:41.025[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2510:07:41.548[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2510:07:42.257[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:07:46.987[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:07:49.149[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2510:07:49.149[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2510:08:00.147[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2510:08:00.816[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : PASSED
+[INFO ]2023-11-2510:23:24.605[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2510:23:24.659[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-2510:23:24.678[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2510:23:24.694[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2510:30:47.055[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2510:30:47.554[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2510:30:48.218[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:30:53.026[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:30:55.149[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2510:30:55.150[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2510:31:00.467[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2510:31:07.934[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2510:31:08.307[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2510:31:14.641[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2510:31:15.024[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2510:31:20.492[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2510:33:04.497[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2510:33:05.152[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2510:33:05.827[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:33:10.661[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:33:12.727[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2510:33:12.727[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2510:33:16.593[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2510:33:44.181[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2510:33:44.807[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2510:33:45.436[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:33:50.345[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:33:52.595[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2510:33:52.595[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2510:33:56.790[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2510:37:59.108[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2510:38:22.367[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2510:41:43.187[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2510:44:39.870[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2510:44:40.811[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2510:44:41.824[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:44:46.580[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:44:48.578[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2510:44:48.580[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2510:44:53.335[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2510:44:53.474[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2510:48:46.178[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2510:58:28.892[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2510:58:29.788[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2510:58:30.495[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:58:35.209[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2510:58:37.254[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2510:58:37.254[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2510:58:41.628[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try here>>>  is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2510:58:41.793[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2511:05:33.183[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2511:05:33.922[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2511:05:34.959[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:05:39.611[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:05:41.753[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2511:05:41.753[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2511:05:46.100[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2511:05:46.209[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2511:06:52.837[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2511:06:53.575[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2511:06:54.408[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:06:59.032[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:07:01.007[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2511:07:01.008[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2511:07:05.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2511:07:14.000[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2511:17:49.109[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2511:17:49.888[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2511:17:50.653[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:17:55.340[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:17:57.433[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2511:17:57.433[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2511:18:01.377[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : UNDEFINED
+[INFO ]2023-11-2511:21:22.921[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2511:22:55.381[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2511:22:55.932[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2511:22:56.935[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:23:01.627[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:23:03.385[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2511:23:03.386[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2511:23:13.256[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2511:23:14.927[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2511:23:25.406[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2511:24:42.535[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2511:24:43.084[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2511:24:44.013[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:24:48.664[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:24:50.338[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2511:24:50.339[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2511:24:59.546[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2511:25:01.216[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2511:25:02.264[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2511:25:02.390[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2511:29:20.932[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2511:29:21.682[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2511:29:22.415[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:29:27.097[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:29:29.077[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2511:29:29.077[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2511:29:37.412[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2511:29:43.636[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2511:31:02.475[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2511:31:03.079[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2511:31:03.778[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:31:08.409[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2511:31:10.171[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2511:31:10.171[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2511:31:18.892[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2511:31:22.060[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2512:20:29.928[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2512:20:30.751[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2512:20:31.684[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2512:20:36.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2512:20:38.190[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2512:20:38.190[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2512:20:47.072[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2512:20:49.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2512:43:11.087[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2512:43:11.631[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2512:43:12.790[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2512:43:17.543[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2512:43:19.433[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2512:43:19.434[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2512:43:28.638[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2512:43:31.110[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2512:46:48.178[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2512:46:48.804[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2512:46:49.997[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2512:46:54.858[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2512:46:57.174[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2512:46:57.175[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2512:47:07.051[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2512:47:09.620[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2512:53:02.914[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2512:53:03.663[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2512:53:04.762[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2512:53:09.844[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2512:53:12.035[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2512:53:12.036[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2512:53:16.214[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2513:06:39.944[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2513:06:40.957[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2513:06:42.280[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:06:47.050[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:06:49.064[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2513:06:49.065[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2513:06:59.154[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2513:11:13.310[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2513:11:14.079[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2513:11:15.309[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:11:20.063[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:11:22.065[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2513:11:22.065[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2513:11:30.668[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2513:15:05.732[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2513:15:06.329[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2513:15:07.674[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:15:12.355[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:15:14.243[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2513:15:14.243[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2513:15:17.853[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2513:19:06.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2513:19:07.457[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2513:19:08.415[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:19:13.166[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:19:15.109[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2513:19:15.109[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2513:19:25.554[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2513:19:39.100[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2513:19:45.422[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2513:19:51.680[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2513:21:52.935[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2513:21:53.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2513:21:54.545[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:21:59.373[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:22:01.338[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2513:22:01.338[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2513:22:11.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2513:22:13.863[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2513:22:24.319[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2513:22:34.558[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2513:43:33.734[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2513:43:34.344[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2513:43:35.234[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:43:39.981[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:43:41.963[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2513:43:41.963[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2513:43:51.675[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2513:43:53.070[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2513:44:03.429[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2513:44:13.627[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2513:50:54.791[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2513:50:55.261[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2513:50:55.959[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:51:00.882[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:51:03.069[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2513:51:03.070[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2513:51:12.661[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2513:51:14.389[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2513:52:55.457[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2513:52:55.946[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2513:52:56.724[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:53:01.406[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2513:53:03.342[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2513:53:03.343[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2513:53:13.292[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2513:53:14.584[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2514:17:02.665[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2514:17:03.184[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2514:17:04.151[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2514:17:08.776[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2514:17:10.818[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2514:17:10.818[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2514:17:20.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2514:17:21.961[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2514:25:27.753[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2514:25:28.461[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2514:25:29.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2514:25:34.347[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2514:25:37.238[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2514:25:37.238[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2514:25:48.033[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2514:25:49.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2514:44:01.435[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2514:44:01.907[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2514:44:02.659[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2514:44:07.515[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2514:44:09.633[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2514:44:09.633[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2514:44:19.949[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2514:44:21.157[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2514:44:21.580[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2514:47:45.362[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2514:52:53.522[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2514:58:52.573[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2514:58:53.046[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2514:58:53.713[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2514:58:58.633[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2514:59:00.656[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2514:59:00.657[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2514:59:10.764[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2514:59:11.875[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2514:59:16.946[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2514:59:17.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2515:00:13.338[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>>>>> is Passed. Output is: SyntaxError: bad input on line 2
+[INFO ]2023-11-2515:02:29.073[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:02:29.564[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:02:30.299[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:02:34.927[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:02:36.923[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:02:36.923[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:02:46.826[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:02:48.050[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:02:53.278[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:02:59.932[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:05:44.764[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:05:45.221[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:05:45.958[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:05:50.689[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:05:52.666[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:05:52.668[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:06:02.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:06:03.789[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:06:08.835[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:06:16.302[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:07:29.031[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:07:29.476[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:07:30.199[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:07:34.867[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:07:36.677[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:07:36.677[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:07:46.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:07:47.631[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:07:52.721[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:08:00.167[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:12:25.549[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:12:26.040[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:12:26.731[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:12:31.505[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:12:33.836[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:12:33.836[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:12:44.115[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:12:45.292[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:12:50.307[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:12:57.772[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:14:22.545[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:14:23.080[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:14:23.839[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:14:28.689[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:14:30.659[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:14:30.661[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:14:40.581[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:14:41.821[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:14:46.785[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:14:47.844[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:14:54.402[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:18:06.501[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:18:06.968[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:18:07.654[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:18:12.463[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:18:14.375[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:18:14.375[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:18:24.452[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:18:25.690[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:18:30.693[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:18:31.666[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:18:40.656[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:22:45.993[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:22:46.517[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:22:47.236[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:22:52.044[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:22:54.039[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:22:54.040[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:23:03.905[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:23:05.209[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:23:10.243[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:23:11.264[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:23:17.856[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:29:53.982[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:29:54.465[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:29:55.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:29:59.956[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:30:01.939[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:30:01.940[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:30:11.609[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:30:12.866[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:30:17.884[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:30:18.865[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:30:27.865[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:34:07.711[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:34:08.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:34:08.944[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:34:13.672[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:34:15.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:34:15.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:34:25.203[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:34:26.452[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:34:31.471[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:34:32.510[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:34:39.378[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:39:19.422[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:39:19.943[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:39:20.770[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:39:25.570[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:39:27.340[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:39:27.341[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:39:35.910[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:39:37.489[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:39:42.713[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:39:43.895[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:39:50.464[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:41:34.735[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:41:35.294[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:41:36.100[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:41:40.815[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:41:42.515[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:41:42.516[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:41:50.873[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:41:52.132[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:41:57.160[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:41:58.166[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:42:07.615[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:44:01.409[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:44:01.907[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:44:02.631[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:44:07.354[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:44:09.126[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:44:09.127[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:44:17.531[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:44:19.023[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:44:23.991[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:44:25.024[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:44:34.022[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2515:46:49.113[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:46:49.628[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:46:50.341[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:46:55.163[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:46:56.953[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:46:56.953[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:47:05.187[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:47:06.495[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:47:11.509[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:47:12.606[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:47:12.882[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2515:47:13.742[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-2515:47:23.998[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2515:47:34.242[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2515:50:21.154[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:50:21.728[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:50:22.535[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:50:27.437[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:50:29.369[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:50:29.369[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:50:38.256[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:50:39.724[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:50:44.816[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:50:45.883[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:50:46.128[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2515:50:47.049[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-2515:50:57.286[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2515:51:07.581[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2515:54:26.286[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:54:26.778[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:54:27.499[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:54:32.281[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:54:33.962[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:54:33.962[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:54:42.201[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:54:43.937[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:54:49.015[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:54:50.016[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:54:50.255[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2515:54:51.174[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-2515:55:01.444[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2515:55:11.741[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2515:56:55.324[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:56:55.814[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:56:56.505[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:57:01.257[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:57:03.025[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:57:03.026[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2515:57:11.311[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2515:57:12.896[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:57:17.935[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2515:57:18.997[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2515:57:19.262[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2515:57:20.149[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-2515:57:30.430[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2515:57:40.679[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2515:59:44.470[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2515:59:45.036[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2515:59:45.802[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:59:50.625[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2515:59:52.513[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2515:59:52.514[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:00:00.742[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:00:02.201[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:00:07.294[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2516:00:08.318[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:00:08.560[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2516:00:09.462[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-2516:00:19.830[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:00:23.864[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2516:01:14.290[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:01:14.802[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:01:15.576[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:01:20.226[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:01:22.019[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:01:22.019[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:01:30.202[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:01:31.768[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:01:36.940[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2516:01:38.059[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:01:38.311[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2516:01:39.148[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-2516:01:49.438[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:01:53.503[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2516:03:32.998[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:03:33.496[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:03:34.302[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:03:39.158[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:03:41.129[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:03:41.129[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:03:49.553[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:03:50.961[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:03:56.087[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2516:03:57.083[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:03:57.353[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2516:03:58.303[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : UNDEFINED
+[INFO ]2023-11-2516:04:02.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2516:06:57.874[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:06:58.533[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:06:59.335[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:07:03.974[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:07:05.794[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:07:05.794[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:07:14.636[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:07:16.156[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:07:21.419[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2516:07:22.495[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:07:22.796[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2516:07:29.045[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:07:29.625[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2516:07:30.085[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2516:09:06.954[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:09:07.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:09:08.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:09:13.058[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:09:14.881[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:09:14.881[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:09:23.136[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:09:25.054[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2516:09:36.979[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-2516:09:47.232[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:09:57.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2516:11:59.321[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : FAILED
+[INFO ]2023-11-2516:11:59.467[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : FAILED
+[INFO ]2023-11-2516:11:59.565[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2516:11:59.609[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : FAILED
+[INFO ]2023-11-2516:11:59.661[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : FAILED
+[ERROR]2023-11-2516:11:59.662[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : FAILED
+[INFO ]2023-11-2516:12:00.770[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2516:12:00.845[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-2516:12:00.904[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:12:34.847[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:12:35.332[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:12:36.078[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:12:40.681[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:12:42.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:12:42.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:12:50.690[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:12:51.774[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:12:56.863[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2516:12:57.722[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:12:58.025[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2516:13:03.960[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:13:04.445[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2516:13:10.289[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:13:10.664[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2516:14:42.860[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:14:43.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:14:44.093[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:14:48.772[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:14:50.475[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:14:50.475[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:14:58.581[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:14:58.935[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2516:21:16.191[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:21:16.722[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:21:17.584[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:21:22.373[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:21:24.078[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:21:24.078[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:21:35.577[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2516:21:51.843[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-2516:22:08.127[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:22:24.380[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2516:22:52.552[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2516:23:08.843[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-2516:23:25.093[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:23:41.351[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2516:24:29.818[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:24:30.535[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:24:31.278[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:24:36.006[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:24:37.741[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:24:37.741[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:24:49.227[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2516:25:05.468[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-2516:25:05.505[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:25:05.541[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2516:25:19.868[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:25:20.402[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:25:21.152[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:25:25.852[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:25:27.702[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:25:27.703[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:25:36.133[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:25:46.877[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2516:25:57.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-2516:26:07.472[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:26:17.726[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2516:26:46.484[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:26:47.012[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:26:47.743[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:26:52.482[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:26:54.247[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:26:54.247[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:27:02.370[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:27:11.688[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-11-2516:27:17.988[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-11-2516:27:24.206[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-11-2516:27:30.447[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-11-2516:27:49.496[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2516:27:49.981[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2516:27:50.695[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:27:55.490[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2516:27:57.211[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2516:27:57.211[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2516:28:05.378[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2516:28:06.064[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2516:28:07.472[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:28:07.730[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2516:28:13.022[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2516:28:13.554[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2516:28:15.056[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2516:28:15.366[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2519:00:02.911[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2519:00:03.528[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2519:00:04.263[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:00:09.204[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:00:11.526[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2519:00:11.526[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2519:00:21.993[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:00:22.522[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2519:00:24.285[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-11-2519:00:24.544[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-11-2519:00:24.701[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2519:00:30.248[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2519:00:30.607[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2519:00:32.602[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2519:00:32.831[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2519:00:35.079[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : UNDEFINED
+[INFO ]2023-11-2519:02:47.335[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2519:02:48.872[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2519:02:49.744[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:02:54.644[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:02:57.058[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2519:02:57.058[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2519:03:07.141[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:03:07.507[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2519:03:09.482[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-11-2519:03:09.614[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-11-2519:03:09.794[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2519:03:15.545[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2519:03:15.926[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2519:03:17.799[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2519:03:18.193[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2519:03:20.785[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : UNDEFINED
+[INFO ]2023-11-2519:10:32.217[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2519:10:32.908[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2519:10:33.811[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:10:38.714[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:10:40.728[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2519:10:40.729[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2519:10:51.099[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:10:51.520[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2519:10:53.229[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-11-2519:10:53.435[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-11-2519:10:53.928[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2519:10:59.508[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2519:10:59.767[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2519:11:01.322[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2519:11:01.656[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2519:11:09.221[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:11:13.436[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : FAILED
+[INFO ]2023-11-2519:11:23.692[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : FAILED
+[INFO ]2023-11-2519:11:33.950[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : FAILED
+[INFO ]2023-11-2519:11:44.298[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : FAILED
+[INFO ]2023-11-2519:11:54.654[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : FAILED
+[INFO ]2023-11-2519:12:04.990[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : FAILED
+[INFO ]2023-11-2519:12:15.325[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : FAILED
+[INFO ]2023-11-2519:16:13.907[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2519:16:14.510[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2519:16:15.245[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:16:20.104[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:16:22.169[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2519:16:22.169[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2519:16:33.713[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:16:34.398[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2519:16:36.106[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-11-2519:16:36.286[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-11-2519:16:36.543[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2519:16:41.984[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2519:16:42.289[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2519:16:43.695[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2519:16:43.947[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2519:16:51.849[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:16:56.177[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : FAILED
+[INFO ]2023-11-2519:17:06.534[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : FAILED
+[INFO ]2023-11-2519:17:16.912[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : FAILED
+[INFO ]2023-11-2519:17:27.193[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : FAILED
+[INFO ]2023-11-2519:17:37.514[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : FAILED
+[INFO ]2023-11-2519:17:47.871[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : FAILED
+[INFO ]2023-11-2519:17:58.210[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : FAILED
+[INFO ]2023-11-2519:18:42.062[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2519:18:42.720[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2519:18:43.582[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:18:48.369[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:18:50.478[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2519:18:50.479[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2519:19:00.786[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:19:05.194[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : FAILED
+[INFO ]2023-11-2519:19:15.504[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : FAILED
+[INFO ]2023-11-2519:19:25.838[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : FAILED
+[INFO ]2023-11-2519:19:36.157[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : FAILED
+[INFO ]2023-11-2519:19:46.468[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : FAILED
+[INFO ]2023-11-2519:19:56.812[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : FAILED
+[INFO ]2023-11-2519:20:07.122[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : FAILED
+[INFO ]2023-11-2519:21:09.084[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2519:21:09.663[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2519:21:10.540[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:21:15.380[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:21:17.679[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2519:21:17.679[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2519:21:27.845[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[ERROR]2023-11-2519:21:28.554[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Linked List : Actual :Empty PageExpected: On Editor of each Practice page
+[INFO ]2023-11-2519:21:28.701[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : PASSED
+[INFO ]2023-11-2519:21:29.393[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : PASSED
+[INFO ]2023-11-2519:21:30.201[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : PASSED
+[INFO ]2023-11-2519:21:30.835[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : PASSED
+[INFO ]2023-11-2519:21:31.564[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : PASSED
+[INFO ]2023-11-2519:21:32.368[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : PASSED
+[INFO ]2023-11-2519:21:33.169[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : PASSED
+[INFO ]2023-11-2519:22:07.234[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-2519:22:07.788[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-2519:22:08.552[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:22:13.334[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-2519:22:15.254[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-2519:22:15.254[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-2519:22:26.043[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:22:26.287[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-11-2519:22:27.761[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-11-2519:22:27.993[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-11-2519:22:28.205[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-11-2519:22:33.930[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-11-2519:22:34.326[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-11-2519:22:35.916[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-11-2519:22:36.153[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-11-2519:22:43.320[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[ERROR]2023-11-2519:22:43.880[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Linked List : Actual :Empty PageExpected: On Editor of each Practice page
+[INFO ]2023-11-2519:22:44.000[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList-Introduction is : PASSED
+[INFO ]2023-11-2519:22:44.608[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Creating-Linked-LIst is : PASSED
+[INFO ]2023-11-2519:22:45.390[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Types-Of-Linked-List is : PASSED
+[INFO ]2023-11-2519:22:46.323[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implement-Linked-List-in-Python is : PASSED
+[INFO ]2023-11-2519:22:47.062[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Traversal-Linked_List is : PASSED
+[INFO ]2023-11-2519:22:47.781[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Insertion-In-LInked_List is : PASSED
+[INFO ]2023-11-2519:22:48.719[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Deletion-In-LInked_List is : PASSED
+[INFO ]2023-11-2519:24:26.521[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2519:24:26.521[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : UNDEFINED
+[INFO ]2023-11-2519:26:48.914[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:26:49.979[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-11-2519:27:36.154[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-11-2519:27:42.512[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-11-2519:27:43.380[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED

@@ -4,7 +4,8 @@
   <test thread-count="5" name="Test">  
     <classes>
       <class name= "com.ninjaalgo.runner.TestNGDataStructure"/>
-      <class name="com.ninjaalgo.runner.TestNGArray"/>
+      <class name="com.ninjaalgo.runner.TestNGArray"/> 
+      <class name="com.ninjaalgo.runner.TestNGLinkedList"/>
       
     </classes>
   </test> <!-- Test -->
