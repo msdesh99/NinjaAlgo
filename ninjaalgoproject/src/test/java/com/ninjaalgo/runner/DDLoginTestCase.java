@@ -68,7 +68,7 @@ public class DDLoginTestCase extends AllActions {
 	@Test(dataProvider = "ds")
 	public void LoginValidity(String name, String password, String status) {
 		loginPage.SetLoginCred(new String[] { name, password });
-		commonSteps = new CommonSteps();
-		commonSteps.VerifyURl(status);
+		//commonSteps = new CommonSteps();
+		CommonSteps.VerifyURl(status);
 	}
 }
