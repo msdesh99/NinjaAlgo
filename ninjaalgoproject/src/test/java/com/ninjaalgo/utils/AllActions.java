@@ -62,9 +62,9 @@ public class AllActions {
 		return false;
 	  }
 	}
-	public void Quit_Driver(WebDriver driver) {
+/*	public void Quit_Driver(WebDriver driver) {
 		driver.quit();
-	}
+	}*/
     public static void DriverImpliciteWait(WebDriver driver) {
     	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
     }

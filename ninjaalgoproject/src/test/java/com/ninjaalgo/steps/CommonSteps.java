@@ -3,9 +3,6 @@
 */
 package com.ninjaalgo.steps;
 
-import java.time.Duration;
-import java.util.Map;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
@@ -19,14 +16,12 @@ import com.ninjaalgo.utils.AllActions;
 import com.ninjaalgo.utils.ConfigReader;
 import com.ninjaalgo.utils.LoggerLoad;
 
-import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 
 public class CommonSteps{
     static String currentUrl;
     static  WebDriver driver;
     public static String parentWindowHandle;
-   // ConfigReader configReader;
     StartPage startPage;   
     HomePage homePage;
     LoginPage loginPage;
@@ -40,7 +35,6 @@ public class CommonSteps{
     
 	@Then("Verify currentUrl {string} and {string}")
 	public static void verify_current_url_and(String url, String type) {	
-		//System.out.println("comm url: "+url);
         url = url.replace(" ","-").toLowerCase()+"/";
 		    if (type.contentEquals("module"))VerifyURl(url);
 		    else if(type.contentEquals("start")) VerifyURl("home");
@@ -63,9 +57,6 @@ public class CommonSteps{
 
 	     String bugReport ="Actual :"+actual +"Expected: "+expected;		
 		 LoggerLoad.error("<=====Bug Found on "+type+" : "+ bugReport);	
-		 //WebDriver driver = DriverFactory.getDriver();
-		 //driver.get(ConfigReader.getModuleUrl().toString());
-
 	}
 
 	@Then("Quit Driver")
@@ -97,17 +88,13 @@ public class CommonSteps{
 	}
 	public void VerifyPython(String actual, String expected, String topic) {
 		if(actual.contentEquals(expected)) {
-	     String report ="Actual :"+actual +"Expected: "+expected;		
+	    // String report ="Actual :"+actual +"Expected: "+expected;		
 	      LoggerLoad.info("<=====Test For "+topic +">>> is Passed. Output is: "+expected);	
 		 WebDriver driver = DriverFactory.getDriver();
 		 driver.get(ConfigReader.getModuleUrl().toString());
-		 //driver.get(parentUrl);
 		}	 
 		
 		
 	}
-		public static String getParentWindowHandler() {
-			return parentWindowHandle;		
-		}
 }
 

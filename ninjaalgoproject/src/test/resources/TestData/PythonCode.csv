@@ -1,0 +1,10 @@
+PythonCode for Array in tryedior arrays in python|Expected Output|
+def search(input_list, num):|
+output = 'Number is Not Found'| 
+for x in input_list:| 
+if x == num:| 
+output = 'Number is found'| 
+print(str(num) + ' is '+output)| 
+input_list=[12,23,45,56,67]|
+num=564| 
+search(input_list,num)|

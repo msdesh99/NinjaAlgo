@@ -14,8 +14,11 @@ Feature: Array module
 		
 		Then ClickOnArrayTopic "Try Here"
 		Then Add Python code "print you are here" "Try Here>>>"
-	  #Then GoTO ArrayPage and "/array/arrays-in-python/"
+	  Then GoTO ArrayPage and "/array/arrays-in-python/"
 	  
+	  Then ClickOnArrayTopic "Try Here"
+		Then Add Python-CSV code "print you are here" "Try Here>>>"
+		
 #		Then ClickPractice "Practice Questions"
   #	Then Verify datacurrentUrl "array/" and "practice"
   	
@@ -36,7 +39,8 @@ Feature: Array module
   
   	Then ClickPracticeTopic "Search the array"
   	Then verify "question/1" in Common
-  	Then PracticeTest "print you are here" result "alert"
+    Then PracticeWithDataTable
+    | print you are here | alert |
     Then verifyBug "Error occured During Submission." "Not working Properly" "SubmitButtonOnEveryPracticePage" in common
   	
 	

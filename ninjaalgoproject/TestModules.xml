@@ -6,6 +6,8 @@
       <class name= "com.ninjaalgo.runner.TestNGDataStructure"/>
       <class name="com.ninjaalgo.runner.TestNGArray"/> 
       <class name="com.ninjaalgo.runner.TestNGLinkedList"/>
+      <class name="com.ninjaalgo.runner.TestNGStack"/>
+      
       
     </classes>
   </test> <!-- Test -->

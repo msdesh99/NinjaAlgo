@@ -17,7 +17,6 @@ public class EArrayStep {
 	HomePage homePage;
 	ArrayPage arrayPage;
 	String parentUrl="";
-	//CommonSteps commonSteps;
 
 	@Then("ClickOnArrayModule {string}")
 	public void click(String string) throws Exception {
@@ -41,23 +40,19 @@ public class EArrayStep {
 	public void add_python_code(String string, String string2) throws Exception {
 	    WebDriver driver = DriverFactory.getDriver();
 		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
-		//arrayPage.TryPython(string);
 		arrayPage.TryPython();
-
 	}
-/*	@Then("Add Python code {string}")
-	public void add_python_code(String string) throws Exception {
-		    WebDriver driver = DriverFactory.getDriver();
-			arrayPage = PageFactory.initElements(driver, ArrayPage.class);
-			//arrayPage.TryPython(string);
-			arrayPage.TryPython();
-	} */
+	@Then("Add Python-CSV code {string} {string}")
+	public void add_python_csv_code(String string, String string2) throws Exception {
+	    WebDriver driver = DriverFactory.getDriver();
+		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
+		arrayPage.TryPythonCSV();
+	}
+
 	@Then("Verify arraycurrentUrl {string} and {string}")
 	public void verify_arraycurrentUrl(String url, String type) {
 	    WebDriver driver = DriverFactory.getDriver();
 		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
-
-		//commonSteps = new CommonSteps();
 		 if(type.contentEquals("module"))CommonSteps.VerifyURl(url);
 		 else CommonSteps.VerifyURl(url+type);
 	}

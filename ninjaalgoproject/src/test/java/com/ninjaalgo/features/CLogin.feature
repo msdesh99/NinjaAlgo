@@ -3,10 +3,6 @@
 #
 @loginPage
 Feature: Open and Login on dsalgoportal
-  #@signIn
-  #Scenario:Clicking signIn
-  #Given open url with "firefox" browser
-  #
   @login
   Scenario Outline: Login Credentials
     Given Click SignIn
@@ -17,7 +13,6 @@ Feature: Open and Login on dsalgoportal
   @valid
   Examples: Data for DSAlgo login
    | name  | password | status |
-   | test1 | test123  | login |
    | NinjaAlgo | @Algo123 | home |
    
 #

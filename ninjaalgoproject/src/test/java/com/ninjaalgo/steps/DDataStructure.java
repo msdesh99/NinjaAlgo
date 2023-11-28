@@ -17,7 +17,6 @@ import io.cucumber.java.en.Then;
 public class DDataStructure {
 	DataStructurePage dataStructurePage;
 	HomePage homePage;
-	//CommonSteps commonSteps;
     ConfigReader configReader;
 
 	
@@ -26,7 +25,6 @@ public class DDataStructure {
 		   WebDriver driver = DriverFactory.getDriver();
 			homePage = PageFactory.initElements(driver, HomePage.class);
 			homePage.GetIntoModule(string);
-		    //parentWindowHandle = driver.getWindowHandle();
 	}
 	
 	@Then("ClickInData {string}")
@@ -44,7 +42,6 @@ public class DDataStructure {
 	}
 	@Then("Verify datacurrentUrl {string} and {string}")
 	public void verify_current_url_and(String url, String type) {	
-		//commonSteps = new CommonSteps();
 		 if(type.contentEquals("module"))CommonSteps.VerifyURl(url);
 		 else CommonSteps.VerifyURl(url+type);
 	}

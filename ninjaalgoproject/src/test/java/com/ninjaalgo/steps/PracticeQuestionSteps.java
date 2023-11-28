@@ -3,24 +3,16 @@
 */
 package com.ninjaalgo.steps;
 
-import java.time.Duration;
-import java.util.Map;
+import java.util.Iterator;
+import java.util.List;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Assert;
 
 import com.ninjaalgo.driverfactory.DriverFactory;
 import com.ninjaalgo.pages.ArrayPage;
-import com.ninjaalgo.pages.HomePage;
-import com.ninjaalgo.pages.LoginPage;
 import com.ninjaalgo.pages.PracticeQuestionPage;
-import com.ninjaalgo.pages.StartPage;
-import com.ninjaalgo.utils.AllActions;
-import com.ninjaalgo.utils.ConfigReader;
-import com.ninjaalgo.utils.LoggerLoad;
 
-import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 
 public class PracticeQuestionSteps{
@@ -53,20 +45,24 @@ public class PracticeQuestionSteps{
 	        practiceQuestionPage = PageFactory.initElements(driver, PracticeQuestionPage.class);
 	        practiceQuestionPage.TryPractice(code,expected);
 	}
-/*	@Then("negativePracticeTest {string}")
-	public void negative_practice_test(String code) {
+	@Then("PracticeWithDataTable")
+	public void practice_with_data_table(io.cucumber.datatable.DataTable dataTable) {
+		   String code="", expected="";
 		   WebDriver driver = DriverFactory.getDriver();
 	        practiceQuestionPage = PageFactory.initElements(driver, PracticeQuestionPage.class);
-	        practiceQuestionPage.TryPracticeNegative(code);}
-
-	@Then("PositivePracticeTest {string} result {string}")
-	public void positive_practice_test_result(String code, String expected) {
-		   WebDriver driver = DriverFactory.getDriver();
-	        practiceQuestionPage = PageFactory.initElements(driver, PracticeQuestionPage.class);
-	        practiceQuestionPage.TryPracticePositive(code, expected);}
-
-	}*/
-
+	        List<List<String>> codeList = dataTable.cells();
+     	       Iterator<List<String>> itr = codeList.iterator();  
+	           synchronized (itr) {
+	        	   while(itr.hasNext()) {
+	        		      List<String> codeExpected = itr.next();
+	        		      System.out.println("codeline: "+codeExpected.get(0));
+	        		      code =code+codeExpected.get(0)+"\n";
+	        		      expected = codeExpected.get(1);
+	        		      System.out.println("codeline1: "+expected);
+	        	   }				
+			   }	         
+	        practiceQuestionPage.TryPractice(code,"alert");
+	}
 
 }
 
