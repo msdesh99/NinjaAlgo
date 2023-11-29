@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T15:21:51 GMT-05:00" name="Chrome Browser All modules" finished-at="2023-11-29T15:22:22 GMT-05:00" duration-ms="31055">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.TestNGArray@b8a7e43]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.TestNGDataStructure@1f38957]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-11-29T15:21:51 GMT-05:00" name="Test" finished-at="2023-11-29T15:22:22 GMT-05:00" duration-ms="31055">
+      <class name="com.ninjaalgo.runner.TestNGArray">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.ninjaalgo.runner.TestNGArray@b8a7e43]" started-at="2023-11-29T15:22:10 GMT-05:00" name="setUpClass" finished-at="2023-11-29T15:22:10 GMT-05:00" duration-ms="131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6761bb4d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.TestNGArray@b8a7e43]" started-at="2023-11-29T15:22:10 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-29T15:22:22 GMT-05:00" duration-ms="12169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["ArraysinPython"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Array module"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.TestNGArray@b8a7e43]" started-at="2023-11-29T15:22:22 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-29T15:22:22 GMT-05:00" duration-ms="44" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Arrays-Using-List"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Array module"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.ninjaalgo.runner.TestNGArray@b8a7e43]" started-at="2023-11-29T15:22:22 GMT-05:00" name="tearDownClass" finished-at="2023-11-29T15:22:22 GMT-05:00" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.ninjaalgo.runner.TestNGArray -->
+      <class name="com.ninjaalgo.runner.TestNGDataStructure">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.ninjaalgo.runner.TestNGDataStructure@1f38957]" started-at="2023-11-29T15:21:51 GMT-05:00" name="setUpClass" finished-at="2023-11-29T15:21:54 GMT-05:00" duration-ms="2483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6761bb4d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.TestNGDataStructure@1f38957]" started-at="2023-11-29T15:21:54 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-29T15:22:00 GMT-05:00" duration-ms="6400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["For chrome browser"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Open and Get Started dsalgoportal"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.TestNGDataStructure@1f38957]" started-at="2023-11-29T15:22:00 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-29T15:22:01 GMT-05:00" duration-ms="489" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Get Started"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Open and Get Started dsalgoportal"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.TestNGDataStructure@1f38957]" started-at="2023-11-29T15:22:01 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-29T15:22:06 GMT-05:00" duration-ms="5225" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Open and Login on dsalgoportal"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.ninjaalgo.runner.TestNGDataStructure@1f38957]" started-at="2023-11-29T15:22:06 GMT-05:00" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-11-29T15:22:09 GMT-05:00" duration-ms="2580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Introduction"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["DataStructure module"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.ninjaalgo.runner.TestNGDataStructure@1f38957]" started-at="2023-11-29T15:22:09 GMT-05:00" name="tearDownClass" finished-at="2023-11-29T15:22:10 GMT-05:00" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.ninjaalgo.runner.TestNGDataStructure -->
+    </test> <!-- Test -->
+  </suite> <!-- Chrome Browser All modules -->
+</testng-results>

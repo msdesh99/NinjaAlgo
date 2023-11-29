@@ -3,6 +3,9 @@
 */
 package com.ninjaalgo.steps;
 
+import java.io.IOException;
+
+import org.json.simple.parser.ParseException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
@@ -47,6 +50,13 @@ public class EArrayStep {
 	    WebDriver driver = DriverFactory.getDriver();
 		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
 		arrayPage.TryPythonCSV();
+	}
+	@Then("Add Python-JSON code {string} {string}")
+	public void add_python_json_code(String string, String string2) throws IOException, ParseException {
+	    WebDriver driver = DriverFactory.getDriver();
+		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
+		arrayPage.TryPyhtonJson();
+
 	}
 
 	@Then("Verify arraycurrentUrl {string} and {string}")

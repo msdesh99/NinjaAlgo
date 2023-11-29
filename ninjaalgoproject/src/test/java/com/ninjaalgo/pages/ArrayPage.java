@@ -1,7 +1,13 @@
 package com.ninjaalgo.pages;
 
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.List;
 
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,10 +16,13 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import com.google.gson.JsonParser;
 import com.ninjaalgo.steps.CommonSteps;
 import com.ninjaalgo.testdata.GetCSVData;
+import com.ninjaalgo.testdata.GetJSONData;
 import com.ninjaalgo.testdata.GetXLData;
 import com.ninjaalgo.utils.AllActions;
+import com.ninjaalgo.utils.ConfigReader;
 
 public class ArrayPage extends AllActions {
    WebDriver driver;
@@ -22,6 +31,8 @@ public class ArrayPage extends AllActions {
    Alert alert;
    GetXLData getXLData;
    GetCSVData getCSVData;
+   GetJSONData getJSONData;
+
    String xmlPath;
    CommonSteps commonSteps;
    String expected;
@@ -133,8 +144,32 @@ public class ArrayPage extends AllActions {
 		String actual = DriverWaitForElementOrAlert(driver,pythonResult);
 		if(actual==null) 
 			actual = pythonResult.getText();
-			  // commonSteps = new CommonSteps();
-			   //commonSteps.VerifyPython(actual,expected,"Try Here");
+			   commonSteps = new CommonSteps();
+			   commonSteps.VerifyPython(actual,expected,"Try Here");
 	
 	}
+
+	public void TryPyhtonJson() throws IOException, ParseException {
+
+		getJSONData = new GetJSONData();
+		String[][] pythonArr = getJSONData.ReadJsonData();
+		expected = pythonArr[0][1].toString();
+
+		String code = pythonArr[0][0];
+		System.out.println("code: " + code);
+		locator = By.xpath("//form[@id='answer_form']/div/div/div/textarea");
+		driver.findElement(By.xpath("//form[@id='answer_form']/div/div/div/textarea")).sendKeys(code);
+        
+		//TextIndentation(driver,pythonElement,3,6,true);	
+        //TextIndentation(driver,pythonElement,1,3,false);	
+
+		runElement.click();
+		String actual = DriverWaitForElementOrAlert(driver, pythonResult);
+		if (actual == null)
+			actual = pythonResult.getText();
+		 commonSteps = new CommonSteps();
+		 commonSteps.VerifyPython(actual,expected,"Try Here");
+
+	}
+	
 }

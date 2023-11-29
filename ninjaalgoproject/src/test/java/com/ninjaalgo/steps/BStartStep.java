@@ -9,12 +9,13 @@ import org.openqa.selenium.support.PageFactory;
 import com.ninjaalgo.driverfactory.DriverFactory;
 import com.ninjaalgo.pages.HomePage;
 import com.ninjaalgo.pages.StartPage;
+import com.ninjaalgo.utils.AllActions;
 import com.ninjaalgo.utils.ConfigReader;
 import com.ninjaalgo.steps.CommonSteps;
 
 import io.cucumber.java.en.Given;
 
-public class BStartStep {
+public class BStartStep{
     WebDriver driver;
     String url;
     StartPage startPage;   

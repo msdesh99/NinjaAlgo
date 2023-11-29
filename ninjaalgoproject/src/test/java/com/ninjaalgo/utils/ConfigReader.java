@@ -39,8 +39,10 @@ public class ConfigReader {
 	public static Object getDropDown() {
 		return prop.getProperty("dropdown");
 	}
-	public static void setProperties() {
-		
+	public static void setProperties() {		
+	}
+	public static String getJsonFile() {
+		return prop.getProperty("jsonpythonfile");		
 	}
 }
 

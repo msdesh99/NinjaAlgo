@@ -1,0 +1,12 @@
+{
+"PythonCode": [
+	{
+		"code":"def search(input_list, num):\noutput = 'Number is Not Found'\n for x in input_list:\n if x == num:\n output = 'Number is found'\n print(str(num) + ' is '+output)\n input_list=[12,23,45,56,67]\nnum=564 \n search(input_list,num)",
+		"result":"564 is Number is Not Found"
+	},
+	{
+		"code":"print('hello')",
+		"result":"hello"
+	}
+]
+}			
