@@ -69,7 +69,7 @@ public class AppHooks extends AllActions{
 	   loginPage.ClickSignIn();
 	   //loginPage = PageFactory.initElements(driver, LoginPage.class);
 	   loginPage.SetLoginCred(new String[] {"NinjaAlgo","@Algo123"});	
-
+	   
     }
 
 //@After(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce", order=0)

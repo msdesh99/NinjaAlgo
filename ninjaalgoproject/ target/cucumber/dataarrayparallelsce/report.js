@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"be3660a5-b82f-4380-a517-4c44825e801c","feature":"DataparallelSce module","scenario":"dataparallelsce1","start":1701256476491,"group":84,"content":"","tags":"@dataarrayparallel,@dataparallelsce,","end":1701256489034,"className":"passed"},{"id":"cd4ef923-1cbf-4cdc-ac8f-4950dc59b86f","feature":"DataparallelSce module","scenario":"arrayparallelsce1","start":1701256476492,"group":85,"content":"","tags":"@dataarrayparallel,@arrayparallelsce,","end":1701256495354,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":84,"content":"Thread[#84,TestNG-PoolService-0,5,main]"},{"id":85,"content":"Thread[#85,TestNG-PoolService-1,5,main]"}]);
+});

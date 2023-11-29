@@ -15,10 +15,14 @@ import io.cucumber.testng.CucumberOptions;
 		features = {"src/test/java/com/ninjaalgo/features"},
 
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/arrayedge",
+		plugin= {"pretty","summary",
+				"timeline: target/cucumber/arrayedge",
 				"html:target/html/testarrayedge-output.html",
+				"json:target/cucumber/chromecrossbrowser.json",
+				"junit:target/cucumber/chromecrossbrowser.xml",
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" 	
 	      },
+				
 		monochrome = true
 		) 
 public class ArrayChromeBrowser extends AbstractTestNGCucumberTests {

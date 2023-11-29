@@ -14,7 +14,10 @@ import io.cucumber.testng.CucumberOptions;
 	//	features = {"classpath:com/ninjaalgo/features"},
 	    features = {"src/test/java/com/ninjaalgo/features"},	
 	    glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/datachrome",
+		plugin= {"pretty","summary",
+				"timeline: target/cucumber/datachrome",
+				"json:target/cucumber/DataChrome.json",
+				"junit:target/cucumber/DataChrome.xml",
 				"html:target/html/datachrome-output.html",
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" 	
 				},

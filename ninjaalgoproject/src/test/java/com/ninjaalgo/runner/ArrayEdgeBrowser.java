@@ -14,8 +14,11 @@ import io.cucumber.testng.CucumberOptions;
 	  //features = {"classpath:com/ninjaalgo/features"},
 		features = {"src/test/java/com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/arrayedge",
+		plugin= {"pretty","summary",
+				"timeline: target/cucumber/arrayedge",
 				"html:target/html/testarrayedge-output.html",
+				"json:target/cucumber/edgecrossbrowser.json",
+				"junit:target/cucumber/edgecrossbrowser.xml",
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" 	
 				},
 		monochrome = true
