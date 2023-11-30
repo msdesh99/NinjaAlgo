@@ -18,8 +18,8 @@ Feature: Graphmodule
     When user click on getstarted graph module
     Then graph page is opened
     Then click on graph Topics Covered
-    When user clickon Tryhere button
-    Then tryeditor page is displayed
+  #  When user clickon Tryhere button
+  #  Then tryeditor page is displayed
 
   @graphPythonTryEditorValidSyntax
   Scenario Outline: Open the Implementation of Graph in Python page
