@@ -75,7 +75,7 @@ public class HomePage extends AllActions{
 	}
 	public void ClickHeader() {
 		String rootUrl = driver.getCurrentUrl();
-		System.out.println("root curr: "+ rootUrl);
+		//System.out.println("root curr: "+ rootUrl);
         //driver.findElement(By.xpath("//a[text()='NumpyNinja']")).click();
         driver.findElement(By.xpath("//*[@class='navbar-brand']")).click();
         //DriverWaitForUrl(driver, String url)

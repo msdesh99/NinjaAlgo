@@ -18,6 +18,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterClass;
 
 import com.ninjaalgo.driverfactory.DriverFactory;
+import com.ninjaalgo.listener.TestExecutionListener;
 import com.ninjaalgo.pages.LoginPage;
 import com.ninjaalgo.pages.StartPage;
 import com.ninjaalgo.steps.CommonSteps;
@@ -137,6 +138,9 @@ public void teardown() {
 				     WebDriver driver = DriverFactory.getDriver();
 					 screenShot = new ScreenShot();
 					 screenShot.CatchScreenShot(scenario.getName(), driver);
+					 TestExecutionListener.saveScreenshot(scenario.getName(), driver);
+					 TestExecutionListener.saveTextLog("<=====Bug Reported on data structure question page. No questions found on the page. Test Case: "
+					 		                         + scenario.getName() + " is : "+ scenario.getStatus());
 			}		     
 		 	  
 	/*		if(scenario.getName().contentEquals("Introduction") || 

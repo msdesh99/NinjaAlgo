@@ -1,0 +1,12 @@
+[INFO ]2023-11-3014:40:48.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-3014:40:49.647[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-3014:40:54.906[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-11-3014:40:57.322[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Introduction is : PASSED
+[ERROR]2023-11-3014:40:57.323[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on data structure question page. No questions found on the page. Test Case: Introduction is : PASSED
+[INFO ]2023-11-3014:41:23.507[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-11-3014:41:24.278[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-11-3014:41:25.184[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Bug reporting is : PASSED
+[ERROR]2023-11-3014:41:26.460[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Password should be at least 8 character long
+[ERROR]2023-11-3014:41:27.765[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Username already exist
+[INFO ]2023-11-3014:41:28.053[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For RegisterCred is : PASSED
+[INFO ]2023-11-3014:41:37.590[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dropdownmenu is : PASSED

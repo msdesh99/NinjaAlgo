@@ -15,7 +15,6 @@ Feature: StackPage
 
 
   @stackPage
-
   Scenario: Open the Stack page from the Data-Structures Dropdown
   	Given GoTO DataHomePage    
     When user click on dropdown on get started page

@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
 import com.ninjaalgo.driverfactory.DriverFactory;
+import com.ninjaalgo.listener.TestExecutionListener;
 import com.ninjaalgo.pages.HomePage;
 import com.ninjaalgo.pages.LoginPage;
 import com.ninjaalgo.pages.PracticeQuestionPage;
@@ -57,6 +58,9 @@ public class CommonSteps{
 
 	     String bugReport ="Actual :"+actual +"Expected: "+expected;		
 		 LoggerLoad.error("<=====Bug Found on "+type+" : "+ bugReport);	
+		 TestExecutionListener.saveScreenshot(bugReport, DriverFactory.getDriver());
+		 TestExecutionListener.saveTextLog(bugReport);
+
 	}
 
 	@Then("Quit Driver")

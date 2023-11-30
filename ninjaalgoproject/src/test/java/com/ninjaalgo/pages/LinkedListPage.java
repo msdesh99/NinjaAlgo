@@ -15,7 +15,7 @@ import com.ninjaalgo.testdata.GetXLData;
 import com.ninjaalgo.utils.AllActions;
 
 public class LinkedListPage extends AllActions {
-   WebDriver driver;
+ /*  WebDriver driver;
    By locator;
    Actions actions;
    Alert alert;
@@ -56,5 +56,5 @@ public class LinkedListPage extends AllActions {
 					break;
 	    	   }
 	       }	       
-   }
+   }*/
 }

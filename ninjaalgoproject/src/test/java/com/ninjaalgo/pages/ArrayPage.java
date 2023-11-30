@@ -137,7 +137,7 @@ public class ArrayPage extends AllActions {
 		driver.findElement(
         		By.xpath("//form[@id='answer_form']/div/div/div/textarea"))
         		.sendKeys(code);
-		//TextIndentation(driver,pythonElement,3,6,true);	
+		TextIndentation(driver,pythonElement,3,6,true);	
 		TextIndentation(driver,pythonElement,1,3,false);	
   
 		runElement.click();
@@ -156,7 +156,7 @@ public class ArrayPage extends AllActions {
 		expected = pythonArr[0][1].toString();
 
 		String code = pythonArr[0][0];
-		System.out.println("code: " + code);
+		//System.out.println("code: " + code);
 		locator = By.xpath("//form[@id='answer_form']/div/div/div/textarea");
 		driver.findElement(By.xpath("//form[@id='answer_form']/div/div/div/textarea")).sendKeys(code);
         

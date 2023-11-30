@@ -18,7 +18,6 @@ Feature: Array module
 		Then ClickOnArrayTopic "Try Here"
 		Then Add Python code "print you are here" "Try Here>>>"
 		Then GoTO ArrayPage and "/linked-list/introduction/"
-    #Then GoTO ArrayPage and "/linked-list"
     
     Then ClickPractice "Practice Questions"
   	Then Verify datacurrentUrl "linked-list/" and "practice"
