@@ -13,6 +13,7 @@ import com.ninjaalgo.driverfactory.DriverFactory;
 import com.ninjaalgo.pages.ArrayPage;
 import com.ninjaalgo.pages.HomePage;
 import com.ninjaalgo.utils.ConfigReader;
+import com.ninjaalgo.utils.LoggerLoad;
 
 import io.cucumber.java.en.Then;
 
@@ -69,14 +70,22 @@ public class EArrayStep {
 	  
 	@Then("GoTO ArrayPage and {string}")
 	public void go_to_array_home_page_and(String string) {
-		  WebDriver driver = DriverFactory.getDriver();
+		    WebDriver driver = DriverFactory.getDriver();
 		    String url = ConfigReader.getBaseUrl().toString()+string;
 			driver.get(url);		
 	}
 	@Then("GoTO ArrayHomePage")
 	public void go_to_array_home_page() {
-		  WebDriver driver = DriverFactory.getDriver();
+		    WebDriver driver = DriverFactory.getDriver();
 			driver.get(ConfigReader.getModuleUrl().toString());
 	}
+	@Then("GoTo SubMenu Page {string} and {string} and logged status")
+	public void go_to_sub_menu_page_and_and_logged_status(String menu, String subMenu) {
+		    WebDriver driver = DriverFactory.getDriver();
+		    String url = ConfigReader.getBaseUrl().toString()+menu+subMenu;
+			driver.get(url);		
+			verify_arraycurrentUrl(menu.substring(1), subMenu);
+		    LoggerLoad.info("<=====Test For "+ subMenu + " is : Passed");	    
+ 	}
 
 }

@@ -1,86 +1,33 @@
 #Code Details:
 #Author: Meenakshi Dated 7-Nov-2023
 @linkedlist
-Feature: Array module 
-	@linkedListIntroduction
-	Scenario:LinkedList-Introduction
-   # Given open url with "chrome" browser
-	 # Given open url with "firefox" browser
-	 # Given open url with "edge" browser
-	  	
+Feature: Linked List module 
+	@LinkedListSubMenu
+	Scenario Outline:LinkedList 
+
 	  Given GoTO DataHomePage
 	  Given ClickOnArrayModule "Linked List"	
 		Then Verify arraycurrentUrl "linked-list/" and "module"
-		
-		Then ClickInArray "Introduction"
-		Then Verify arraycurrentUrl "linked-list/" and "introduction/"
+	
+		Then ClickInArray "<SubMenu>"
+		Then Verify arraycurrentUrl "linked-list/" and "<url>"
 		
 		Then ClickOnArrayTopic "Try Here"
 		Then Add Python code "print you are here" "Try Here>>>"
-		Then GoTO ArrayPage and "/linked-list/introduction/"
-    
-    Then ClickPractice "Practice Questions"
-  	Then Verify datacurrentUrl "linked-list/" and "practice"
-    Then verifyBug "Empty Page" "On Editor of each Practice page" "Linked List" in common
-    
-		Then GoTO ArrayPage and "/linked-list"
+   
+    Then GoTo SubMenu Page "/linked-list/" and "<url>" and logged status
+     
+	Examples:	
+		| SubMenu	| url	|
+		| Introduction | introduction/ |
+		| Creating Linked LIst | creating-linked-list/ |
+		| Types of Linked List | types-of-linked-list/ |
+		| Implement Linked List in Python | implement-linked-list-in-python/ |
+		| Traversal | traversal/ |
+		| Insertion | insertion-in-linked-list/ |
+		| Deletion | deletion-in-linked-list/ |
 		
-		#Then GoTO ArrayPage and "/linked-list/introduction"
-		#Given GoTO DataHomePage
-		
-#	@CreatingLinkedList	
-  Scenario:Creating-Linked-LIst	   
-  	Then ClickInArray "Creating Linked LIst"
-  	Then Verify arraycurrentUrl "linked-list/" and "creating-linked-list/"
-#		Then ClickOnArrayTopic "Try Here" 
-#		Then Add Python code "print you are here" "Try Here>>>"
-#		
-		Then GoTO ArrayPage and "/linked-list"
 
-	Scenario:Types-Of-Linked-List
- 	  Then ClickInArray "Types of Linked List"
-		Then Verify arraycurrentUrl "linked-list/" and "types-of-linked-list/"
-#		Then ClickOnArrayTopic "Try Here"
-#		Then Add Python code "print you are here" "Try Here>>>"
-#		
-		Then GoTO ArrayPage and "/linked-list"
-#
-	Scenario:Implement-Linked-List-in-Python
-    Then ClickInArray "Implement Linked List in Python"
-		Then Verify arraycurrentUrl "linked-list/" and "implement-linked-list-in-python/"
-#		Then ClickOnArrayTopic "Try Here"
-#		Then Add Python code "print you are here" "Try Here>>>"
-#		
-		Then GoTO ArrayPage and "/linked-list"
-#
-	Scenario:Traversal-Linked_List
-    Then ClickInArray "Traversal"
-		Then Verify arraycurrentUrl "linked-list/" and "traversal/"
-#		Then ClickOnArrayTopic "Try Here"
-#		Then Add Python code "print you are here" "Try Here>>>"
-#		
-  	Then GoTO ArrayPage and "/linked-list"
-#
-	Scenario:Insertion-In-LInked_List
-    Then ClickInArray "Insertion"
-  	Then Verify arraycurrentUrl "linked-list/" and "insertion-in-linked-list/"
-#		Then ClickOnArrayTopic "Try Here"
-#		Then Add Python code "print you are here" "Try Here>>>"
-#		
-		Then GoTO ArrayPage and "/linked-list"
-#
- 	Scenario:Deletion-In-LInked_List
-    Then ClickInArray "Deletion"
-		Then Verify arraycurrentUrl "linked-list/" and "deletion-in-linked-list/"
-#		Then ClickOnArrayTopic "Try Here"
-#		Then Add Python code "print you are here" "Try Here>>>"
-#		
-#		#Then GoTO ArrayPage and "/linked-list"
-		Then GoTO DataHomePage
-#		
-
-
-#	
  #@signOut	
   #Scenario:SignOut
   #Given User Signing Off

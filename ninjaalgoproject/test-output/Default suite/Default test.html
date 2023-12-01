@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>5/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Thu Nov 30 14:30:23 EST 2023</td>
+<td>Started on:</td><td>Thu Nov 30 21:39:20 EST 2023</td>
 </tr>
-<tr><td>Total time:</td><td>23 seconds (23631 ms)</td>
+<tr><td>Total time:</td><td>7 seconds (7923 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,8 +67,8 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-passed'>
-<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td><b>Attribute(s)</b></td>
 <td width="30%"><b>Exception</b></td>
@@ -76,30 +76,17 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.ninjaalgo.runner.BugChromeBrowser.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.BugChromeBrowser<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Bug reporting", "Title of your feature"</td>
-<td></td>
-<td>0</td>
-<td>com.ninjaalgo.runner.BugChromeBrowser@40368a46</td></tr>
-<tr>
-<td title='com.ninjaalgo.runner.BugChromeBrowser.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.BugChromeBrowser<br>Test method: Runs Cucumber Scenarios<br>Parameters: "RegisterCred", "Title of your feature"</td>
-<td></td>
+<td title='com.ninjaalgo.runner.TestNGTree.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.TestNGTree<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Tree", "Tree module"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.WebDriver.get(String)&quot; because &quot;driver&quot; is null
+	at com.ninjaalgo.steps.DDataStructure.GoTO_DataHomePage(DDataStructure.java:51)
+	at ✽.GoTO DataHomePage(file:///C:/Users/mdesh/git/LocalNinjaalgoproject/ninjaalgoproject/src/test/java/com/ninjaalgo/features/ITree.feature:8)
+</pre></div><a href='#' onClick='toggleBox("stack-trace843251829", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace843251829'><pre>java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.WebDriver.get(String)&quot; because &quot;driver&quot; is null
+	at com.ninjaalgo.steps.DDataStructure.GoTO_DataHomePage(DDataStructure.java:51)
+	at ✽.GoTO DataHomePage(file:///C:/Users/mdesh/git/LocalNinjaalgoproject/ninjaalgoproject/src/test/java/com/ninjaalgo/features/ITree.feature:8)
+</pre></div></td>
 <td>2</td>
-<td>com.ninjaalgo.runner.BugChromeBrowser@40368a46</td></tr>
-<tr>
-<td title='com.ninjaalgo.runner.BugChromeBrowser.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.BugChromeBrowser<br>Test method: Runs Cucumber Scenarios<br>Parameters: "dropdownmenu", "Title of your feature"</td>
-<td></td>
-<td>8</td>
-<td>com.ninjaalgo.runner.BugChromeBrowser@40368a46</td></tr>
-<tr>
-<td title='com.ninjaalgo.runner.BugChromeBrowser.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.BugChromeBrowser<br>Test method: Runs Cucumber Scenarios<br>Parameters: "For chrome browser", "Open and Get Started dsalgoportal"</td>
-<td></td>
-<td>7</td>
-<td>com.ninjaalgo.runner.BugChromeBrowser@40368a46</td></tr>
-<tr>
-<td title='com.ninjaalgo.runner.BugChromeBrowser.runScenario()'><b>runScenario</b><br>Test class: com.ninjaalgo.runner.BugChromeBrowser<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Get Started", "Open and Get Started dsalgoportal"</td>
-<td></td>
-<td>0</td>
-<td>com.ninjaalgo.runner.BugChromeBrowser@40368a46</td></tr>
+<td>com.ninjaalgo.runner.TestNGTree@630d1b2f</td></tr>
 </table><p>
 </body>
 </html>

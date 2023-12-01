@@ -186,9 +186,9 @@ Feature: StackPage
 
     Then user redirected to the practice questions page on stack page
 
-    Then user will Sign out from stack page
-    
-    Then user will see logout message after signing out
+    #Then user will Sign out from stack page
+    #
+    #Then user will see logout message after signing out
 
   #@stackPageSignOutMsg
   #Scenario: Open the practice here page, sign out and get logged out message

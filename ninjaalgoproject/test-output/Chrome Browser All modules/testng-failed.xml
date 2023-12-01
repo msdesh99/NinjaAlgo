@@ -3,13 +3,13 @@
 <suite name="Failed suite [Chrome Browser All modules]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.ninjaalgo.runner.TestNGArray">
+      <class name="com.ninjaalgo.runner.TestNGTree">
         <methods>
           <include name="setUpClass"/>
-          <include name="runScenario" invocation-numbers="0"/>
           <include name="tearDownClass"/>
+          <include name="runScenario" invocation-numbers="0 1 2 3 4 5 6 7"/>
         </methods>
-      </class> <!-- com.ninjaalgo.runner.TestNGArray -->
+      </class> <!-- com.ninjaalgo.runner.TestNGTree -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Chrome Browser All modules] -->

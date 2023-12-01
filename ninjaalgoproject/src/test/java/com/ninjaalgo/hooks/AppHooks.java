@@ -133,13 +133,13 @@ public void teardown() {
 @After(order = 0)
        public void after(Scenario scenario) throws HeadlessException, IOException, AWTException{
 	      LoggerLoad.info("<=====Test For "+ scenario.getName() + " is : "+ scenario.getStatus());	    
-			if(scenario.getName().contentEquals("Introduction")){
-			      LoggerLoad.error("<=====Bug Reported on data structure question page. No questions found on the page. Test Case: "+ scenario.getName() + " is : "+ scenario.getStatus());	
+			if(scenario.getName().contentEquals("DataStructure-Introduction")){
+			      LoggerLoad.error("<=====Bug Reported on question page. No questions found on the page. Test Case: "+ scenario.getName() + " is : "+ scenario.getStatus());	
 				     WebDriver driver = DriverFactory.getDriver();
 					 screenShot = new ScreenShot();
 					 screenShot.CatchScreenShot(scenario.getName(), driver);
 					 TestExecutionListener.saveScreenshot(scenario.getName(), driver);
-					 TestExecutionListener.saveTextLog("<=====Bug Reported on data structure question page. No questions found on the page. Test Case: "
+					 TestExecutionListener.saveTextLog("<=====Bug Reported on question page. No questions found on the page. Test Case: "
 					 		                         + scenario.getName() + " is : "+ scenario.getStatus());
 			}		     
 		 	  
