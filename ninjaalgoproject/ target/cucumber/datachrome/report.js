@@ -1,4 +1,4 @@
 $(document).ready(function() {
-CucumberHTML.timelineItems.pushArray([{"id":"39e229a9-5d7c-47ca-a93d-5b81fcef6ce9","feature":"ArrayParallel module","scenario":"ArrayClass","start":1701457774001,"group":168,"content":"","tags":"@arrayclass,","end":1701457790798,"className":"passed"}]);
-CucumberHTML.timelineGroups.pushArray([{"id":168,"content":"Thread[#168,TestNG-test=Test Data-2,5,main]"}]);
+CucumberHTML.timelineItems.pushArray([{"id":"8c76bf89-445b-406e-86a1-dfac0eda1dfa","feature":"ArrayParallel module","scenario":"ArrayClass","start":1701458474976,"group":166,"content":"","tags":"@arrayclass,","end":1701458491058,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":166,"content":"Thread[#166,TestNG-test=Test Data-2,5,main]"}]);
 });
