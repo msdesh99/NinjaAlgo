@@ -9,7 +9,7 @@
         <class name="com.ninjaalgo.runner.TestNGStack"/>  
         <class name="com.ninjaalgo.runner.TestNGGraph"/>
         <class name="com.ninjaalgo.runner.TestNGQueue"/>       
-        <class name="com.ninjaalgo.runner.TestNGTree"/>       
+        <class name="com.ninjaalgo.runner.TestNGTree"/>    
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

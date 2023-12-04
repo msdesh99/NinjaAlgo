@@ -7,7 +7,7 @@
   <parameter name="browserType" value="firefox"></parameter>
     <classes>
       <class name="com.ninjaalgo.runner.DDLoginTestCase"/>
-      <class name="com.ninjaalgo.runner.DDPythonArrayTestCase"/>
+  <!--     <class name="com.ninjaalgo.runner.DDPythonArrayTestCase"/> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

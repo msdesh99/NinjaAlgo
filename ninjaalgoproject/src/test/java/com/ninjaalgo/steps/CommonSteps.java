@@ -60,7 +60,6 @@ public class CommonSteps{
 		 LoggerLoad.error("<=====Bug Found on "+type+" : "+ bugReport);	
 		 TestExecutionListener.saveScreenshot(bugReport, DriverFactory.getDriver());
 		 TestExecutionListener.saveTextLog(bugReport);
-
 	}
 
 	@Then("Quit Driver")

@@ -1,15 +1,12 @@
 package com.ninjaalgo.listener;
 
 	 
-	import io.cucumber.java.Scenario;
-import io.qameta.allure.Attachment;
-	import org.openqa.selenium.OutputType;
-	import org.openqa.selenium.TakesScreenshot;
-	import org.openqa.selenium.WebDriver;
-	import org.testng.ITestListener;
-	import org.testng.ITestResult;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.testng.ITestListener;
 
-import com.ninjaalgo.driverfactory.DriverFactory;
+import io.qameta.allure.Attachment;
 	 
 	public class TestExecutionListener implements ITestListener {
 	 
@@ -21,13 +18,13 @@ import com.ninjaalgo.driverfactory.DriverFactory;
 	   public static String saveTextLog(String message) {
 		   return message;
 	   }
-	   @Override
+/*	   @Override
 	   public void onTestSuccess(ITestResult result) {
 	       //saveScreenshot(result.getName(), DriverFactory.getDriver());
 	   }
 	public static String getTestMethodName(ITestResult result) {
 		return result.getMethod().   getConstructorOrMethod().getName();
-	}
+	}*/
 	 
 	}
 

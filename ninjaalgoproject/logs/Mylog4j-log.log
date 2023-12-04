@@ -100,3 +100,653 @@
 [INFO ]2023-12-0114:21:25.420[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
 [INFO ]2023-12-0114:21:30.478[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
 [INFO ]2023-12-0114:21:31.057[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-12-0206:19:35.287[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0206:19:36.061[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0206:19:41.076[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0206:19:46.116[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0206:19:47.988[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0206:19:47.989[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0206:19:57.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:20:02.052[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-12-0206:20:03.676[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0206:20:03.824[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0206:20:04.179[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-12-0206:20:09.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-12-0206:20:09.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-12-0206:20:11.366[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-12-0206:20:11.577[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-12-0206:20:18.357[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:20:18.832[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For introduction/ is : Passed
+[INFO ]2023-12-0206:20:18.833[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:20:26.061[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:20:26.428[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For creating-linked-list/ is : Passed
+[INFO ]2023-12-0206:20:26.429[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:20:33.239[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:20:33.604[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-linked-list/ is : Passed
+[INFO ]2023-12-0206:20:33.604[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:20:40.195[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:20:40.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implement-linked-list-in-python/ is : Passed
+[INFO ]2023-12-0206:20:40.584[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:20:47.419[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:20:47.778[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversal/ is : Passed
+[INFO ]2023-12-0206:20:47.779[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:20:54.555[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:20:54.899[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For insertion-in-linked-list/ is : Passed
+[INFO ]2023-12-0206:20:54.901[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:21:01.382[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:21:01.653[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For deletion-in-linked-list/ is : Passed
+[INFO ]2023-12-0206:21:01.654[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:21:02.229[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Stack page from the Data-Structures Dropdown is : PASSED
+[INFO ]2023-12-0206:21:02.976[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Redirect to try editor on Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0206:21:03.211[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0206:21:04.331[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0206:21:05.485[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0206:21:06.193[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page is : PASSED
+[INFO ]2023-12-0206:21:07.228[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page and get output is : PASSED
+[INFO ]2023-12-0206:21:07.807[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page is : PASSED
+[INFO ]2023-12-0206:21:08.883[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page and get output is : PASSED
+[INFO ]2023-12-0206:21:09.623[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page is : PASSED
+[INFO ]2023-12-0206:21:10.433[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page and sign out is : PASSED
+[INFO ]2023-12-0206:21:11.245[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Graphpage from homepage is : PASSED
+[INFO ]2023-12-0206:21:12.318[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Graph in Python page is : PASSED
+[INFO ]2023-12-0206:21:13.260[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the GraphRepresentations  from homepage is : PASSED
+[INFO ]2023-12-0206:21:13.992[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For open the Practice questions link is : PASSED
+[INFO ]2023-12-0206:21:16.950[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-lists/ is : Passed
+[INFO ]2023-12-0206:21:16.952[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:21:23.740[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-collections/ is : Passed
+[INFO ]2023-12-0206:21:23.741[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:21:30.647[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implementation-array/ is : Passed
+[INFO ]2023-12-0206:21:30.647[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:21:38.176[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For QueueOp/ is : Passed
+[INFO ]2023-12-0206:21:38.176[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0206:21:45.793[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For overview-of-trees/ is : Passed
+[INFO ]2023-12-0206:21:45.794[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0206:21:52.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For terminologies/ is : Passed
+[INFO ]2023-12-0206:21:52.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0206:21:59.837[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-trees/ is : Passed
+[INFO ]2023-12-0206:21:59.839[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0206:22:06.888[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For tree-traversals/ is : Passed
+[INFO ]2023-12-0206:22:06.889[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0206:22:14.050[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversals-illustration/ is : Passed
+[INFO ]2023-12-0206:22:14.052[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0206:22:21.023[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For binary-trees/ is : Passed
+[INFO ]2023-12-0206:22:21.024[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0206:22:28.307[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-binary-trees/ is : Passed
+[INFO ]2023-12-0206:22:28.308[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0206:22:35.391[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-in-python/ is : Passed
+[INFO ]2023-12-0206:22:35.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0206:22:36.319[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For SignOut is : PASSED
+[INFO ]2023-12-0206:22:38.521[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0206:22:38.894[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0206:22:43.606[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0206:22:49.757[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0206:22:49.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0206:22:50.853[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0206:22:53.679[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-12-0206:22:54.210[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0206:22:59.068[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0206:23:05.295[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0206:23:05.469[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0206:23:06.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0206:23:17.491[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-12-0206:23:22.523[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:23:23.309[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-12-0206:23:25.361[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0206:23:25.716[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0206:23:26.275[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Bug reporting is : PASSED
+[ERROR]2023-12-0206:23:27.040[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Password should be at least 8 character long
+[ERROR]2023-12-0206:23:27.752[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Username already exist
+[INFO ]2023-12-0206:23:27.958[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For RegisterCred is : PASSED
+[INFO ]2023-12-0206:23:36.396[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dropdownmenu is : PASSED
+[INFO ]2023-12-0206:23:59.305[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>>>>> is Passed. Output is: SyntaxError: bad input on line 2
+[INFO ]2023-12-0206:24:11.054[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-12-0206:24:16.150[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0206:24:16.722[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-12-0215:19:08.517[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0215:19:09.118[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0215:19:13.983[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0215:19:17.866[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0215:19:19.449[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0215:19:19.449[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0215:19:29.174[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0215:19:37.959[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-12-0215:22:08.780[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0215:22:09.338[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0215:22:14.177[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0215:22:18.046[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0215:22:19.531[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0215:22:19.531[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0215:22:37.147[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-12-0215:24:16.642[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0215:24:17.220[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0215:24:22.083[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0215:24:25.821[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0215:24:27.213[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0215:24:27.213[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0215:24:36.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0215:24:45.286[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2023-12-0215:24:55.571[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2023-12-0215:25:05.767[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2023-12-0215:25:15.997[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2023-12-0215:26:17.557[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0215:26:18.185[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0215:26:23.182[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0215:26:27.066[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0215:26:28.582[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0215:26:28.582[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0215:26:37.936[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0215:26:40.977[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-12-0215:26:42.356[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0215:26:42.480[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0215:26:42.833[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-12-0215:26:48.248[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-12-0215:26:48.523[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-12-0215:26:49.765[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-12-0215:26:49.998[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-12-0217:01:57.189[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0217:01:57.782[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0217:02:02.679[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0217:02:06.692[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0217:02:08.376[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0217:02:08.377[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0217:02:19.206[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:02:22.371[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-12-0217:02:24.046[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0217:02:24.192[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0217:02:24.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-12-0217:02:29.935[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-12-0217:02:30.239[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-12-0217:02:31.505[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-12-0217:02:31.750[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-12-0217:02:38.534[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:02:38.829[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For introduction/ is : Passed
+[INFO ]2023-12-0217:02:38.830[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:02:45.502[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:02:45.793[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For creating-linked-list/ is : Passed
+[INFO ]2023-12-0217:02:45.794[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:02:52.471[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:02:52.844[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-linked-list/ is : Passed
+[INFO ]2023-12-0217:02:52.845[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:02:59.611[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:02:59.982[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implement-linked-list-in-python/ is : Passed
+[INFO ]2023-12-0217:02:59.984[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:03:06.650[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:03:06.938[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversal/ is : Passed
+[INFO ]2023-12-0217:03:06.939[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:03:13.569[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:03:13.920[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For insertion-in-linked-list/ is : Passed
+[INFO ]2023-12-0217:03:13.922[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:03:20.666[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:03:21.033[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For deletion-in-linked-list/ is : Passed
+[INFO ]2023-12-0217:03:21.034[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:03:21.563[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Stack page from the Data-Structures Dropdown is : PASSED
+[INFO ]2023-12-0217:03:22.365[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Redirect to try editor on Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0217:03:22.570[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0217:03:23.732[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0217:03:24.898[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0217:03:25.547[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page is : PASSED
+[INFO ]2023-12-0217:03:26.631[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page and get output is : PASSED
+[INFO ]2023-12-0217:03:27.226[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page is : PASSED
+[INFO ]2023-12-0217:03:28.162[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page and get output is : PASSED
+[INFO ]2023-12-0217:03:28.925[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page is : PASSED
+[INFO ]2023-12-0217:03:29.691[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page and sign out is : PASSED
+[INFO ]2023-12-0217:03:30.413[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Graphpage from homepage is : PASSED
+[INFO ]2023-12-0217:03:31.422[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Graph in Python page is : PASSED
+[INFO ]2023-12-0217:03:32.287[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the GraphRepresentations  from homepage is : PASSED
+[INFO ]2023-12-0217:03:32.989[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For open the Practice questions link is : PASSED
+[INFO ]2023-12-0217:03:35.520[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-lists/ is : Passed
+[INFO ]2023-12-0217:03:35.521[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:03:42.094[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-collections/ is : Passed
+[INFO ]2023-12-0217:03:42.094[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:03:49.260[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implementation-array/ is : Passed
+[INFO ]2023-12-0217:03:49.260[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:03:56.043[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For QueueOp/ is : Passed
+[INFO ]2023-12-0217:03:56.043[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:04:03.201[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For overview-of-trees/ is : Passed
+[INFO ]2023-12-0217:04:03.203[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:04:10.726[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For terminologies/ is : Passed
+[INFO ]2023-12-0217:04:10.727[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:04:17.671[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-trees/ is : Passed
+[INFO ]2023-12-0217:04:17.672[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:04:24.714[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For tree-traversals/ is : Passed
+[INFO ]2023-12-0217:04:24.715[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:04:31.896[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversals-illustration/ is : Passed
+[INFO ]2023-12-0217:04:31.896[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:04:39.184[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For binary-trees/ is : Passed
+[INFO ]2023-12-0217:04:39.185[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:04:46.420[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-binary-trees/ is : Passed
+[INFO ]2023-12-0217:04:46.421[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:04:53.598[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-in-python/ is : Passed
+[INFO ]2023-12-0217:04:53.600[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:04:54.572[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For SignOut is : PASSED
+[INFO ]2023-12-0217:04:56.934[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0217:04:57.316[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0217:05:02.178[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0217:05:08.628[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0217:05:08.737[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0217:05:09.689[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0217:05:12.466[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-12-0217:05:12.883[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0217:05:17.730[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0217:05:24.340[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0217:05:24.461[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0217:05:25.922[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0217:05:36.910[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-12-0217:05:42.267[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:05:43.144[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-12-0217:05:45.962[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0217:05:46.682[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0217:05:47.525[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Bug reporting is : PASSED
+[ERROR]2023-12-0217:05:48.200[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Password should be at least 8 character long
+[ERROR]2023-12-0217:05:48.879[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Username already exist
+[INFO ]2023-12-0217:05:49.102[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For RegisterCred is : PASSED
+[INFO ]2023-12-0217:05:58.240[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dropdownmenu is : PASSED
+[INFO ]2023-12-0217:06:21.555[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>>>>> is Passed. Output is: SyntaxError: bad input on line 2
+[INFO ]2023-12-0217:06:33.911[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-12-0217:06:38.725[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2023-12-0217:14:34.023[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0217:14:34.895[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0217:14:39.939[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0217:14:43.962[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0217:14:45.528[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0217:14:45.529[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0217:14:56.850[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:14:59.936[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-12-0217:15:01.307[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0217:15:01.444[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0217:15:01.836[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-12-0217:15:07.177[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-12-0217:15:07.515[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-12-0217:15:09.158[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-12-0217:15:09.451[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-12-0217:15:16.848[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:15:17.197[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For introduction/ is : Passed
+[INFO ]2023-12-0217:15:17.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:15:24.002[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:15:24.386[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For creating-linked-list/ is : Passed
+[INFO ]2023-12-0217:15:24.386[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:15:30.987[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:15:31.420[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-linked-list/ is : Passed
+[INFO ]2023-12-0217:15:31.421[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:15:38.202[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:15:38.492[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implement-linked-list-in-python/ is : Passed
+[INFO ]2023-12-0217:15:38.493[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:15:45.078[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:15:46.033[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversal/ is : Passed
+[INFO ]2023-12-0217:15:46.033[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:15:52.840[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:15:53.208[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For insertion-in-linked-list/ is : Passed
+[INFO ]2023-12-0217:15:53.209[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:15:59.823[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:16:00.089[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For deletion-in-linked-list/ is : Passed
+[INFO ]2023-12-0217:16:00.089[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:16:00.603[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Stack page from the Data-Structures Dropdown is : PASSED
+[INFO ]2023-12-0217:16:01.432[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Redirect to try editor on Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0217:16:01.677[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0217:16:02.852[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0217:16:04.015[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0217:16:04.642[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page is : PASSED
+[INFO ]2023-12-0217:16:05.801[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page and get output is : PASSED
+[INFO ]2023-12-0217:16:06.403[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page is : PASSED
+[INFO ]2023-12-0217:16:07.370[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page and get output is : PASSED
+[INFO ]2023-12-0217:16:08.089[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page is : PASSED
+[INFO ]2023-12-0217:16:08.766[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page and sign out is : PASSED
+[INFO ]2023-12-0217:16:09.504[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Graphpage from homepage is : PASSED
+[INFO ]2023-12-0217:16:10.455[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Graph in Python page is : PASSED
+[INFO ]2023-12-0217:16:11.475[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the GraphRepresentations  from homepage is : PASSED
+[INFO ]2023-12-0217:16:12.186[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For open the Practice questions link is : PASSED
+[INFO ]2023-12-0217:16:14.775[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-lists/ is : Passed
+[INFO ]2023-12-0217:16:14.775[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:16:21.569[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-collections/ is : Passed
+[INFO ]2023-12-0217:16:21.570[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:16:28.956[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implementation-array/ is : Passed
+[INFO ]2023-12-0217:16:28.956[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:16:35.851[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For QueueOp/ is : Passed
+[INFO ]2023-12-0217:16:35.852[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0217:16:42.797[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For overview-of-trees/ is : Passed
+[INFO ]2023-12-0217:16:42.798[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:16:49.533[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For terminologies/ is : Passed
+[INFO ]2023-12-0217:16:49.533[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:16:56.207[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-trees/ is : Passed
+[INFO ]2023-12-0217:16:56.207[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:17:03.006[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For tree-traversals/ is : Passed
+[INFO ]2023-12-0217:17:03.006[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:17:09.671[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversals-illustration/ is : Passed
+[INFO ]2023-12-0217:17:09.672[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:17:16.388[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For binary-trees/ is : Passed
+[INFO ]2023-12-0217:17:16.389[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:17:23.186[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-binary-trees/ is : Passed
+[INFO ]2023-12-0217:17:23.188[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:17:29.807[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-in-python/ is : Passed
+[INFO ]2023-12-0217:17:29.807[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0217:17:30.578[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For SignOut is : PASSED
+[INFO ]2023-12-0217:17:32.999[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0217:17:33.377[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0217:17:38.159[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0217:17:44.284[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0217:17:44.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0217:17:45.431[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0217:17:48.022[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-12-0217:17:48.717[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0217:17:53.472[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0217:17:59.806[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0217:17:59.967[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0217:18:01.174[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0217:18:12.267[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-12-0217:18:17.431[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:18:18.243[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-12-0217:18:20.577[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0217:18:20.973[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0217:18:21.441[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Bug reporting is : PASSED
+[ERROR]2023-12-0217:18:22.135[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Password should be at least 8 character long
+[ERROR]2023-12-0217:18:22.944[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Username already exist
+[INFO ]2023-12-0217:18:23.202[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For RegisterCred is : PASSED
+[INFO ]2023-12-0217:18:31.178[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dropdownmenu is : PASSED
+[INFO ]2023-12-0217:18:53.198[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>>>>> is Passed. Output is: SyntaxError: bad input on line 2
+[INFO ]2023-12-0217:19:06.057[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-12-0217:19:11.111[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0217:19:11.715[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-12-0307:33:40.190[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0307:33:41.193[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0307:33:46.530[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0307:33:51.022[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0307:33:52.980[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0307:33:52.981[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0307:34:06.015[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:34:09.519[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-12-0307:34:10.992[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0307:34:11.134[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0307:34:11.555[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-12-0307:34:17.045[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-12-0307:34:17.295[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-12-0307:34:18.693[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-12-0307:34:18.930[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-12-0307:34:26.430[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:34:26.782[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For introduction/ is : Passed
+[INFO ]2023-12-0307:34:26.783[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:34:33.795[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:34:34.074[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For creating-linked-list/ is : Passed
+[INFO ]2023-12-0307:34:34.075[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:34:41.371[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:34:41.766[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-linked-list/ is : Passed
+[INFO ]2023-12-0307:34:41.767[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:34:48.751[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:34:49.036[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implement-linked-list-in-python/ is : Passed
+[INFO ]2023-12-0307:34:49.039[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:34:56.009[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:34:56.400[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversal/ is : Passed
+[INFO ]2023-12-0307:34:56.401[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:35:03.477[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:35:03.965[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For insertion-in-linked-list/ is : Passed
+[INFO ]2023-12-0307:35:03.966[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:35:11.906[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:35:12.271[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For deletion-in-linked-list/ is : Passed
+[INFO ]2023-12-0307:35:12.276[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:35:13.197[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Stack page from the Data-Structures Dropdown is : PASSED
+[INFO ]2023-12-0307:35:13.946[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Redirect to try editor on Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0307:35:14.196[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0307:35:15.409[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0307:35:16.650[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0307:35:17.387[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page is : PASSED
+[INFO ]2023-12-0307:35:18.491[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page and get output is : PASSED
+[INFO ]2023-12-0307:35:19.213[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page is : PASSED
+[INFO ]2023-12-0307:35:20.246[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page and get output is : PASSED
+[INFO ]2023-12-0307:35:21.099[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page is : PASSED
+[INFO ]2023-12-0307:35:21.818[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page and sign out is : PASSED
+[INFO ]2023-12-0307:35:22.790[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Graphpage from homepage is : PASSED
+[INFO ]2023-12-0307:35:23.806[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Graph in Python page is : PASSED
+[INFO ]2023-12-0307:35:24.730[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the GraphRepresentations  from homepage is : PASSED
+[INFO ]2023-12-0307:35:25.516[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For open the Practice questions link is : PASSED
+[INFO ]2023-12-0307:35:29.329[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-lists/ is : Passed
+[INFO ]2023-12-0307:35:29.330[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:35:36.297[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-collections/ is : Passed
+[INFO ]2023-12-0307:35:36.299[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:35:43.811[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implementation-array/ is : Passed
+[INFO ]2023-12-0307:35:43.811[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:35:50.801[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For QueueOp/ is : Passed
+[INFO ]2023-12-0307:35:50.801[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:35:58.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For overview-of-trees/ is : Passed
+[INFO ]2023-12-0307:35:58.291[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:36:05.468[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For terminologies/ is : Passed
+[INFO ]2023-12-0307:36:05.469[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:36:12.908[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-trees/ is : Passed
+[INFO ]2023-12-0307:36:12.909[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:36:20.034[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For tree-traversals/ is : Passed
+[INFO ]2023-12-0307:36:20.036[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:36:27.327[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversals-illustration/ is : Passed
+[INFO ]2023-12-0307:36:27.328[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:36:34.582[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For binary-trees/ is : Passed
+[INFO ]2023-12-0307:36:34.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:36:41.876[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-binary-trees/ is : Passed
+[INFO ]2023-12-0307:36:41.877[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:36:49.329[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-in-python/ is : Passed
+[INFO ]2023-12-0307:36:49.330[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:36:50.274[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For SignOut is : PASSED
+[INFO ]2023-12-0307:36:53.211[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0307:36:53.699[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0307:36:58.584[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0307:37:04.895[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0307:37:05.012[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0307:37:06.152[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0307:37:09.258[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-12-0307:37:09.691[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0307:37:14.633[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0307:37:21.179[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0307:37:21.367[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0307:37:22.811[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0307:37:33.621[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : FAILED
+[INFO ]2023-12-0307:37:36.356[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0307:37:36.749[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0307:37:37.347[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Bug reporting is : PASSED
+[ERROR]2023-12-0307:37:38.175[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Password should be at least 8 character long
+[ERROR]2023-12-0307:37:39.101[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Username already exist
+[INFO ]2023-12-0307:37:39.375[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For RegisterCred is : PASSED
+[INFO ]2023-12-0307:37:48.034[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dropdownmenu is : PASSED
+[INFO ]2023-12-0307:38:14.475[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>>>>> is Passed. Output is: SyntaxError: bad input on line 2
+[INFO ]2023-12-0307:38:28.103[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-12-0307:38:33.154[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:38:34.028[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-12-0307:40:54.168[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0307:40:54.907[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0307:40:59.930[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0307:41:03.960[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0307:41:05.966[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0307:41:05.966[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0307:41:17.836[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:41:21.380[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-12-0307:41:22.788[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0307:41:22.929[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0307:41:23.309[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-12-0307:41:28.682[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-12-0307:41:29.024[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-12-0307:41:30.372[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-12-0307:41:30.718[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-12-0307:41:37.905[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:41:38.184[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For introduction/ is : Passed
+[INFO ]2023-12-0307:41:38.184[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:41:44.850[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:41:45.191[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For creating-linked-list/ is : Passed
+[INFO ]2023-12-0307:41:45.191[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:41:51.953[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:41:52.304[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-linked-list/ is : Passed
+[INFO ]2023-12-0307:41:52.305[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:41:59.114[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:41:59.391[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implement-linked-list-in-python/ is : Passed
+[INFO ]2023-12-0307:41:59.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:42:06.282[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:42:06.556[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversal/ is : Passed
+[INFO ]2023-12-0307:42:06.557[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:42:13.437[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:42:13.806[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For insertion-in-linked-list/ is : Passed
+[INFO ]2023-12-0307:42:13.808[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:42:20.831[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:42:21.207[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For deletion-in-linked-list/ is : Passed
+[INFO ]2023-12-0307:42:21.208[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:42:21.906[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Stack page from the Data-Structures Dropdown is : PASSED
+[INFO ]2023-12-0307:42:22.685[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Redirect to try editor on Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0307:42:22.982[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0307:42:24.144[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0307:42:25.314[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0307:42:26.032[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page is : PASSED
+[INFO ]2023-12-0307:42:27.178[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page and get output is : PASSED
+[INFO ]2023-12-0307:42:27.855[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page is : PASSED
+[INFO ]2023-12-0307:42:28.970[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page and get output is : PASSED
+[INFO ]2023-12-0307:42:29.849[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page is : PASSED
+[INFO ]2023-12-0307:42:30.657[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page and sign out is : PASSED
+[INFO ]2023-12-0307:42:31.624[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Graphpage from homepage is : PASSED
+[INFO ]2023-12-0307:42:32.642[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Graph in Python page is : PASSED
+[INFO ]2023-12-0307:42:33.634[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the GraphRepresentations  from homepage is : PASSED
+[INFO ]2023-12-0307:42:34.407[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For open the Practice questions link is : PASSED
+[INFO ]2023-12-0307:42:37.695[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-lists/ is : Passed
+[INFO ]2023-12-0307:42:37.697[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:42:44.853[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-collections/ is : Passed
+[INFO ]2023-12-0307:42:44.854[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:42:51.917[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implementation-array/ is : Passed
+[INFO ]2023-12-0307:42:51.917[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:42:59.042[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For QueueOp/ is : Passed
+[INFO ]2023-12-0307:42:59.042[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0307:43:06.478[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For overview-of-trees/ is : Passed
+[INFO ]2023-12-0307:43:06.479[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:43:13.408[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For terminologies/ is : Passed
+[INFO ]2023-12-0307:43:13.409[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:43:20.336[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-trees/ is : Passed
+[INFO ]2023-12-0307:43:20.337[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:43:27.408[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For tree-traversals/ is : Passed
+[INFO ]2023-12-0307:43:27.409[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:43:34.472[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversals-illustration/ is : Passed
+[INFO ]2023-12-0307:43:34.473[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:43:41.593[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For binary-trees/ is : Passed
+[INFO ]2023-12-0307:43:41.594[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:43:48.751[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-binary-trees/ is : Passed
+[INFO ]2023-12-0307:43:48.751[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:43:55.969[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-in-python/ is : Passed
+[INFO ]2023-12-0307:43:55.970[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0307:43:56.862[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For SignOut is : PASSED
+[INFO ]2023-12-0307:43:59.723[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0307:44:00.154[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0307:44:05.076[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0307:44:11.151[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0307:44:11.279[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0307:44:12.334[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0307:44:15.125[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-12-0307:44:15.544[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0307:44:20.470[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0307:44:26.672[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0307:44:26.823[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0307:44:28.013[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0307:44:39.964[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-12-0307:44:45.151[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:44:45.984[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-12-0307:44:48.423[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0307:44:48.859[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0307:44:49.388[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Bug reporting is : PASSED
+[ERROR]2023-12-0307:44:50.177[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Password should be at least 8 character long
+[ERROR]2023-12-0307:44:50.991[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Username already exist
+[INFO ]2023-12-0307:44:51.174[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For RegisterCred is : PASSED
+[INFO ]2023-12-0307:44:59.372[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dropdownmenu is : PASSED
+[INFO ]2023-12-0307:45:24.954[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>>>>> is Passed. Output is: SyntaxError: bad input on line 2
+[INFO ]2023-12-0307:45:38.423[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-12-0307:45:43.468[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0307:45:44.179[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-12-0413:44:07.435[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0413:44:08.062[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0413:44:13.088[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[ERROR]2023-12-0413:44:17.193[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Header Link : Actual :https://dsportalapp.herokuapp.com/Expected: https://dsportalapp.herokuapp.com/home
+[INFO ]2023-12-0413:44:18.700[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataStructure-Introduction is : PASSED
+[ERROR]2023-12-0413:44:18.700[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Reported on question page. No questions found on the page. Test Case: DataStructure-Introduction is : PASSED
+[INFO ]2023-12-0413:44:30.078[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:44:33.413[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : PASSED
+[INFO ]2023-12-0413:44:34.764[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0413:44:34.994[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0413:44:35.378[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : PASSED
+[INFO ]2023-12-0413:44:40.849[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: hello
+[INFO ]2023-12-0413:44:41.170[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : PASSED
+[INFO ]2023-12-0413:44:42.523[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[INFO ]2023-12-0413:44:42.751[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : PASSED
+[INFO ]2023-12-0413:44:49.861[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:44:50.227[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For introduction/ is : Passed
+[INFO ]2023-12-0413:44:50.230[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:44:56.952[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:44:57.287[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For creating-linked-list/ is : Passed
+[INFO ]2023-12-0413:44:57.288[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:45:04.127[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:45:04.391[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-linked-list/ is : Passed
+[INFO ]2023-12-0413:45:04.393[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:45:11.225[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:45:11.506[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implement-linked-list-in-python/ is : Passed
+[INFO ]2023-12-0413:45:11.509[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:45:18.122[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:45:18.480[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversal/ is : Passed
+[INFO ]2023-12-0413:45:18.481[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:45:25.251[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:45:25.623[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For insertion-in-linked-list/ is : Passed
+[INFO ]2023-12-0413:45:25.624[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:45:32.438[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:45:33.012[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For deletion-in-linked-list/ is : Passed
+[INFO ]2023-12-0413:45:33.013[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:45:33.700[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Stack page from the Data-Structures Dropdown is : PASSED
+[INFO ]2023-12-0413:45:34.402[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Redirect to try editor on Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0413:45:34.762[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Stack in Python page is : PASSED
+[INFO ]2023-12-0413:45:35.959[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0413:45:37.119[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Display Syntx Error Message is : PASSED
+[INFO ]2023-12-0413:45:37.903[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page is : PASSED
+[INFO ]2023-12-0413:45:39.014[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack operations page and get output is : PASSED
+[INFO ]2023-12-0413:45:39.583[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page is : PASSED
+[INFO ]2023-12-0413:45:40.559[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For User opens editor on Stack Application page and get output is : PASSED
+[INFO ]2023-12-0413:45:41.250[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page is : PASSED
+[INFO ]2023-12-0413:45:41.939[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the practice here page and sign out is : PASSED
+[INFO ]2023-12-0413:45:42.772[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Graphpage from homepage is : PASSED
+[INFO ]2023-12-0413:45:43.703[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Graph in Python page is : PASSED
+[INFO ]2023-12-0413:45:44.573[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the GraphRepresentations  from homepage is : PASSED
+[INFO ]2023-12-0413:45:45.277[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For open the Practice questions link is : PASSED
+[INFO ]2023-12-0413:45:48.260[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-lists/ is : Passed
+[INFO ]2023-12-0413:45:48.261[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:45:54.988[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-collections/ is : Passed
+[INFO ]2023-12-0413:45:54.988[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:46:01.809[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Implementation-array/ is : Passed
+[INFO ]2023-12-0413:46:01.811[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:46:08.627[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For QueueOp/ is : Passed
+[INFO ]2023-12-0413:46:08.628[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For LinkedList is : PASSED
+[INFO ]2023-12-0413:46:15.795[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For overview-of-trees/ is : Passed
+[INFO ]2023-12-0413:46:15.797[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0413:46:22.506[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For terminologies/ is : Passed
+[INFO ]2023-12-0413:46:22.506[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0413:46:29.462[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-trees/ is : Passed
+[INFO ]2023-12-0413:46:29.463[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0413:46:36.383[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For tree-traversals/ is : Passed
+[INFO ]2023-12-0413:46:36.383[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0413:46:43.270[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For traversals-illustration/ is : Passed
+[INFO ]2023-12-0413:46:43.271[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0413:46:50.391[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For binary-trees/ is : Passed
+[INFO ]2023-12-0413:46:50.392[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0413:46:57.309[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For types-of-binary-trees/ is : Passed
+[INFO ]2023-12-0413:46:57.315[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0413:47:04.272[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation-in-python/ is : Passed
+[INFO ]2023-12-0413:47:04.273[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Tree is : PASSED
+[INFO ]2023-12-0413:47:05.159[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For SignOut is : PASSED
+[INFO ]2023-12-0413:47:07.416[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0413:47:07.798[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0413:47:12.890[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0413:47:18.915[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0413:47:19.023[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0413:47:19.999[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0413:47:22.824[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2023-12-0413:47:23.242[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0413:47:28.278[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2023-12-0413:47:34.584[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2023-12-0413:47:34.731[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2023-12-0413:47:35.846[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2023-12-0413:47:47.742[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2023-12-0413:47:53.643[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:47:54.076[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2023-12-0413:47:56.690[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2023-12-0413:47:57.052[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2023-12-0413:47:57.508[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Bug reporting is : PASSED
+[ERROR]2023-12-0413:47:58.238[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Password should be at least 8 character long
+[ERROR]2023-12-0413:47:58.987[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on Register page : Actual :password_mismatch:The two password fields didn’t match.Expected: Username already exist
+[INFO ]2023-12-0413:47:59.173[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For RegisterCred is : PASSED
+[INFO ]2023-12-0413:48:07.276[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dropdownmenu is : PASSED
+[INFO ]2023-12-0413:48:32.080[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>>>>> is Passed. Output is: SyntaxError: bad input on line 2
+[INFO ]2023-12-0413:48:44.472[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
+[INFO ]2023-12-0413:48:49.331[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2023-12-0413:48:50.038[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
