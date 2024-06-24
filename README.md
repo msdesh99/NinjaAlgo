@@ -22,7 +22,6 @@ This repository contains a robust automation framework built from scratch using 
 - **Utilities**: Reusable functions for actions like reading test data, handling screenshots, etc.
 
 ### 2. Test Execution
-- **Parallel Testing**: Concurrent execution of tests to optimize test suite run time.
 - **Cross-browser Testing**: Support for testing across multiple browsers (Chrome, Firefox, etc.) for compatibility validation.
 
 ### 3. Reporting
