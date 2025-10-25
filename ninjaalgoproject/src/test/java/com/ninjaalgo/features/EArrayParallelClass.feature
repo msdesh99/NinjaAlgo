@@ -5,14 +5,7 @@ Feature: ArrayParallel module
 
   @arrayClass
   Scenario:ArrayClass
-    #Given Click Get Started button
-    #Then Click SignIn   
-    #Given Send Login "NinjaAlgo" with password "@Algo123"
-    #Then  click Login Password Submit
-    #Given verify "home" in Common
-		#And Quit Driver
-    #Then Verify currentUrl "home" and "start"
-    Then ClickOnArrayModule "Array"	
+   Then ClickOnArrayModule "Array"	
 		#Then Verify arraycurrentUrl "array/" and "module"
 		Then ClickInArray "Arrays in Python"
 		Then Verify arraycurrentUrl "array/" and "arrays-in-python/"

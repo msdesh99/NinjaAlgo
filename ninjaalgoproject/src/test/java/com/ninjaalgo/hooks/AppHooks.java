@@ -18,6 +18,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterClass;
 
 import com.ninjaalgo.driverfactory.DriverFactory;
+import com.ninjaalgo.listener.TestExecutionListener;
 import com.ninjaalgo.pages.LoginPage;
 import com.ninjaalgo.pages.StartPage;
 import com.ninjaalgo.steps.CommonSteps;
@@ -43,14 +44,14 @@ public class AppHooks extends AllActions{
 	public void beforeAll(Scenario scenario) throws Exception {
 	   configReader = new ConfigReader();
 	   prop = configReader.initializeProperties();	
-       System.out.println(System.getProperty("user.dir"));
 /*	   System.out.println("Current thread name: "+Thread.currentThread().getName());
 	   System.out.println("Current thread ID: "+Thread.currentThread().threadId());
 	   System.out.println("conf hook: "+ ConfigReader.getBrowserType());	
 */	     
     }
     
-@Before(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce or @arrayClass or @dataClass", order=1)
+//@Before(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce or @arrayClass or @dataClass", order=1)
+@Before(value = "@dataParallelSce or @arrayParallelSce or @arrayClass or @dataClass", order=1)
 	public void beforeParallel(Scenario scenario) throws Exception {
 	   DriverFactory driverFactory = new DriverFactory();
 	   //commonSteps = new CommonSteps();
@@ -69,10 +70,11 @@ public class AppHooks extends AllActions{
 	   loginPage.ClickSignIn();
 	   //loginPage = PageFactory.initElements(driver, LoginPage.class);
 	   loginPage.SetLoginCred(new String[] {"NinjaAlgo","@Algo123"});	
-
+	   
     }
 
-@After(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce", order=0)
+//@After(value = "@data2Parallel or @data1Parallel or @dataParallelSce or @arrayParallelSce", order=0)
+@After(value = "@dataParallelSce or @arrayParallelSce", order=0)
 public void afterParallel(Scenario scenario) throws Exception {
     DriverFactory.CloseDriver();
 }
@@ -90,12 +92,9 @@ public void set_up_drivers() throws Exception {
 @Before
 	public void before(Scenario scenario) throws Exception {
 	   String newUrl="";
-	   //System.out.println("tot sc: "+scenario.getSourceTagNames());
 	   String moduleName = scenario.getSourceTagNames().iterator().next();
-	   //System.out.println("modulename before: "+moduleName);
 	   if(moduleName.contentEquals("@arraySuite")||
 		  moduleName.contentEquals("@dataSuite")) {
-		   //moduleName = scenario.getSourceTagNames().iterator().next();
 			if(moduleName.contentEquals("@dataSuite"))
 				moduleName = "@data-structures-introduction";
 	            newUrl= GetNewUrl(moduleName);        
@@ -106,63 +105,49 @@ public void set_up_drivers() throws Exception {
 	
 public String GetNewUrl(String moduleName) {
 	      String newUrl="";
-			//System.out.println("module name getnewurl: "+moduleName.substring(1));
 			String moduleArr[] = moduleName.substring(1).split("Suite");
-            //System.out.println("module: "+ moduleArr[0]);
 			for(String moduleType: ConfigReader.getModules()) {
-				  // System.out.println(moduleType.split("Suite"));
 				   if(moduleType.contentEquals(moduleArr[0])) { 	
 						newUrl = moduleType;
-						//System.out.println("module: "+moduleArr[0]+"newurl: "+newUrl);
 					    break;
 					}
 			}
 	return newUrl;
 }
 public void SetDrivers() {
-
            WebDriver driver = DriverFactory.getDriver();
  		   driver.manage().window().maximize();
-	 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
+	 	   driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
 }
 
+/*
 //@After (value = "@arraySuite and @arraysUsingListSuite", order =0)
 @After ("(@arraySuite and @arraysUsingListSuite) or (@dataSuite and @TimeComplexitySuite)")
 
 public void teardown() {	
-
     //WebDriver driver = DriverFactory.getDriver();
   //  driver.quit();
   //  Quit_Driver(driver);
-} 	
+} 	*/
+
 @After(order = 0)
        public void after(Scenario scenario) throws HeadlessException, IOException, AWTException{
-	//@array, @arraysUsingList @data, @TimeComplexity @array, @arraysinPython]
-		//System.out.println("after scenario : "+ scenario.getSourceTagNames());
-
 	      LoggerLoad.info("<=====Test For "+ scenario.getName() + " is : "+ scenario.getStatus());	    
-			if(scenario.getName().contentEquals("Introduction")){
-			      LoggerLoad.error("<=====Bug Reported on data structure question page. No questions found on the page. Test Case: "+ scenario.getName() + " is : "+ scenario.getStatus());	
+			if(scenario.getName().contentEquals("DataStructure-Introduction")){
+			      LoggerLoad.error("<=====Bug Reported on question page. No questions found on the page. Test Case: "+ scenario.getName() + " is : "+ scenario.getStatus());	
 				     WebDriver driver = DriverFactory.getDriver();
 					 screenShot = new ScreenShot();
 					 screenShot.CatchScreenShot(scenario.getName(), driver);
+					 TestExecutionListener.saveScreenshot(scenario.getName(), driver);
+					 TestExecutionListener.saveTextLog("<=====Bug Reported on question page. No questions found on the page. Test Case: "
+					 		                         + scenario.getName() + " is : "+ scenario.getStatus());
 			}		     
 		 	  
-			if(scenario.getName().contentEquals("Introduction") || 
+	/*		if(scenario.getName().contentEquals("Introduction") || 
 					scenario.getName().contentEquals("Arrays-Using-List")) {
 				
 			     WebDriver driver = DriverFactory.getDriver();
-				//Quit_Driver(driver);
-				//if(driver.getCurrentUrl().contentEquals(ConfigReader.getBaseUrl().toString()+"/"+newUrl+"/"))
-				//Quit_Driver(driver);
-			}
-			/*if(scenario.getName().contentEquals("RegisterCred")){
-			     WebDriver driver = DriverFactory.getDriver();
-				 driver.get(ConfigReader.getModuleUrl().toString());
 			}*/
 }
 
-		public void SwitchToChildWindow() {
-	
-		}
 }

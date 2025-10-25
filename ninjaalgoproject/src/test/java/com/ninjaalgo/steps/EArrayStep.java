@@ -3,6 +3,9 @@
 */
 package com.ninjaalgo.steps;
 
+import java.io.IOException;
+
+import org.json.simple.parser.ParseException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
@@ -10,6 +13,7 @@ import com.ninjaalgo.driverfactory.DriverFactory;
 import com.ninjaalgo.pages.ArrayPage;
 import com.ninjaalgo.pages.HomePage;
 import com.ninjaalgo.utils.ConfigReader;
+import com.ninjaalgo.utils.LoggerLoad;
 
 import io.cucumber.java.en.Then;
 
@@ -17,7 +21,6 @@ public class EArrayStep {
 	HomePage homePage;
 	ArrayPage arrayPage;
 	String parentUrl="";
-	//CommonSteps commonSteps;
 
 	@Then("ClickOnArrayModule {string}")
 	public void click(String string) throws Exception {
@@ -41,37 +44,48 @@ public class EArrayStep {
 	public void add_python_code(String string, String string2) throws Exception {
 	    WebDriver driver = DriverFactory.getDriver();
 		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
-		//arrayPage.TryPython(string);
 		arrayPage.TryPython();
+	}
+	@Then("Add Python-CSV code {string} {string}")
+	public void add_python_csv_code(String string, String string2) throws Exception {
+	    WebDriver driver = DriverFactory.getDriver();
+		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
+		arrayPage.TryPythonCSV();
+	}
+	@Then("Add Python-JSON code {string} {string}")
+	public void add_python_json_code(String string, String string2) throws IOException, ParseException {
+	    WebDriver driver = DriverFactory.getDriver();
+		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
+		arrayPage.TryPyhtonJson();
 
 	}
-/*	@Then("Add Python code {string}")
-	public void add_python_code(String string) throws Exception {
-		    WebDriver driver = DriverFactory.getDriver();
-			arrayPage = PageFactory.initElements(driver, ArrayPage.class);
-			//arrayPage.TryPython(string);
-			arrayPage.TryPython();
-	} */
+
 	@Then("Verify arraycurrentUrl {string} and {string}")
 	public void verify_arraycurrentUrl(String url, String type) {
 	    WebDriver driver = DriverFactory.getDriver();
 		arrayPage = PageFactory.initElements(driver, ArrayPage.class);
-
-		//commonSteps = new CommonSteps();
 		 if(type.contentEquals("module"))CommonSteps.VerifyURl(url);
 		 else CommonSteps.VerifyURl(url+type);
 	}
 	  
 	@Then("GoTO ArrayPage and {string}")
 	public void go_to_array_home_page_and(String string) {
-		  WebDriver driver = DriverFactory.getDriver();
+		    WebDriver driver = DriverFactory.getDriver();
 		    String url = ConfigReader.getBaseUrl().toString()+string;
 			driver.get(url);		
 	}
 	@Then("GoTO ArrayHomePage")
 	public void go_to_array_home_page() {
-		  WebDriver driver = DriverFactory.getDriver();
+		    WebDriver driver = DriverFactory.getDriver();
 			driver.get(ConfigReader.getModuleUrl().toString());
 	}
+	@Then("GoTo SubMenu Page {string} and {string} and logged status")
+	public void go_to_sub_menu_page_and_and_logged_status(String menu, String subMenu) {
+		    WebDriver driver = DriverFactory.getDriver();
+		    String url = ConfigReader.getBaseUrl().toString()+menu+subMenu;
+			driver.get(url);		
+			verify_arraycurrentUrl(menu.substring(1), subMenu);
+		    LoggerLoad.info("<=====Test For "+ subMenu + " is : Passed");	    
+ 	}
 
 }

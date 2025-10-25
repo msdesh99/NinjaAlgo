@@ -7,8 +7,13 @@ import org.testng.annotations.DataProvider;
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 
 //@RunWith(Cucumber.class)
+@Epic("Bugs Found on signIn page")
+@Severity(SeverityLevel.MINOR)
 @CucumberOptions(
 	  //  tags =("@openChrome or @signIn or dropdown"), //for register
 	    tags =("@openChrome or @registerBug"), //for register     
@@ -16,8 +21,11 @@ import io.cucumber.testng.CucumberOptions;
 	//	features = {"classpath:com/ninjaalgo/features"},
 		features = {"src/test/java/com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/datachrome",
+		plugin= {"pretty","summary",
+				"timeline: target/cucumber/datachrome",
 				"html:target/html/datachrome-output.html",
+				"json:target/cucumber/Bugreport.json",
+				"junit:target/cucumber/Bugreport.xml",
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" 	},
 		monochrome = true
 		) 

@@ -4,10 +4,6 @@
 Feature: DataParallel module
   @dataClass
   Scenario:DataClass 
-    #Given GetStarted
-    #Then SignIn   
-    #Given Login "NinjaAlgo" password "@Algo123"
-    #Then  Submit
     Given verify "home"
     Given ClickOnDataModule "Data Structures-Introduction"   
  		Then verify "data-structures-introduction/"

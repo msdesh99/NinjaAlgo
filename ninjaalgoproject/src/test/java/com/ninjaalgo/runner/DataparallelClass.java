@@ -14,8 +14,11 @@ import io.cucumber.testng.CucumberOptions;
 	//	features = {"classpath:com/ninjaalgo/features"},
 	    features = {"src/test/java/com/ninjaalgo/features"},
 	    glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber/datachrome",
+		plugin= {"pretty","summary",
+				"timeline: target/cucumber/datachrome",
 				"html:target/html/datachrome-output.html",
+				"json:target/cucumber/DataParallel.json",
+				"junit:target/cucumber/DataParallel.xml",
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
 				//"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},
 		monochrome = true

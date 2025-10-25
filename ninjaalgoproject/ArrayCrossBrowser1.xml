@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
    <classes>
       <class name="com.ninjaalgo.runner.ArrayChromeBrowser"/>
-      <class name="com.ninjaalgo.runner.ArrayEdgeBrowser"/>
+      <class name="com.ninjaalgo.runner.ArrayEdgeBrowser"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- TestSuiteCrossBrowser -->

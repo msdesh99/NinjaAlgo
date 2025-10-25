@@ -4,6 +4,9 @@
 package com.ninjaalgo.runner;
 
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Listeners;
+
+import com.ninjaalgo.listener.TestExecutionListener;
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
@@ -14,12 +17,16 @@ import io.cucumber.testng.CucumberOptions;
 	//  features = {"classpath:com/ninjaalgo/features"},
 		features = {"src/test/java/com/ninjaalgo/features"},
 		glue= {"com/ninjaalgo/steps","com/ninjaalgo/hooks"},
-		plugin= {"pretty","timeline: target/cucumber",
+		plugin= {"pretty","summary",
+				"timeline: target/cucumber",
 				"html:target/html/test-output.html",
+				"json:target/cucumber/DataStructureReport.json",
+				"junit:target/cucumber/DataStructureReport.xml",
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" 	
 				},
 		monochrome = true
 		) 
+@Listeners(TestExecutionListener.class)
 public class TestNGDataStructure extends AbstractTestNGCucumberTests {
 	@Override
 	@DataProvider(parallel = false)

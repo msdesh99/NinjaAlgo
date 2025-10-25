@@ -23,14 +23,12 @@ public class DDataParallelClassStep {
 
 	DataStructurePage dataStructurePage;
 	HomePage homePage;
-	//CommonSteps commonSteps;
 	WebDriver driver;
 	StartPage startPage;
 	public String currentUrl;
 	
 	@Given("GetStarted")
 	public void get_started() {
-		//DriverFactory.getDriver();
 		startPage = PageFactory.initElements(DriverFactory.getDriver(), StartPage.class);
 		startPage.ClickButton();
 	}
@@ -70,23 +68,11 @@ public class DDataParallelClassStep {
 
 	}
 
-	/*@Then("ClickLink {string}")
-	public void click_link(String string) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
-	}
-*/
 	@Then("ClickSubLink {string}")
 	public void click_sub_link(String string) {
 	    // Write code here that turns the phrase above into concrete actions
 	    throw new io.cucumber.java.PendingException();
 	}
-
-/*	@Then("Verify {string}")
-	public void verify(String string) {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
-	}*/
 
 	@Then("Verify currentUrlparallel {string}")
 	public void verify_current_urlparallel(String string) {
@@ -95,14 +81,14 @@ public class DDataParallelClassStep {
 	}
 
 
-@Then("Verify currentUrlparallel {string} and {string}")
-public void verify_current_urlparallel_and(String string, String string2) {
-	CommonSteps.verify_current_url_and(string, string2);
-}
-@Given("verifyparallel {string} in Common")
-public void verifyparallel_in_common(String string) {
-	CommonSteps.verify_in_common(string);
-
-}
+	@Then("Verify currentUrlparallel {string} and {string}")
+	public void verify_current_urlparallel_and(String string, String string2) {
+		CommonSteps.verify_current_url_and(string, string2);
+	}
+	
+	@Given("verifyparallel {string} in Common")
+	public void verifyparallel_in_common(String string) {
+		CommonSteps.verify_in_common(string);	
+	}
 
 }

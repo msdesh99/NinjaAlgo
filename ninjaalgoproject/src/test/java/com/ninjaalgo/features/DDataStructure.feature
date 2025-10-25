@@ -3,11 +3,11 @@
 @data
 Feature: DataStructure module
   @TimeComplexity
-  Scenario:Introduction
+  Scenario:DataStructure-Introduction
   Given ClickOnDataModule "Data Structures-Introduction"
  		Then Verify datacurrentUrl "data-structures-introduction/" and "module"
- 		#Then Select DropDown
- 		#Then Click Header
+ 		Then Select DropDown
+ 		Then Click Header
  		
  		Then ClickInData "Time Complexity"
   	Then ClickOnDataTopic "Time Complexity"

@@ -6,6 +6,7 @@ package com.ninjaalgo.utils;
 
 import java.time.Duration;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Set;
 
 import org.openqa.selenium.Alert;
@@ -62,9 +63,9 @@ public class AllActions {
 		return false;
 	  }
 	}
-	public void Quit_Driver(WebDriver driver) {
+/*	public void Quit_Driver(WebDriver driver) {
 		driver.quit();
-	}
+	}*/
     public static void DriverImpliciteWait(WebDriver driver) {
     	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
     }
@@ -200,4 +201,5 @@ public class AllActions {
 	   }
 		return null;	
 }
+	   
  }
