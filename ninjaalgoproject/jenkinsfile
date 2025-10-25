@@ -34,7 +34,7 @@ pipeline {
 
                 echo "í´¹ Checking out source code from Git..."
 
-                git branch: 'main', url: 'https://github.com/org-name/automation-framework.git'
+                git branch: 'presentation', url: 'https://github.com/msdesh99/NinjaAlgo.git'
 
             }
 
