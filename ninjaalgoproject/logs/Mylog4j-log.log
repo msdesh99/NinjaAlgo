@@ -750,3 +750,114 @@
 [INFO ]2023-12-0413:48:44.472[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : PASSED
 [INFO ]2023-12-0413:48:49.331[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
 [INFO ]2023-12-0413:48:50.038[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : PASSED
+[INFO ]2023-12-0611:10:47.693[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : UNDEFINED
+[INFO ]2023-12-0611:10:48.164[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : UNDEFINED
+[INFO ]2023-12-0611:10:48.301[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Terminologies from treepage is : UNDEFINED
+[INFO ]2023-12-0611:10:48.427[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : UNDEFINED
+[INFO ]2023-12-0611:10:48.516[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : UNDEFINED
+[INFO ]2023-12-0611:10:48.633[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : UNDEFINED
+[INFO ]2023-12-0611:10:48.786[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : UNDEFINED
+[INFO ]2023-12-0611:10:48.945[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : UNDEFINED
+[INFO ]2023-12-0611:10:49.144[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : UNDEFINED
+[INFO ]2023-12-0611:10:49.260[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : UNDEFINED
+[INFO ]2023-12-0611:10:49.346[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : UNDEFINED
+[INFO ]2023-12-0611:10:49.465[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : UNDEFINED
+[INFO ]2023-12-0611:10:49.554[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : UNDEFINED
+[INFO ]2023-12-0611:10:49.653[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : UNDEFINED
+[INFO ]2023-12-0611:10:49.740[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : UNDEFINED
+[INFO ]2023-12-0611:10:49.842[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation of practicequestions from treepage is : UNDEFINED
+[INFO ]2023-12-0611:35:06.295[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2023-12-0611:35:06.703[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:35:06.818[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Terminologies from treepage is : FAILED
+[INFO ]2023-12-0611:35:06.941[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:35:07.055[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:35:07.170[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:35:07.293[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:35:07.483[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:35:07.581[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:35:07.714[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:35:07.789[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:35:07.890[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:35:07.973[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:35:08.076[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:35:08.200[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:35:08.290[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For implementation of practicequestions from treepage is : FAILED
+[INFO ]2023-12-0611:36:43.506[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2023-12-0611:36:43.826[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:36:43.898[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Terminologies from treepage is : FAILED
+[INFO ]2023-12-0611:36:43.998[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:36:44.063[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:36:44.136[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:38:22.873[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2023-12-0611:38:23.257[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:38:23.343[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Terminologies from treepage is : FAILED
+[INFO ]2023-12-0611:38:23.463[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:38:23.559[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:38:23.663[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:40:38.375[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2023-12-0611:40:38.425[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:40:38.462[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Terminologies from treepage is : FAILED
+[INFO ]2023-12-0611:40:38.489[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0611:40:38.516[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Types of Trees from treepage is : FAILED
+[INFO ]2023-12-0611:40:38.537[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Tree in Python page is : FAILED
+[INFO ]2023-12-0613:17:54.113[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2023-12-0613:19:15.883[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2023-12-0613:21:41.221[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2023-12-0614:07:46.808[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2023-12-0614:09:45.347[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the treepage from homepage is : FAILED
+[INFO ]2024-03-2013:14:14.302[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2013:14:20.522[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : FAILED
+[INFO ]2024-03-2013:16:12.049[TestNG-test=Test Data-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For DataClass is : FAILED
+[INFO ]2024-03-2013:16:24.068[TestNG-test=Test Data-2]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArrayClass is : FAILED
+[INFO ]2024-03-2521:24:56.772[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For chrome browser is : PASSED
+[INFO ]2024-03-2521:24:57.493[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2024-03-2521:25:02.584[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2024-03-2521:25:09.797[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2024-03-2521:25:09.926[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2024-03-2521:25:11.345[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2024-03-2521:25:56.460[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2024-03-2521:25:56.676[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2024-03-2521:25:56.711[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2024-03-2521:25:56.749[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2024-03-2521:27:04.269[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Graphpage from homepage is : FAILED
+[INFO ]2024-03-2521:27:04.467[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the Implementation of Graph in Python page is : FAILED
+[INFO ]2024-03-2521:27:04.523[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Open the GraphRepresentations  from homepage is : FAILED
+[INFO ]2024-03-2521:27:04.576[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For open the Practice questions link is : FAILED
+[INFO ]2024-03-2521:27:47.038[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For For edge browser is : PASSED
+[INFO ]2024-03-2521:27:47.617[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Get Started is : PASSED
+[INFO ]2024-03-2521:27:52.813[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Login Credentials is : PASSED
+[INFO ]2024-03-2521:27:59.522[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Practice>>> is Passed. Output is: SyntaxError: bad input on line 1
+[ERROR]2024-03-2521:27:59.667[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Bug Found on SubmitButtonOnEveryPracticePage : Actual :Error occured During Submission.Expected: Not working Properly
+[INFO ]2024-03-2521:28:00.927[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPythonSuite is : PASSED
+[INFO ]2024-03-2521:28:42.424[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2521:28:45.902[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : FAILED
+[INFO ]2024-03-2521:29:06.796[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2024-03-2521:29:07.001[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2024-03-2521:29:07.036[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2024-03-2521:29:07.074[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2024-03-2522:06:52.693[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For ArraysinPython is : FAILED
+[INFO ]2024-03-2522:06:52.878[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Arrays-Using-List is : FAILED
+[INFO ]2024-03-2522:06:52.912[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Basic-Operations-in-Lists is : FAILED
+[INFO ]2024-03-2522:06:52.945[main]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Applications-Of-Array is : FAILED
+[INFO ]2024-03-2522:11:20.950[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2522:11:27.926[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2024-03-2522:11:28.766[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2024-03-2522:12:27.453[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2522:12:34.373[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2024-03-2522:12:35.410[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2024-03-2522:22:12.003[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2522:22:18.965[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2024-03-2522:22:19.963[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2024-03-2522:25:53.049[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2522:25:53.049[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2024-03-2522:26:56.287[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2522:26:59.830[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : FAILED
+[INFO ]2024-03-2522:27:49.428[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2522:27:56.612[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2024-03-2522:28:33.077[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : PASSED
+[INFO ]2024-03-2522:28:40.028[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2024-03-2522:37:11.145[TestNG-PoolService-0]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For dataparallelsce1 is : FAILED
+[INFO ]2024-03-2522:37:14.712[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2024-03-2522:37:15.587[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED
+[INFO ]2024-03-2522:38:23.777[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For Try Here>>> is Passed. Output is: 564 is Number is Not Found
+[INFO ]2024-03-2522:38:24.776[TestNG-PoolService-1]com.ninjaalgo.utils.LoggerLoad1)-<=====Test For arrayparallelsce1 is : PASSED

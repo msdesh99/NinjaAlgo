@@ -1,0 +1,208 @@
+pipeline {
+
+    agent any
+
+
+    parameters {
+
+        choice(name: 'TEST_ENV', choices: ['dev', 'qa', 'staging'], description: 'Select the test environment')
+
+        booleanParam(name: 'RUN_PARALLEL', defaultValue: true, description: 'Run UI and API tests in parallel')
+
+    }
+
+
+    environment {
+
+        MAVEN_OPTS = '-Dmaven.test.failure.ignore=true'
+
+        REPORT_DIR = 'target/cucumber-reports'
+
+        ALLURE_RESULTS = 'target/allure-results'
+
+        SLACK_CHANNEL = '#automation-reports'
+
+    }
+
+
+    stages {
+
+
+        stage('Checkout Code') {
+
+            steps {
+
+                echo "Ì¥π Checking out source code from Git..."
+
+                git branch: 'main', url: 'https://github.com/org-name/automation-framework.git'
+
+            }
+
+        }
+
+
+        stage('Build') {
+
+            steps {
+
+                echo "Ì¥π Building project..."
+
+                sh 'mvn clean compile -DskipTests'
+
+            }
+
+        }
+
+
+        stage('Run Tests') {
+
+            steps {
+
+                script {
+
+                    if (params.RUN_PARALLEL) {
+
+                        echo "Ì¥π Running tests in parallel..."
+
+                        parallel(
+
+                            'API Tests': {
+
+                                retry(1) {
+
+                                    sh "mvn test -Dcucumber.filter.tags='@api' -Denv=${params.TEST_ENV}"
+
+                                }
+
+                            },
+
+                            'UI Tests': {
+
+                                retry(1) {
+
+                                    sh "mvn test -Dcucumber.filter.tags='@ui' -Denv=${params.TEST_ENV}"
+
+                                }
+
+                            }
+
+                        )
+
+                    } else {
+
+                        echo "Ì¥π Running regression suite sequentially..."
+
+                        sh "mvn test"
+
+                    }
+
+                }
+
+            }
+
+        }
+
+
+        stage('Publish Reports') {
+
+            steps {
+
+                echo "Ì≥ä Publishing reports..."
+
+                script {
+
+                    // ‚úÖ Cucumber HTML report
+
+                    publishHTML(target: [
+
+                        reportDir: "${REPORT_DIR}",
+
+                        reportFiles: 'index.html',
+
+                        reportName: 'Cucumber HTML Report'
+
+                    ])
+
+
+                    // ‚úÖ Allure report (optional)
+
+                    allure([
+
+                        includeProperties: false,
+
+                        results: [[path: "${ALLURE_RESULTS}"]],
+
+                        reportBuildPolicy: 'ALWAYS'
+
+                    ])
+
+                }
+
+            }
+
+        }
+
+
+        stage('Post Actions') {
+
+            steps {
+
+                script {
+
+                    echo "Ì¥î Sending notifications..."
+
+
+                    // ‚úÖ Slack Notification (optional)
+
+                    slackSend(
+
+                        channel: "${SLACK_CHANNEL}",
+
+                        color: currentBuild.result == 'SUCCESS' ? 'good' : 'danger',
+
+                        message: "Build #${env.BUILD_NUMBER} - *${currentBuild.result}*/nProject: ${env.JOB_NAME}/nEnvironment: ${params.TEST_ENV}/n${env.BUILD_URL}"
+
+                    )
+
+
+                    // ‚úÖ Email Notification (optional)
+
+                    emailext(
+
+                        to: 'qa-team@example.com',
+
+                        subject: "Jenkins Build #${env.BUILD_NUMBER}: ${currentBuild.result}",
+
+                        body: "Environment: ${params.TEST_ENV}/nView report: ${env.BUILD_URL}"
+
+                    )
+
+                }
+
+            }
+
+        }
+
+    }
+
+
+    post {
+
+        always {
+
+            echo "Ì∑π Cleaning workspace..."
+
+            cleanWs()
+
+        }
+
+        failure {
+
+            echo "‚ùå Build failed! Please check logs and reports."
+
+        }
+
+    }
+
+}
+
